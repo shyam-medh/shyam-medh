@@ -30,7 +30,7 @@ One more thing I believes in lets create what doesn't exist ✨
   <a href="mailto:baranwal07shyam.com" target="_blank">
     <code><img height="46" width="52" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"></code>
   </a>
-  <a href="https://www.linkedin.com/in/baranwal07shyam/" target="_blank">
+  <a href="https://www.linkedin.com/in/shyambaranwal/" target="_blank">
     <code><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></code>
   </a>
   

@@ -89,9 +89,9 @@ One more thing I believes in lets create what doesn't exist ✨
 
 <!-- GeeksforGeeks -->
 <p align="center">
-  <a href="https://auth.geeksforgeeks.org/user/shyammedh/practice/">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=shyammedh&theme=dark" width="600" alt="GfG Stats"/>
-  </a>
+  <a href="https://www.geeksforgeeks.org/user/shyammedh/practice/">
+    <img src="https://geeks-for-geeks-stats-api.vercel.app/?username=shyammedh&theme=dark" width="600" alt="GfG Stats"/>
+  </a>
 </p>
 
 <!-- HackerRank -->

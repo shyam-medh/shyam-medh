@@ -45,7 +45,7 @@ One more thing I believes in lets create what doesn't exist ✨
 
 ### Tech stack
 - Languages: Java, Python, C  
-- Data: Pandas, NumPy, Matplotlib
+- Data: Pandas, NumPy
 - Tools: Notion, VSCode
 - Cloud: AWS Practitioner level knowledge   
 - Infra: GitHub Actions, Linux, SQL

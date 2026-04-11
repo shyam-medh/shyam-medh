@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Shyam Baranwal</h1>
 <p align="center">
-  Passionate about data related work, cloud and learning  AI .
+  Passionate about Devops/Cloud works .
 </p>
 
 <!-- Badges -->
@@ -44,11 +44,11 @@ One more thing I believes in lets create what doesn't exist ✨
 ---
 
 ### Tech stack
-- Languages: Java, Python, C  
-- Data: Pandas, NumPy
-- Tools: Notion, VSCode, VMWare
-- Cloud: AWS Practitioner level knowledge   
-- Infra: GitHub Actions, Linux, SQL
+- Languages: Java, Python, C, SQL, HTML/CSS
+- Frameworks/Libraries: Django, Java Swing, JDBC, Pandas, NumPy, Tkinter, Matplotlib, Psutil
+- Developer Tools: Git, GitHub, Docker, Kubernetes, Jenkins, Linux, Postman, VS Code
+- Cloud (AWS): VPC, EC2, S3, RDS, Auto Scaling, IAM, Lambda, ALB
+- Core Concepts: Data Structures, Algorithms, DBMS, OOP, Operating Systems, Computer Networks
 
 ---
 

@@ -259,7 +259,6 @@ Fun Facts   :
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=3&section=header" width="100%" />
 
 ---
 

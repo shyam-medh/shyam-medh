@@ -56,7 +56,7 @@ Domains     :
   - 🏗️  Systems & OOP          — Java Swing, JDBC, Data Structures
 
 Fun Facts   :
-  - 🏆  Google Big Code Round 2 — Top 1,500 globally out of 120,000+ geeks
+  - 🏆  Google Big Code Round 2 — Top 1,500 globally out of 15,000+ devs
   - 💻  Solved 800+ coding problems across DSA & competitive programming
   - ☁️  AWS Certified Cloud Architecting graduate
   - 🔥  Currently building end-to-end DevOps pipelines at production scale
@@ -359,7 +359,7 @@ Fun Facts   :
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-medh&bg_color=0d1117&color=7C3AED&line=7C3AED&point=F59E0B&area=true&area_color=7C3AED&hide_border=true" width="100%" />
+<img src="https://ghchart.rshah.org/7C3AED/shyam-medh" width="100%" alt="Shyam's Contribution Graph" />
 
 </div>
 

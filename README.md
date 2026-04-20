@@ -18,7 +18,7 @@ What fuels me:
 These new tech savy things, 
 Challenges when I solve the DSA problem
 
-I want to go in the direction of data field with the cloud
+I want to go in the direction of DevOps field with the cloud
 
 And I am always ready to colaborate, if you want I will be there
 

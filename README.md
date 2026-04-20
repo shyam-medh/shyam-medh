@@ -56,7 +56,7 @@ Domains     :
   - 🏗️  Systems & OOP          — Java Swing, JDBC, Data Structures
 
 Fun Facts   :
-  - 🏆  Google Big Code Round 2 — Top 1,500 globally out of 15,000+ devs
+  - 🏆  Google Big Code ' 2026 Round 2 — Top 1,500 globally out of 120,000+ devs
   - 💻  Solved 800+ coding problems across DSA & competitive programming
   - ☁️  AWS Certified Cloud Architecting graduate
   - 🔥  Currently building end-to-end DevOps pipelines at production scale
@@ -270,7 +270,7 @@ Fun Facts   :
 
 | 🏅 Achievement | Detail |
 |:---|:---|
-| 🌍 **Google Big Code — Round 2** | Ranked in **Top 1,500 globally** out of 15,000+ developers who cleared the Qualifier |
+| 🌍 **Google Big Code ' 2026 — Round 2** | Ranked in **Top 1,500 globally** out of 120,000+ developers who cleared the Qualifier |
 | 💡 **800+ Problems Solved** | 400+ dedicated DSA problems across multiple competitive platforms |
 | 🟡 **LeetCode — 190+ Problems** | Strong algorithmic problem-solving foundation |
 | ⭐ **HackerRank** | **5-Star badge in Java** · 3-Star in Python |

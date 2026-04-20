@@ -4,7 +4,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shyam%20Baranwal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Builder%20%7C%20Cloud%20%26%20DevOps%20%7C%20Full-Stack%20Dev&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header" width="100%" />
+
+# 👋 Hi, I'm Shyam Baranwal
+### Builder · Cloud & DevOps · Full-Stack Dev
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -388,7 +391,7 @@ Fun Facts   :
 
 <br/><br/>
 
-&nbsp; 📧 **baranwal07shyam@gmail.com**
+📧 **baranwal07shyam@gmail.com**
 
 </div>
 

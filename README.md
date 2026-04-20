@@ -253,12 +253,10 @@ Fun Facts   :
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-medh&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&text_color=ffffff&bg_color=0d1117&langs_count=8" width="42%" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shyam-medh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=3&section=header" width="100%" />
 
 ---
 

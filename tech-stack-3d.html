@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Shyam Baranwal — Tech Stack</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    background: #0d1117;
+    color: #e6edf3;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 20px;
+  }
+  h1 {
+    font-size: 22px;
+    font-weight: 600;
+    color: #a78bfa;
+    margin-bottom: 8px;
+    letter-spacing: -0.01em;
+  }
+  .subtitle {
+    font-size: 13px;
+    color: #6b7280;
+    margin-bottom: 40px;
+  }
+  .section-title {
+    font-size: 12px;
+    font-weight: 600;
+    color: #6b7280;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin: 28px 0 14px;
+    width: 100%;
+    max-width: 780px;
+    padding-left: 4px;
+  }
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    max-width: 780px;
+    width: 100%;
+    justify-content: flex-start;
+  }
+  .pill {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    border-radius: 999px;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: default;
+    border: 1px solid rgba(255,255,255,0.08);
+    background: rgba(255,255,255,0.03);
+    transition: transform 0.2s cubic-bezier(0.34,1.56,0.64,1), box-shadow 0.2s ease, background 0.2s ease, border-color 0.2s ease;
+    user-select: none;
+    position: relative;
+    overflow: hidden;
+  }
+  .pill::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    background: linear-gradient(135deg, rgba(255,255,255,0.06) 0%, transparent 60%);
+    pointer-events: none;
+  }
+  .pill:hover {
+    transform: translateY(-4px) scale(1.05);
+    box-shadow: 0 10px 28px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,255,255,0.12);
+  }
+  .dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    box-shadow: 0 0 6px currentColor;
+  }
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 14px;
+    max-width: 780px;
+    width: 100%;
+  }
+  .cert-card {
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 14px;
+    padding: 18px;
+    cursor: default;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    transform-style: preserve-3d;
+  }
+  .cert-card::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    background: linear-gradient(135deg, rgba(255,255,255,0.05) 0%, transparent 50%);
+    pointer-events: none;
+  }
+  .cert-badge-wrap {
+    width: 40px; height: 40px;
+    border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 22px;
+    margin-bottom: 12px;
+    border: 1px solid rgba(255,255,255,0.08);
+  }
+  .cert-name {
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.35;
+    margin-bottom: 4px;
+  }
+  .cert-issuer {
+    font-size: 11px;
+    color: #6b7280;
+    margin-bottom: 8px;
+  }
+  .cert-date {
+    font-size: 10px;
+    color: #374151;
+    background: rgba(255,255,255,0.06);
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 999px;
+    border: 1px solid rgba(255,255,255,0.08);
+  }
+  .ribbon {
+    position: absolute;
+    top: 12px; right: -2px;
+    background: #7c3aed;
+    color: white;
+    font-size: 9px;
+    font-weight: 700;
+    padding: 3px 10px;
+    border-radius: 3px 0 0 3px;
+    letter-spacing: 0.05em;
+  }
+  .shine {
+    position: absolute;
+    top: 0; left: -100%;
+    width: 50%; height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.04), transparent);
+    transition: left 0.5s ease;
+    pointer-events: none;
+  }
+  .cert-card:hover .shine { left: 150%; }
+</style>
+</head>
+<body>
+
+<h1>🚀 Shyam Baranwal</h1>
+<div class="subtitle">Python Developer · DevOps Engineer · Cloud Architect</div>
+
+<div class="section-title">💻 Languages</div>
+<div class="grid" id="lang"></div>
+
+<div class="section-title">🧩 Frameworks & Libraries</div>
+<div class="grid" id="frameworks"></div>
+
+<div class="section-title">⚙️ DevOps & Cloud</div>
+<div class="grid" id="devops"></div>
+
+<div class="section-title">🗄️ Databases & Tools</div>
+<div class="grid" id="db"></div>
+
+<div class="section-title">🏆 Certifications</div>
+<div class="card-grid" id="certs"></div>
+
+<script>
+const LANGS = [
+  { name: "Python", color: "#4B9CD3" },
+  { name: "Java", color: "#ED8B00" },
+  { name: "C", color: "#A8B9CC" },
+  { name: "SQL", color: "#00758F" },
+  { name: "HTML/CSS", color: "#E34F26" },
+  { name: "Bash", color: "#4EAA25" },
+];
+const FRAMEWORKS = [
+  { name: "Django", color: "#0C4B33" },
+  { name: "Pandas", color: "#130654" },
+  { name: "NumPy", color: "#013243" },
+  { name: "scikit-learn", color: "#F7931E" },
+  { name: "REST APIs", color: "#7c3aed" },
+  { name: "WebPusher", color: "#300D4F" },
+];
+const DEVOPS = [
+  { name: "Docker", color: "#2496ED" },
+  { name: "Kubernetes", color: "#326CE5" },
+  { name: "Jenkins", color: "#D33833" },
+  { name: "GitHub Actions", color: "#2088FF" },
+  { name: "AWS EC2", color: "#FF9900" },
+  { name: "AWS S3", color: "#569A31" },
+  { name: "AWS Lambda", color: "#FF9900" },
+  { name: "AWS RDS", color: "#527FFF" },
+  { name: "AWS CloudWatch", color: "#FF9900" },
+  { name: "Azure AZ-104", color: "#0078D4" },
+  { name: "CI/CD", color: "#a78bfa" },
+  { name: "Linux", color: "#FCC624" },
+];
+const DB = [
+  { name: "MySQL", color: "#4479A1" },
+  { name: "SQLite", color: "#003B57" },
+  { name: "Postman", color: "#FF6C37" },
+  { name: "Git", color: "#F05032" },
+  { name: "GitHub", color: "#e6edf3" },
+];
+
+function makePills(data, targetId) {
+  const wrap = document.getElementById(targetId);
+  data.forEach(({ name, color }) => {
+    const p = document.createElement("div");
+    p.className = "pill";
+    p.style.color = color;
+    p.innerHTML = `<span class="dot" style="background:${color};color:${color}"></span>${name}`;
+    p.addEventListener("mouseenter", () => {
+      p.style.background = color + "18";
+      p.style.borderColor = color + "55";
+    });
+    p.addEventListener("mouseleave", () => {
+      p.style.background = "rgba(255,255,255,0.03)";
+      p.style.borderColor = "rgba(255,255,255,0.08)";
+    });
+    wrap.appendChild(p);
+  });
+}
+makePills(LANGS, "lang");
+makePills(FRAMEWORKS, "frameworks");
+makePills(DEVOPS, "devops");
+makePills(DB, "db");
+
+const CERTS = [
+  { name: "Azure Administrator Associate", issuer: "Microsoft", date: "May 2026", badge: "🔷", color: "#60a5fa", ribbon: "AZ-104" },
+  { name: "Software Engineer Intern", issuer: "HackerRank", date: "Mar 2026", badge: "💚", color: "#4ade80" },
+  { name: "AWS Cloud Architecting", issuer: "Credly / AWS Academy", date: "Jan 2026", badge: "🟠", color: "#fb923c" },
+  { name: "AWS Cloud Computing Training", issuer: "GokBoru Tech", date: "Jul 2025", badge: "☁️", color: "#fbbf24" },
+  { name: "Prompt Engineering for ChatGPT", issuer: "Vanderbilt · Coursera", date: "Oct 2024", badge: "🎓", color: "#818cf8" },
+];
+
+const certWrap = document.getElementById("certs");
+CERTS.forEach(c => {
+  const card = document.createElement("div");
+  card.className = "cert-card";
+  card.innerHTML = `
+    <div class="shine"></div>
+    ${c.ribbon ? `<div class="ribbon">${c.ribbon}</div>` : ""}
+    <div class="cert-badge-wrap" style="background:${c.color}18;border-color:${c.color}33">${c.badge}</div>
+    <div class="cert-name" style="color:${c.color}">${c.name}</div>
+    <div class="cert-issuer">${c.issuer}</div>
+    <div class="cert-date">${c.date}</div>
+  `;
+  card.addEventListener("mousemove", e => {
+    const r = card.getBoundingClientRect();
+    const x = (e.clientX - r.left) / r.width - 0.5;
+    const y = (e.clientY - r.top) / r.height - 0.5;
+    card.style.transform = `perspective(600px) rotateX(${-y * 16}deg) rotateY(${x * 16}deg) translateZ(8px)`;
+    card.style.boxShadow = `${-x * 14}px ${y * 14}px 30px rgba(0,0,0,0.6), 0 0 0 1px ${c.color}33`;
+  });
+  card.addEventListener("mouseleave", () => {
+    card.style.transform = "";
+    card.style.boxShadow = "";
+  });
+  certWrap.appendChild(card);
+});
+</script>
+</body>
+</html>

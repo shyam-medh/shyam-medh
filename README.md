@@ -252,11 +252,11 @@ MySQL (Indexed + Normalized)
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  🌍  Big Code by Google '26 → TOP 1,500 out of 1,50,000+ globally   ║
+║  🌍  Big Code by Google '26 → TOP 1,500 out of 1,50,000+ globally    ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  💡  800+ Problems Solved  →  LeetCode · HackerRank · Codolio       ║
+║  💡  800+ Problems Solved  →  LeetCode · HackerRank · Codolio        ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  ⭐  HackerRank Ratings: 5-Star Java  ·  3-Star Python              ║
+║  ⭐  HackerRank Ratings: 5-Star Java  ·  3-Star Python               ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 

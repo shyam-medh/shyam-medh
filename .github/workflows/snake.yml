@@ -12,7 +12,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: shyam-medh
@@ -20,9 +20,12 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init
+          git config user.email "baranwal07shyam@gmail.com"
+          git config user.name "shyam-medh"
+          git checkout -b output
+          git add .
+          git commit -m "update snake animation"
+          git push --force "https://${{ secrets.GITHUB_TOKEN }}@github.com/shyam-medh/shyam-medh.git" output

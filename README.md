@@ -15,9 +15,9 @@
 <a href="https://linkedin.com/in/shyambaranwal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/shyam-medh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:baranwal07shyam@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/baranwal07shyam"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
-<a href="https://leetcode.com/u/shyambaranwal"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://codolio.com/profile/shyambaranwal"><img src="https://img.shields.io/badge/Codolio-800%2B%20Solved-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/shyam_medh"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
+<a href="https://leetcode.com/u/shyam-medh"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codolio.com/profile/Shyam_"><img src="https://img.shields.io/badge/Codolio-800%2B%20Solved-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -37,8 +37,8 @@ class ShyamBaranwal:
         self.role         = "Python Developer Intern @ Zapuza Technology"
         self.location     = "Phagwara, Punjab, India 🇮🇳"
         self.expertise    = ["Backend Development", "DevOps & CI/CD", "Cloud Architecture"]
-        self.currently    = "Shipping production-grade CI/CD pipelines on AWS ⚙️"
-        self.ask_me_about = ["Django", "Docker", "AWS", "Java", "DSA"]
+        self.currently    = "Learning and Building and Deploying Projects... ⚙️"
+        self.ask_me_about = ["Java", "Docker", "K8s", "Jenkins", "AWS", "Django", "DSA"]
         self.fun_fact     = "Solved 800+ DSA problems & still debug with print() 😄"
         self.goals_2026   = ["AZ-104 ✅", "AWS Solutions Architect", "Open Source"]
 
@@ -59,22 +59,18 @@ me.say_hi()
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frameworks & Backend**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 **DevOps & Cloud**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -93,10 +89,9 @@ me.say_hi()
 **Databases & Tools**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-FF9A00?style=for-the-badge&logo=apachetomcat&logoColor=white)
 
 </div>
 
@@ -190,7 +185,7 @@ me.say_hi()
 
 ### 🔄 DevOps CI/CD Pipeline Automation
 
-> **Django App · Apr 2026** &nbsp; [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/shyam-medh)
+> **Django App · Apr 2026** &nbsp; [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/shyam-medh/devops-1-django-app)
 
 ```
 GitHub Push
@@ -218,7 +213,7 @@ Docker Compose Deploy 🚀
 
 ### 🎓 Role-Based Student Management System
 
-> **Java · Aug 2025** &nbsp; [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/shyam-medh)
+> **Java · Aug 2025** &nbsp; [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/shyam-medh/Library-Management-Sys)
 
 ```
 Java Swing UI Layer
@@ -249,13 +244,13 @@ MySQL (Indexed + Normalized)
 
 <div align="center">
 
-|                                                     🎖️                                                      | Certification                                           |    Issuer    |   Date   | Link |
-| :---------------------------------------------------------------------------------------------------------: | ------------------------------------------------------- | :----------: | :------: | :--: |
-| ![Azure](https://img.shields.io/badge/AZ--104-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Administrator Associate**  |  Microsoft   | May 2026 | [🔗](https://learn.microsoft.com/en-us/users/shyambaranwal/credentials/) |
-|  ![HackerRank](https://img.shields.io/badge/SWE-00EA64?style=flat-square&logo=hackerrank&logoColor=black)   | **Software Engineer Intern Certification**              |  HackerRank  | Mar 2026 | [🔗](https://www.hackerrank.com/certificates/iframe/software_engineer_intern) |
-|      ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)       | **AWS Academy Graduate – Cloud Architecting**           |    Credly    | Jan 2026 | [🔗](https://www.credly.com/users/shyam-baranwal) |
-|    ![AWS](https://img.shields.io/badge/Training-FF9900?style=flat-square&logo=amazonaws&logoColor=black)    | **6-Week AWS Cloud Computing Training**                 | GokBoru Tech | Jul 2025 | [🔗](https://gokboru.com) |
-|  ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)  | **Prompt Engineering for ChatGPT** _(Vanderbilt Univ.)_ |   Coursera   | Oct 2024 | [🔗](https://www.coursera.org/account/accomplishments) |
+|                                                     🎖️                                                      | Certification                                           |    Issuer    |   Date   |                                             Link                                              |
+| :---------------------------------------------------------------------------------------------------------: | ------------------------------------------------------- | :----------: | :------: | :-------------------------------------------------------------------------------------------: |
+| ![Azure](https://img.shields.io/badge/AZ--104-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Administrator Associate**  |  Microsoft   | May 2026 | [🔗](https://learn.microsoft.com/en-us/users/shyambaranwal-1125/credentials/86bf1679744cfc9f) |
+|  ![HackerRank](https://img.shields.io/badge/SWE-00EA64?style=flat-square&logo=hackerrank&logoColor=black)   | **Software Engineer Intern Certification**              |  HackerRank  | Mar 2026 |                  [🔗](https://www.hackerrank.com/certificates/1e81101b758b)                   |
+|      ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)       | **AWS Academy Graduate – Cloud Architecting**           |    Credly    | Jan 2026 |  [🔗](https://www.credly.com/badges/d6ea1d52-73c4-4fa6-b7a1-b598be85b4c7/linked_in_profile)   |
+|    ![AWS](https://img.shields.io/badge/Training-FF9900?style=flat-square&logo=amazonaws&logoColor=black)    | **6-Week AWS Cloud Computing Training**                 | GokBoru Tech | Jul 2025 |         [🔗](https://drive.google.com/file/d/1L3w9homI4UxIJAkaqI07-wkvVzWVYaTR/view)          |
+|  ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)  | **Prompt Engineering for ChatGPT** _(Vanderbilt Univ.)_ |   Coursera   | Oct 2024 |          [🔗](https://www.coursera.org/account/accomplishments/verify/EGSNQQXF8E64)           |
 
 </div>
 
@@ -308,31 +303,3 @@ MySQL (Indexed + Normalized)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2d1b69,100:0d1117&height=130&section=footer&animation=twinkling"/>
 
 </div>
-
----
-
-<details>
-<summary>⚙️ <b>Setup Guide — Activate Live 3D Graph + Snake</b></summary>
-
-<br/>
-
-### 1. Create your Profile Repository
-
-Create a GitHub repo named exactly `shyam-medh` (same as your username).
-
-### 2. Commit all files
-
-Place `README.md`, `tech-stack-3d.svg`, `contrib-3d.svg`, and the `.github/workflows/` folder into the repo root.
-
-### 3. Run GitHub Actions (first time)
-
-Go to **Actions tab** → run `Generate Snake Animation` → run `GitHub-Profile-3D-Contrib`
-
-### 4. After workflows run:
-
-- Snake appears at `output` branch → auto-linked in README ✅
-- Live 3D contrib graph saves to `./profile-3d-contrib/profile-night-rainbow.svg` ✅
-
-All auto-refresh every 24 hours. 🎉
-
-</details>

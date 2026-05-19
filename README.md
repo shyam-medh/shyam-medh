@@ -1,397 +1,377 @@
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                        HERO / HEADER SECTION                         -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header" width="100%" />
+<!-- ═══════════════════════════ ANIMATED 3D HEADER ═══════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a0533,60:2d1b69,100:7c3aed&height=250&section=header&text=SHYAM%20BARANWAL&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=a78bfa&strokeWidth=2&desc=Python%20Developer%20%E2%80%A2%20DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect&descAlignY=68&descSize=17&descColor=c4b5fd"/>
 
-# 👋 Hi, I'm Shyam Baranwal
-### Builder · Cloud & DevOps · Full-Stack Dev
-
-<!-- Typing Animation -->
+<!-- ═══════════════════════════ ANIMATED TYPING ═══════════════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Python+%26+Java+Developer+%F0%9F%90%8D%E2%98%95;AWS+Cloud+Architect+%E2%98%81%EF%B8%8F;CI%2FCD+%26+DevOps+Engineer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%AD%90;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=A78BFA&center=true&vCenter=true&random=false&width=700&height=50&lines=%F0%9F%9A%80+Building+Scalable+Backend+Systems;%E2%9A%99%EF%B8%8F+Automating+Everything+with+CI%2FCD;%E2%98%81%EF%B8%8F+Cloud-Native+%7C+AWS+%26+Azure+Certified;%F0%9F%94%A5+800%2B+DSA+Problems+Solved;%F0%9F%8F%86+Top+1%2C500+%7C+Big+Code+by+Google+%2726;%E2%9C%A8+Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shyambaranwal)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyam-medh)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baranwal07shyam@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-190%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5★%20Java-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
-
-<br/>
-
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=shyam-medh&label=Profile+Views&color=7C3AED&style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/shyam-medh?label=Followers&style=flat-square&color=7C3AED" />
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT ME SECTION                            -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=3&section=header" width="100%" />
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; About Me
-
-```yaml
-Name        : Shyam Baranwal
-Role        : Python Developer Intern @ Zapuza Technology
-Education   : B.Tech CSE, Lovely Professional University (2023–2027)
-Location    : India 🇮🇳
-Status      : Actively seeking Summer/Full-time Opportunities 🚀
-
-Domains     :
-  - ☁️  Cloud Architecture (AWS) — VPC, EC2, S3, RDS, Auto Scaling, Lambda
-  - 🔁  DevOps & CI/CD         — Jenkins, Docker, Kubernetes, Linux
-  - 🌐  Backend Development    — Django, Python, Java, REST APIs
-  - 🏗️  Systems & OOP          — Java Swing, JDBC, Data Structures
-
-Fun Facts   :
-  - 🏆  Google Big Code '26 Round 2 — Top 1,500 globally out of 120,000+ devs
-  - 💻  Solved 800+ coding problems across DSA & competitive programming
-  - ☁️  AWS Certified Cloud Architecting graduate
-  - 🔥  Currently building end-to-end DevOps pipelines at production scale
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=3&section=header" width="100%" />
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                        TECH SKILLS SECTION                           -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" /> &nbsp; Technical Arsenal
-
-### 💻 Languages
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
----
-
-### 🧰 Frameworks & Libraries
-
-<div align="center">
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
----
-
-### ☁️ Cloud — AWS
-
-<div align="center">
-
-![AWS EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![AWS S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![AWS IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Auto Scaling](https://img.shields.io/badge/Auto%20Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ALB](https://img.shields.io/badge/ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
-
----
-
-### 🛠️ DevOps & Developer Tools
-
-<div align="center">
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=3&section=header" width="100%" />
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                        EXPERIENCE SECTION                            -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp; Work Experience
-
-<table width="100%">
-<tr>
-<td width="6%" align="center">🏢</td>
-<td width="94%">
-
-### Python Developer Intern — **Zapuza Technology** &nbsp; `Nov 2025 – Present` &nbsp; 🟢 Active
-
-> *Remote · Python · Django · WebSocket · AJAX · MySQL*
-
-- 🔗 Built a **consolidated service details + invoice view** using Django that unified 3+ data sources into one interface — slashing client lookup time by **50%**
-- 📣 Engineered **real-time push notifications** via WebPusher, boosting user engagement by **25%** across 100+ live users
-- ⚡ Designed a **dynamic 7-criteria AJAX task filter** enabling **3× faster result retrieval** compared to the old manual workflow
-- 🐛 Led attendance module QA across **15+ edge-case scenarios**, catching **8 critical bugs** before they hit production
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=3&section=header" width="100%" />
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                       FEATURED PROJECTS                              -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; Featured Projects
-
-<details open>
-<summary><b>🚀 Automated CI/CD Pipeline for Django App</b> &nbsp;|&nbsp; <code>Apr 2026</code></summary>
-
-<br/>
-
-> **The hero project** — A production-grade, fully automated DevOps pipeline built from scratch.
-
-| Category | Detail |
-|---|---|
-| 🔧 **Stack** | AWS EC2 · Jenkins · Docker · Docker Compose · Django · Linux |
-| 🏗️ **Architecture** | Jenkins master-agent setup on EC2 with multistage Docker builds |
-| ⚡ **Impact** | Cut deployment time by **75%** · **99.9% build success rate** across 50+ weekly builds |
-| 🔒 **Security** | Automated `.env` secrets management, eliminated config errors by **95%** |
-| 🧪 **Testing** | Automated Django `manage.py` tests across remote Jenkins agents with artifact archiving |
-
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyam-medh)
-
-</details>
-
----
-
-<details open>
-<summary><b>☁️ Scalable Food Delivery Tracking System</b> &nbsp;|&nbsp; <code>May 2025</code></summary>
-
-<br/>
-
-> **Cloud-native, production-scale multi-tier architecture on AWS.**
-
-| Category | Detail |
-|---|---|
-| 🔧 **Stack** | AWS VPC · EC2 · S3 · RDS · Auto Scaling · IAM · ALB · PHP 8.1 · MySQL · Apache |
-| 🏗️ **Architecture** | Multi-tier VPC with public/private subnet separation, ALB for traffic distribution |
-| 👥 **Scale** | Handles **1,000+ concurrent users** with auto scaling during peak demand |
-| ⚡ **Performance** | **1.2s** response time · supports **35% more users** during peak hours |
-| 🔒 **Security** | IAM roles · SSE-S3 encryption · RDS security groups → **99.9% uptime** |
-
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyam-medh)
-
-</details>
-
----
-
-<details open>
-<summary><b>🏫 Student Management System</b> &nbsp;|&nbsp; <code>Aug 2025</code></summary>
-
-<br/>
-
-> **Enterprise-grade desktop application — full RBAC, normalized DB, real-time UI.**
-
-| Category | Detail |
-|---|---|
-| 🔧 **Stack** | Java Swing · JDBC · MySQL |
-| 🏗️ **Architecture** | Modular MVC design with RBAC + data validation layers |
-| 📊 **Data** | Normalized MySQL DB with indexed queries & custom views for **500+ student records** |
-| 🔒 **Security** | Role-Based Access Control → **30% reduction** in data-entry errors |
-| 🤖 **Automation** | Digitized paper-based campus workflows → cut manual labor by **40%** |
-
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyam-medh)
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=3&section=header" width="100%" />
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                         GITHUB STATS                                 -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp; GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-medh&theme=tokyonight&hide_border=true&stroke=7C3AED&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=shyam-medh&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=F59E0B&text_color=ffffff&bg_color=0d1117" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-medh&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&text_color=ffffff&bg_color=0d1117&langs_count=8" width="42%" />
-
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=3&section=header" width="100%" />
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                       ACHIEVEMENTS SECTION                           -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp; Achievements & Competitive Programming
-
-<div align="center">
-
-| 🏅 Achievement | Detail |
-|:---|:---|
-| 🌍 **Google Big Code '26 — Round 2** | Ranked in **Top 1,500 globally** out of 120,000+ developers who cleared the Qualifier |
-| 💡 **800+ Problems Solved** | 400+ dedicated DSA problems across multiple competitive platforms |
-| 🟡 **LeetCode — 190+ Problems** | Strong algorithmic problem-solving foundation |
-| ⭐ **HackerRank** | **5-Star badge in Java** · 3-Star in Python |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=3&section=header" width="100%" />
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                      CERTIFICATIONS SECTION                          -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## 📜 &nbsp; Certifications
-
-<div align="center">
-
-| Badge | Certification | Issuer |
-|:---:|:---|:---|
-| ☁️ | **AWS Academy Graduate — Cloud Architecting** | Amazon Web Services / Credly |
-| 💼 | **Software Engineer Intern Certified** | HackerRank |
-| 🔧 | **6-Week AWS Cloud Computing Training** | Gokboru Tech Pvt. Ltd. |
-| 🤖 | **Prompt Engineering for ChatGPT** | Coursera — Vanderbilt University |
-| 🌐 | **Responsive Web Design** | freeCodeCamp |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=3&section=header" width="100%" />
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                     INTERESTS / MULTI-DOMAIN                         -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## 🌐 &nbsp; Domains I'm Passionate About
-
-<div align="center">
-
-```
-🔁  DevOps & Automation     →  CI/CD · Jenkins · Docker · Kubernetes
-☁️  Cloud Architecture      →  AWS Multi-Tier · Scalable Infra · Serverless
-🌐  Backend Engineering     →  Django REST APIs · Python · Java Systems
-📊  Data & Analytics        →  Pandas · NumPy · Matplotlib · SQL Tuning
-🔐  Security & IAM          →  RBAC · Encryption · IAM Policies · VPC Design
-🧩  Problem Solving         →  DSA · Competitive Programming · System Design
-```
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=3&section=header" width="100%" />
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                        EDUCATION SECTION                             -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## 🎓 &nbsp; Education
-
-<table width="100%">
-<tr>
-<td>
-
-**🏛️ Lovely Professional University** — Phagwara, Punjab
-📖 B.Tech in Computer Science & Engineering
-📅 August 2023 – Present
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=3&section=header" width="100%" />
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                       ACTIVITY GRAPH                                 -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                         CONNECT SECTION                              -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## 🤝 &nbsp; Let's Connect & Build Together
-
-<div align="center">
-
-> 💡 *I'm always open to exciting opportunities, collaborations, and conversations around Cloud, DevOps, and Backend Engineering.*
-
+<!-- ═══════════════════════════ SOCIAL BADGES ═══════════════════════════ -->
 <a href="https://linkedin.com/in/shyambaranwal">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
-<a href="mailto:baranwal07shyam@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
 <a href="https://github.com/shyam-medh">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:baranwal07shyam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.hackerrank.com/">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+<a href="https://codolio.com/">
+  <img src="https://img.shields.io/badge/Codolio-800%2B%20Solved-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-📧 **baranwal07shyam@gmail.com**
+![Profile Views](https://komarev.com/ghpvc/?username=shyam-medh&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/shyam-medh?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=Followers)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                           FOOTER WAVE                                -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
+
+## 🧠 About Me
+
+```python
+class ShyamBaranwal:
+    def __init__(self):
+        self.name        = "Shyam Baranwal"
+        self.role        = "Python Developer Intern @ Zapuza Technology"
+        self.location    = "Phagwara, Punjab, India 🇮🇳"
+        self.expertise   = ["Backend Development", "DevOps & CI/CD", "Cloud Architecture"]
+        self.currently   = "Shipping production-grade CI/CD pipelines on AWS ⚙️"
+        self.ask_me_about = ["Django", "Docker", "AWS", "Java", "DSA"]
+        self.fun_fact    = "I've solved 800+ DSA problems and still debug with print() 😄"
+        self.goals_2026  = ["AZ-104 ✅", "AWS Solutions Architect", "Open Source contributions"]
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something amazing together 🚀")
+
+me = ShyamBaranwal()
+me.say_hi()
+```
+
+---
+
+<!-- ═══════════════════════════ 3D CONTRIBUTION GRAPH ═══════════════════════════ -->
+
+## 📊 3D Contribution Graph
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%" />
+> ⚡ **Auto-updated daily** via GitHub Actions · Powered by [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
 
-*⭐ If you find my work interesting, consider starring my repositories — it means a lot!*
+<!-- Light Mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</picture>
 
 </div>
+
+---
+
+<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/shyam-medh">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=shyam-medh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=7c3aed" alt="Shyam's GitHub Stats"/>
+</a>
+<a href="https://github.com/shyam-medh">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-medh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" alt="Top Languages"/>
+</a>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shyam-medh&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ ACTIVITY GRAPH ═══════════════════════════ -->
+
+## 🌐 Activity Graph
+
+<div align="center">
+
+[![Shyam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shyam-medh&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=2d1b69&hide_border=true&custom_title=Shyam%27s%20Contribution%20Timeline&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql,html,css&theme=dark&perline=6" />
+
+### 🧩 Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=django,pandas,numpy,sklearn&theme=dark&perline=6" />
+
+### ⚙️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,linux,postman,git,github&theme=dark&perline=8" />
+
+### ☁️ Cloud
+<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark&perline=6" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark&perline=6" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- AWS Services Pills -->
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![ALB](https://img.shields.io/badge/ALB-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Auto Scaling](https://img.shields.io/badge/Auto%20Scaling-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
+
+## 💼 Work Experience
+
+<div align="center">
+<img src="https://img.shields.io/badge/%F0%9F%92%9C%20Zapuza%20Technology-Python%20Developer%20Intern-7C3AED?style=for-the-badge&labelColor=1a0533"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%93%85%20Nov%202025-Present-a78bfa?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Remote-India-c4b5fd?style=for-the-badge&labelColor=0d1117"/>
+</div>
+
+<br/>
+
+```
+📌 Django  ·  WebPusher  ·  AJAX  ·  Python  ·  REST APIs
+```
+
+| Impact | Description |
+|--------|-------------|
+| ⚡ **50% faster** lookup | Built service details + invoice page merging **3+ data sources** into a single Django view |
+| 📣 **+25% engagement** | Implemented real-time push notifications via **WebPusher** across 100+ active users |
+| 🔍 **3× faster retrieval** | Developed multi-criteria due-task filter **(7+ filters)** using AJAX over manual workflow |
+| 🐛 **8 critical bugs** caught | Tested attendance module across **15+ edge cases** before production deployment |
+
+---
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+
+## 🏗️ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 DevOps CI/CD Pipeline Automation
+> **Django App · Apr 2026** &nbsp; [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/shyam-medh)
+
+```
+┌─────────────────────────────────────┐
+│  GitHub Push                        │
+│       ↓                             │
+│  Jenkins Master (AWS EC2)           │
+│       ↓                             │
+│  Jenkins Agent → NPM + pip build    │
+│       ↓                             │
+│  Docker Multistage Build            │
+│       ↓                             │
+│  Django manage.py Tests ✅          │
+│       ↓                             │
+│  Docker Compose Deploy 🚀           │
+└─────────────────────────────────────┘
+```
+
+**Impact Metrics:**
+- 🚀 **75%** reduction in deployment time
+- ✅ **99.9%** build success rate
+- 🔒 **95%** fewer config errors
+- 📦 Supports **50+ weekly builds**
+
+`AWS EC2` `Jenkins` `Docker` `CI/CD` `Django` `Linux`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Role-Based Student Management System
+> **Java · Aug 2025** &nbsp; [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/shyam-medh)
+
+```
+┌─────────────────────────────────────┐
+│  Java Swing UI Layer                │
+│       ↓                             │
+│  RBAC Middleware                    │
+│  (Admin / Faculty / Student)        │
+│       ↓                             │
+│  JDBC Connection Pool               │
+│       ↓                             │
+│  MySQL (Indexed + Normalized)       │
+│  500+ Student Records 🗄️            │
+└─────────────────────────────────────┘
+```
+
+**Impact Metrics:**
+- ⚡ **40%** less manual labor
+- 🔒 **30%** fewer data-entry errors
+- 📊 Handles **500+** student records
+- 🛡️ Full RBAC + session security
+
+`Java Swing` `JDBC` `MySQL` `RBAC`
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════ CERTIFICATIONS ═══════════════════════════ -->
+
+## 🏆 Certifications
+
+<div align="center">
+
+| 🎖️ | Certification | Issuer | Date |
+|:---:|--------------|:------:|:----:|
+| <img src="https://img.shields.io/badge/AZ--104-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/> | **Microsoft Certified: Azure Administrator Associate** | Microsoft | May 2026 |
+| <img src="https://img.shields.io/badge/SWE%20Intern-00EA64?style=flat-square&logo=hackerrank&logoColor=black"/> | **Software Engineer Intern Certification** | HackerRank | Mar 2026 |
+| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black"/> | **AWS Academy Graduate – Cloud Architecting** | Credly | Jan 2026 |
+| <img src="https://img.shields.io/badge/AWS%20Training-FF9900?style=flat-square&logo=amazonaws&logoColor=black"/> | **6-Week AWS Cloud Computing Training** | GokBoru Tech Pvt. Ltd. | Jul 2025 |
+| <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white"/> | **Prompt Engineering for ChatGPT** *(Vanderbilt University)* | Coursera | Oct 2024 |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ ACHIEVEMENTS ═══════════════════════════ -->
+
+## 🌟 Achievements
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║   🌍  Big Code by Google '26 → TOP 1,500 out of 1,50,000+ globally  ║
+╠══════════════════════════════════════════════════════════════════════╣
+║   💡  800+ Problems Solved  →  LeetCode · HackerRank · Codolio      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║   ⭐  HackerRank: 5-Star Java  ·  3-Star Python                     ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ SNAKE ANIMATION ═══════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyam-medh/shyam-medh/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyam-medh/shyam-medh/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/shyam-medh/shyam-medh/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
+
+## 🎮 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shyam-medh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shyambaranwal">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:baranwal07shyam@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/shyam-medh">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> *"First, solve the problem. Then, write the code."*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2d1b69,100:0d1117&height=130&section=footer&animation=twinkling"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ SETUP GUIDE ═══════════════════════════ -->
+
+<details>
+<summary>⚙️ <b>Setup Guide — Activate 3D Graph & Animations</b></summary>
+
+<br/>
+
+### Step 1 — Create your Profile Repository
+Create a new GitHub repo named exactly `shyam-medh/shyam-medh` (same as your username).
+
+### Step 2 — Copy Workflow Files
+Add both files from `.github/workflows/` in this package into your profile repo:
+- `3d-contrib.yml` → generates the 3D contribution calendar daily
+- `snake.yml` → generates the animated contribution snake
+
+### Step 3 — Run Workflows Manually (First Time)
+Go to your repo → **Actions** tab → click each workflow → **Run workflow**
+
+### Step 4 — Verify Output
+- 3D Graph will appear at: `./profile-3d-contrib/profile-night-rainbow.svg`
+- Snake will be pushed to the `output` branch
+
+### Done! 🎉
+All stats, graphs, and animations will auto-update every 24 hours.
+
+</details>

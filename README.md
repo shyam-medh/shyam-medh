@@ -1,30 +1,52 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a0533,60:2d1b69,100:7c3aed&height=250&section=header&text=SHYAM%20BARANWAL&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=a78bfa&strokeWidth=2&desc=Python%20Developer%20•%20DevOps%20Engineer%20•%20Cloud%20Architect&descAlignY=68&descSize=17&descColor=c4b5fd"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050816,25:0f172a,50:1e1b4b,75:4c1d95,100:7c3aed&height=320&section=header&text=SHYAM%20BARANWAL&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=a78bfa&strokeWidth=2&desc=Python%20Developer%20•%20DevOps%20Engineer%20•%20Cloud%20Architect&descAlignY=62&descSize=20&descColor=c4b5fd"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=750&height=50&lines=🚀+Building+Scalable+Backend+Systems;⚙️+Automating+Everything+with+CI%2FCD;☁️+Cloud-Native+%7C+AWS+%26+Azure+Certified;🔥+800%2B+DSA+Problems+Solved;🏆+Top+1%2C500+%7C+Big+Code+by+Google+'26;✨+Always+Learning%2C+Always+Shipping" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&height=60&lines=🚀+Building+Production+Grade+Cloud+Systems;⚡+Automating+Infrastructure+with+CI%2FCD;☁️+AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;🔥+800%2B+DSA+Problems+Solved;🏆+Top+1%2C500+%7C+Big+Code+by+Google+'26;💡+Always+Learning+Always+Shipping"/>
 
 <br/>
 
 <a href="https://linkedin.com/in/shyambaranwal">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/shyam-medh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:baranwal07shyam@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shyam-medh">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=shyam-medh&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=shyam-medh&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
-![](https://img.shields.io/github/followers/shyam-medh?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=Followers)
+![](https://img.shields.io/github/followers/shyam-medh?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=FOLLOWERS)
+
+</div>
+
+---
+
+# 🌌 Cyberpunk Developer Matrix
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║            ☁️ CLOUD • DEVOPS • BACKEND • AI                ║
+╠══════════════════════════════════════════════════════════════╣
+║  🚀 Production Infrastructure Automation                    ║
+║  ⚡ CI/CD Pipeline Engineering                              ║
+║  🔥 Cloud Native Application Development                    ║
+║  🐳 Containerized Deployments                               ║
+║  📊 Backend Scalability & Optimization                      ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -34,65 +56,156 @@
 
 ```python
 class ShyamBaranwal:
-    def __init__(self):
-        self.role = "Python Developer Intern @ Zapuza Technology"
-        self.focus = ["Backend Development", "DevOps", "Cloud Architecture"]
-        self.stack = ["Django", "Docker", "AWS", "Azure", "Java"]
 
-    def say_hi(self):
-        print("Thanks for visiting my profile 🚀")
+    def __init__(self):
+
+        self.role = "Python Developer Intern @ Zapuza Technology"
+
+        self.specialization = [
+            "Backend Development",
+            "Cloud Engineering",
+            "DevOps Automation",
+            "Infrastructure Engineering"
+        ]
+
+        self.current_stack = [
+            "AWS",
+            "Azure",
+            "Docker",
+            "Kubernetes",
+            "Django",
+            "CI/CD"
+        ]
+
+        self.current_focus = "Building scalable cloud-native systems"
+
+        self.fun_fact = "Solved 800+ DSA problems and still debug with print() 😄"
+
+    def life_cycle(self):
+
+        while True:
+            self.learn()
+            self.build()
+            self.deploy()
+            self.repeat()
+
+
+me = ShyamBaranwal()
 ```
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 3D Tech Stack Universe
 
 <div align="center">
 
-## 💻 Languages
-<img src="https://skillicons.dev/icons?i=java,python,c,mysql,html,css,bash&theme=dark&perline=7"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=850&lines=⚡+Cloud-Native+Infrastructure+Engineer;🚀+CI/CD+Automation+Specialist;☁️+AWS+%7C+Azure+%7C+DevOps+Explorer;🔥+Building+Scalable+Production+Systems;💡+Transforming+Ideas+Into+Deployments"/>
 
-<br/><br/>
+</div>
 
-## ⚙️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,linux,aws,azure,git,github&theme=dark&perline=9"/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/><br/>
+# 💻 Languages
 
-## 🧩 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=django,pandas,numpy,sklearn&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,bash,mysql&theme=dark&perline=4"/>
+
+<br/>
+
+```diff
++ Backend Engineering
++ DSA & Problem Solving
++ System Design Thinking
++ API Development
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+# ⚙️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,githubactions,linux,git&theme=dark&perline=4"/>
+
+<br/>
+
+```yaml
+Cloud:
+  - AWS EC2
+  - S3
+  - IAM
+  - Lambda
+
+DevOps:
+  - Docker
+  - Kubernetes
+  - Jenkins
+  - GitHub Actions
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌐 Infrastructure Architecture
+
+<div align="center">
+
+```text
+                         🌍 INTERNET
+                              │
+               ┌──────────────┴──────────────┐
+               │        LOAD BALANCER         │
+               └──────────────┬──────────────┘
+                              │
+                    ┌─────────┴─────────┐
+                    │    AWS EC2 VM      │
+                    │ Dockerized Django  │
+                    └─────────┬─────────┘
+                              │
+               ┌──────────────┴──────────────┐
+               │      Jenkins Pipeline        │
+               └──────────────┬──────────────┘
+                              │
+               ┌──────────────┴──────────────┐
+               │      GitHub Actions          │
+               └──────────────────────────────┘
+```
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 3D GitHub Analytics
 
 <div align="center">
 
-<img height="190px" src="https://github-readme-stats.vercel.app/api?username=shyam-medh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=shyam-medh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED"/>
 
-<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-medh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-medh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=shyam-medh&theme=tokyonight-duo&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=shyam-medh&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </div>
 
 ---
 
-# 🌐 Contribution Graph
+# 🌌 3D Contribution Galaxy
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-medh&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-medh&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=2d1b69&hide_border=true&custom_title=Contribution%20Galaxy&radius=12" width="100%"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Snake Matrix
 
 <div align="center">
 
@@ -106,73 +219,122 @@ class ShyamBaranwal:
 
 ---
 
-# 💼 Work Experience
+# 💼 Experience
 
 ## 💜 Zapuza Technology — Python Developer Intern
 
-- Built production-grade Django workflows
-- Implemented AJAX-based filtering systems
-- Integrated real-time push notifications
-- Worked on debugging and optimization
+📅 Nov 2025 – Present  
+🌍 Remote • India
+
+| ⚡ Impact | 🚀 Description |
+|---|---|
+| 50% Faster Lookup | Built multi-source Django invoice systems |
+| +25% Engagement | Implemented WebPusher notifications |
+| 3× Faster Retrieval | AJAX-based smart filtering system |
+| 8 Critical Bugs Fixed | Production attendance module optimization |
+
+### 🔥 Stack Used
+
+`Python` `Django` `REST APIs` `AJAX` `WebPusher`
 
 ---
 
 # 🏗️ Featured Projects
 
-## 🔄 DevOps CI/CD Pipeline Automation
+## 🔄 DevOps CI/CD Automation Pipeline
 
 ```text
 GitHub Push
+    ↓
+GitHub Actions
     ↓
 Jenkins Pipeline
     ↓
 Docker Build
     ↓
-Testing
+Testing & Validation
     ↓
-Deployment 🚀
+AWS EC2 Deployment 🚀
 ```
 
-### Tech Used
-`AWS EC2` `Docker` `Jenkins` `CI/CD` `Django`
+### 🚀 Achievements
+
+- Reduced deployment time by 75%
+- Achieved 99.9% build reliability
+- Automated complete deployment lifecycle
+- Supports scalable weekly deployments
+
+### ⚙️ Tech Stack
+
+`AWS` `Docker` `Jenkins` `Linux` `CI/CD`
 
 ---
 
 ## 🎓 Student Management System
 
-### Features
-- RBAC Authentication
-- JDBC + MySQL
-- Java Swing UI
-- 500+ student records
+```text
+Java Swing UI
+       ↓
+RBAC Authentication
+       ↓
+JDBC Layer
+       ↓
+MySQL Database
+```
 
-### Tech Used
-`Java` `MySQL` `RBAC`
+### 🚀 Features
+
+- Full Role-Based Authentication
+- Handles 500+ Student Records
+- Optimized JDBC Queries
+- Session Security Management
+
+### ⚙️ Stack Used
+
+`Java` `MySQL` `JDBC` `RBAC`
 
 ---
 
 # 🏆 Certifications
 
-- 🔷 Microsoft AZ-104
-- ☁️ AWS Cloud Architecting
-- 💚 HackerRank SWE Intern
-- 🎓 Prompt Engineering for ChatGPT
+<div align="center">
+
+| 🎖️ Certification | 🏢 Issuer |
+|---|---|
+| 🔷 Azure Administrator Associate (AZ-104) | Microsoft |
+| ☁️ AWS Cloud Architecting | AWS Academy |
+| 💚 Software Engineer Intern | HackerRank |
+| 🎓 Prompt Engineering for ChatGPT | Coursera |
+
+</div>
 
 ---
 
 # 🌟 Achievements
 
-- 🏆 Top 1,500 — Big Code by Google '26
-- 🔥 Solved 800+ DSA Problems
-- ⭐ 5⭐ Java on HackerRank
+<div align="center">
+
+```text
+🏆 TOP 1,500 — Big Code by Google '26
+
+🔥 800+ DSA Problems Solved
+
+⭐ 5⭐ Java on HackerRank
+
+☁️ Cloud + DevOps Focused Engineer
+
+🚀 Production Grade CI/CD Builder
+```
+
+</div>
 
 ---
 
-# 🎮 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shyam-medh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shyam-medh&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 
 </div>
 
@@ -183,21 +345,23 @@ Deployment 🚀
 <div align="center">
 
 <a href="https://linkedin.com/in/shyambaranwal">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:baranwal07shyam@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/shyam-medh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-> *"First, solve the problem. Then, write the code."*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2d1b69,100:0d1117&height=120&section=footer"/>
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2d1b69,100:0d1117&height=160&section=footer"/>
 
 </div>

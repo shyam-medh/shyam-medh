@@ -8,12 +8,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=960&height=65&lines=🚀+Building+Production-Grade+Cloud+Systems;⚡+CI%2FCD+Automation+%7C+Jenkins+%7C+GitHub+Actions;☁️+AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;🔥+800%2B+DSA+Problems+Solved;🏆+Top+1%2C500+%7C+Big+Code+by+Google+'26;💡+Python+Developer+Intern+%40+Zapuza+Technology"/>
-
-</div>
-
 <br/>
 
 <div align="center">
@@ -33,7 +27,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
@@ -226,11 +220,18 @@ Tools:
 
 <div align="center">
 
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=shyam-medh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED"/>
-&nbsp;
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-medh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD"/>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=shyam-medh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED&card_width=400" width="400px"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-medh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&card_width=340" width="340px"/>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=shyam-medh&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
@@ -278,7 +279,7 @@ Tools:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=2500&color=C4B5FD&center=true&vCenter=true&width=760&lines=Always+open+to+collaborations+%26+opportunities+🚀;Let's+build+something+great+together!"/>
+> 💬 *Always open to collaborations & opportunities — let's build something great together!* 🚀
 
 <br/>
 

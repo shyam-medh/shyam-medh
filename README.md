@@ -33,13 +33,13 @@
 ```python
 class ShyamBaranwal:
     def __init__(self):
-        self.name         = "Shyam Baranwal"
-        self.role         = "Python Developer Intern @ Zapuza Technology"
-        self.location     = "Phagwara, Punjab, India 🇮🇳"
+        self.name         = ["Shyam Baranwal"]
+        self.role         = ["Python Developer Intern @ Zapuza Technology"]
+        self.location     = ["Phagwara, Punjab, India 🇮🇳"]
         self.expertise    = ["Backend Development", "DevOps & CI/CD", "Cloud Architecture"]
-        self.currently    = "Learning and Building and Deploying Projects... ⚙️"
+        self.currently    = ["Learning and Building and Deploying Projects... ⚙️"]
         self.ask_me_about = ["Java", "Docker", "K8s", "Jenkins", "AWS", "Django", "DSA"]
-        self.fun_fact     = "Solved 800+ DSA problems & still debug with print() 😄"
+        self.fun_fact     = ["Solved 800+ DSA problems & still debug with print() 😄"]
         self.goals_2026   = ["AZ-104 ✅", "AWS Solutions Architect", "Open Source"]
 
     def say_hi(self):

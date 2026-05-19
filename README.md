@@ -4,8 +4,12 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050816,20:0f0c29,50:1e1b4b,75:4c1d95,100:7c3aed&height=300&section=header&text=SHYAM%20BARANWAL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=c084fc&strokeWidth=2&desc=Python%20Developer%20%E2%80%A2%20DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect&descAlignY=62&descSize=21&descColor=e9d5ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0221,25:1a0533,50:2d0a6b,75:5b21b6,100:7c3aed&height=320&section=header&text=SHYAM%20BARANWAL&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=22d3ee&strokeWidth=2&desc=Python%20Developer%20%E2%80%A2%20DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect&descAlignY=65&descSize=22&descColor=a5f3fc"/>
 
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=800&color=22D3EE&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=55&lines=Building+Production-Grade+Cloud+Systems+%F0%9F%9A%80;CI%2FCD+Automation+%7C+Jenkins+%7C+GitHub+Actions+%E2%9A%A1;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes+%E2%98%81%EF%B8%8F;800%2B+DSA+Problems+Solved+%F0%9F%94%A5;Top+1%2C500+%7C+Big+Code+by+Google+2026+%F0%9F%8F%86"/>
 </div>
 
 <br/>
@@ -115,16 +119,7 @@ Tools:
 ### ☁️ DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,githubactions,terraform&theme=dark&perline=7"/>
 
-<br/>
 
-| 🛠️ Technology | ⭐ Proficiency |
-|:---|:---|
-| Python / Django | `████████████████████` 95% |
-| AWS (EC2 · S3 · RDS · IAM · Lambda) | `██████████████████░░` 90% |
-| Docker / Kubernetes | `█████████████████░░░` 85% |
-| CI/CD — Jenkins + GitHub Actions | `█████████████████░░░` 85% |
-| Java + Swing + JDBC | `████████████████░░░░` 80% |
-| Azure (AZ-104 Certified) | `██████████████░░░░░░` 70% |
 
 </div>
 

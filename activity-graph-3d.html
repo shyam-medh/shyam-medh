@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Shyam — Activity Graph 3D</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #0d1117;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    color: #e6edf3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 24px;
+    min-height: 100vh;
+  }
+  h1 { font-size: 20px; font-weight: 600; color: #a78bfa; margin-bottom: 6px; }
+  .sub { font-size: 13px; color: #6b7280; margin-bottom: 32px; }
+  #scene { width: 100%; max-width: 900px; }
+  canvas { display: block; width: 100%; }
+  .legend {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-top: 14px;
+    font-size: 11px;
+    color: #6b7280;
+  }
+  .legend-block { width: 12px; height: 12px; border-radius: 3px; }
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+    max-width: 500px;
+    width: 100%;
+    margin-top: 28px;
+  }
+  .stat {
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 12px;
+    padding: 14px;
+    text-align: center;
+  }
+  .stat-val { font-size: 22px; font-weight: 700; color: #a78bfa; }
+  .stat-label { font-size: 11px; color: #6b7280; margin-top: 4px; }
+</style>
+</head>
+<body>
+<h1>📊 Contribution Activity</h1>
+<div class="sub">Hover cells to explore · 3D perspective graph</div>
+
+<div id="scene">
+  <canvas id="c"></canvas>
+</div>
+
+<div class="legend">
+  Less
+  <div class="legend-block" style="background:#161b22"></div>
+  <div class="legend-block" style="background:#0e4429"></div>
+  <div class="legend-block" style="background:#006d32"></div>
+  <div class="legend-block" style="background:#26a641"></div>
+  <div class="legend-block" style="background:#39d353"></div>
+  More
+</div>
+
+<div class="stats">
+  <div class="stat"><div class="stat-val" id="s-total">0</div><div class="stat-label">Total contributions</div></div>
+  <div class="stat"><div class="stat-val" id="s-streak">0</div><div class="stat-label">Longest streak</div></div>
+  <div class="stat"><div class="stat-val" id="s-peak">0</div><div class="stat-label">Peak day</div></div>
+</div>
+
+<script>
+const canvas = document.getElementById('c');
+const ctx = canvas.getContext('2d');
+const WEEKS = 52, DAYS = 7;
+const COLORS = ['#161b22','#0e4429','#006d32','#26a641','#39d353','#57e87c'];
+const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+// Generate deterministic-ish realistic data
+const data = [];
+let seed = 42;
+function rand() { seed = (seed * 1664525 + 1013904223) & 0xffffffff; return (seed >>> 0) / 0xffffffff; }
+
+for (let w = 0; w < WEEKS; w++) {
+  data[w] = [];
+  for (let d = 0; d < DAYS; d++) {
+    const age = (WEEKS - w) * 7 + (DAYS - d);
+    if (d === 0 || d === 6) { data[w][d] = rand() < 0.6 ? 0 : Math.floor(rand() * 3); continue; }
+    const base = Math.max(0, 1.4 - age / 200);
+    const spike = rand() < 0.15 ? rand() * 6 : 0;
+    const v = rand() < 0.28 ? 0 : Math.floor(rand() * 7 * base + spike + 1);
+    data[w][d] = Math.min(v, 9);
+  }
+}
+
+// Stats
+let total = 0, peak = 0, curStreak = 0, maxStreak = 0, streakCount = 0;
+for (let w = 0; w < WEEKS; w++) for (let d = 0; d < DAYS; d++) {
+  const v = data[w][d];
+  total += v;
+  if (v > peak) peak = v;
+  if (v > 0) { curStreak++; maxStreak = Math.max(maxStreak, curStreak); }
+  else curStreak = 0;
+}
+
+function animCount(el, target, duration) {
+  let start = null;
+  function step(ts) {
+    if (!start) start = ts;
+    const p = Math.min((ts - start) / duration, 1);
+    el.textContent = Math.round(p * p * target);
+    if (p < 1) requestAnimationFrame(step);
+  }
+  requestAnimationFrame(step);
+}
+setTimeout(() => {
+  animCount(document.getElementById('s-total'), total, 1200);
+  animCount(document.getElementById('s-streak'), maxStreak, 900);
+  animCount(document.getElementById('s-peak'), peak, 700);
+}, 400);
+
+let W, H, cellW, cellH, gap, marginL, marginT, mouseX = -1, mouseY = -1;
+function layout() {
+  W = canvas.offsetWidth;
+  gap = 3;
+  cellW = Math.max(10, Math.floor((W - 50 - WEEKS * gap) / WEEKS));
+  cellH = cellW;
+  marginL = 36;
+  marginT = 28;
+  H = marginT + DAYS * (cellH + gap) + 24;
+  canvas.width = W;
+  canvas.height = H;
+}
+
+let hovered = null;
+function draw(animT) {
+  ctx.clearRect(0, 0, W, H);
+  ctx.font = `bold 10px system-ui`;
+  ctx.fillStyle = '#6b7280';
+
+  ['Mon','','Wed','','Fri','','Sun'].forEach((label, i) => {
+    if (label) ctx.fillText(label, 2, marginT + i * (cellH + gap) + cellH - 2);
+  });
+
+  let lastM = -1;
+  const now = new Date();
+  for (let w = 0; w < WEEKS; w++) {
+    const x = marginL + w * (cellW + gap);
+    const d = new Date(now);
+    d.setDate(d.getDate() - (WEEKS - w) * 7);
+    if (d.getMonth() !== lastM) {
+      lastM = d.getMonth();
+      ctx.fillStyle = '#6b7280';
+      ctx.fillText(MONTHS[d.getMonth()], x, marginT - 8);
+    }
+
+    for (let day = 0; day < DAYS; day++) {
+      const y = marginT + day * (cellH + gap);
+      const val = data[w][day];
+      const pct = animT !== undefined ? Math.min(1, (animT - w * 0.015 - day * 0.002)) : 1;
+      if (pct <= 0) continue;
+
+      const isH = hovered && hovered[0] === w && hovered[1] === day;
+      const lift = isH ? -5 : 0;
+      const scale = isH ? 1.15 : 1;
+      const ci = Math.min(val === 0 ? 0 : Math.ceil(val / 2), COLORS.length - 1);
+
+      ctx.save();
+      if (isH) {
+        ctx.shadowColor = COLORS[ci];
+        ctx.shadowBlur = 10;
+      }
+      ctx.globalAlpha = pct;
+
+      const cx = x + cellW / 2, cy = y + cellH / 2 + lift;
+      ctx.translate(cx, cy);
+      ctx.scale(scale, scale);
+      ctx.fillStyle = COLORS[ci];
+      ctx.beginPath();
+      ctx.roundRect(-cellW/2, -cellH/2, cellW, cellH, 2);
+      ctx.fill();
+
+      if (isH) {
+        ctx.strokeStyle = 'rgba(255,255,255,0.3)';
+        ctx.lineWidth = 1;
+        ctx.stroke();
+      }
+      ctx.restore();
+    }
+  }
+
+  if (hovered) {
+    const [w, d] = hovered;
+    const v = data[w][d];
+    const x = marginL + w * (cellW + gap);
+    const y = marginT + d * (cellH + gap) - 8;
+    const label = v === 0 ? 'No contributions' : `${v} contribution${v > 1 ? 's' : ''}`;
+    ctx.font = '11px system-ui';
+    const tw = ctx.measureText(label).width;
+    const tx = Math.min(Math.max(x - tw / 2, 4), W - tw - 4);
+    const ty = Math.max(y - 4, 16);
+    ctx.fillStyle = 'rgba(22,27,34,0.9)';
+    ctx.beginPath();
+    ctx.roundRect(tx - 8, ty - 14, tw + 16, 20, 4);
+    ctx.fill();
+    ctx.strokeStyle = 'rgba(255,255,255,0.12)';
+    ctx.lineWidth = 0.5;
+    ctx.stroke();
+    ctx.fillStyle = '#e6edf3';
+    ctx.fillText(label, tx, ty);
+  }
+}
+
+let animStart = null;
+function animate(ts) {
+  if (!animStart) animStart = ts;
+  const t = (ts - animStart) / 800;
+  layout();
+  draw(t);
+  if (t < WEEKS * 0.015 + DAYS * 0.002 + 1) requestAnimationFrame(animate);
+  else draw();
+}
+
+window.addEventListener('resize', () => { layout(); draw(); });
+canvas.addEventListener('mousemove', e => {
+  const rect = canvas.getBoundingClientRect();
+  const mx = (e.clientX - rect.left) * (canvas.width / rect.width);
+  const my = (e.clientY - rect.top) * (canvas.height / rect.height);
+  const w = Math.floor((mx - marginL) / (cellW + gap));
+  const d = Math.floor((my - marginT) / (cellH + gap));
+  hovered = (w >= 0 && w < WEEKS && d >= 0 && d < DAYS) ? [w, d] : null;
+  draw();
+});
+canvas.addEventListener('mouseleave', () => { hovered = null; draw(); });
+
+layout();
+requestAnimationFrame(animate);
+</script>
+</body>
+</html>

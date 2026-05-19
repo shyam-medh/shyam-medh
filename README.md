@@ -1,383 +1,323 @@
-<!--
-=========================================================================================
-                              SHYAM BARANWAL - GITHUB PROFILE
-=========================================================================================
--->
-
 <div align="center">
 
-<!-- 🌟 DYNAMIC HEADER 🌟 -->
-<a href="https://github.com/shyam-medh">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=75&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&height=120&lines=SHYAM+BARANWAL;CLOUD+ARCHITECT;DEVOPS+ENGINEER;PYTHON+DEVELOPER" alt="Shyam Baranwal" />
+<!-- ════════════ ANIMATED VENOM HEADER ════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a0533,60:2d1b69,100:7c3aed&height=250&section=header&text=SHYAM%20BARANWAL&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=a78bfa&strokeWidth=2&desc=Python%20Developer%20%E2%80%A2%20DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect&descAlignY=68&descSize=17&descColor=c4b5fd"/>
+
+<!-- ════════════ TYPING ANIMATION ════════════ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%9A%80+Building+Scalable+Backend+Systems;%E2%9A%99%EF%B8%8F+Automating+Everything+with+CI%2FCD;%E2%98%81%EF%B8%8F+Cloud-Native+%7C+AWS+%26+Azure+Certified;%F0%9F%94%A5+800%2B+DSA+Problems+Solved;%F0%9F%8F%86+Top+1%2C500+%7C+Big+Code+by+Google+%2726;%E2%9C%A8+Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://github.com/shyam-medh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=1000&height=50&lines=Architecting+Scalable+Cloud+Solutions+%E2%98%81%EF%B8%8F;Automating+Infrastructure+with+CI%2FCD+%E2%9A%A1;Mastering+Data+Structures+%26+Algorithms+%F0%9F%A7%A0" alt="Sub-header details" />
-</a>
+<!-- ════════════ BADGES ════════════ -->
 
-<br/>
-
-<!-- 🌐 SOCIAL BADGES 🌐 -->
-<p align="center">
-  <a href="https://linkedin.com/in/shyambaranwal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:baranwal07shyam@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/shyam-medh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/baranwal07shyam" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
-  </a>
-  &nbsp;
-  <a href="https://codolio.com/profile/shyambaranwal" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/>
-  </a>
-</p>
-
-<!-- ⚙️ AUTOMATION WORKFLOW STATUS BADGES ⚙️ -->
-<p align="center">
-  <img src="https://github.com/shyam-medh/shyam-medh/actions/workflows/metrics.yml/badge.svg" alt="Generate Metrics Workflow" />
-  &nbsp;
-  <img src="https://github.com/shyam-medh/shyam-medh/actions/workflows/snake.yml/badge.svg" alt="Generate Snake Workflow" />
-  &nbsp;
-  <img src="https://github.com/shyam-medh/shyam-medh/actions/workflows/3d%20contrib.yml/badge.svg" alt="Generate 3D Contribution Workflow" />
-</p>
-
-<!-- 📜 INDIAN QUOTE (KALAM) 📜 -->
-<br/>
-<a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=5000&pause=2000&color=FBBF24&center=true&vCenter=true&width=1000&height=60&lines=%22Dream%2C+dream%2C+dream.%22;%22Dreams+transform+into+thoughts...%22;%22...and+thoughts+result+in+action.%22;%E2%80%94+Dr.+A.P.J.+Abdul+Kalam" alt="APJ Abdul Kalam Quote" />
-</a>
-
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:38BDF8&height=2&width=100%" alt="divider" />
-</div>
-<br/>
-
-<!-- 
-=========================================================================================
-                                  DYNAMIC GITHUB METRICS
-=========================================================================================
--->
-
-<h1 align="center">📊 Developer Telemetry & Habits</h1>
-
-<div align="center">
-  <p style="font-size: 16px;">
-    <b>Cloud Architect & DevOps Engineer</b> focused on building robust backend systems in Python.<br/>
-    <i>Metrics below are generated dynamically via custom GitHub Actions.</i>
-  </p>
-  
-  <br/>
-
-  <!-- DYNAMIC GITHUB METRICS (Generated by lowlighter/metrics workflow) -->
-  <a href="https://github.com/shyam-medh">
-    <!-- Note: This image will appear after the metrics workflow completes its first run -->
-    <img src="https://raw.githubusercontent.com/shyam-medh/shyam-medh/output/github-metrics.svg" width="90%" alt="Detailed GitHub Metrics" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=shyam-medh&bg_color=0D1117&color=38BDF8&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Activity%20Graph%20(Awaiting%20Metrics%20Action)'"/>
-  </a>
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:38BDF8,100:7C3AED&height=2&width=100%" alt="divider" />
-</div>
-<br/>
-
-<!-- 
-=========================================================================================
-                             TECH STACK CONSTELLATION
-=========================================================================================
--->
-
-<h1 align="center">🌌 Tech Stack Constellation</h1>
-
-<div align="center">
-
-<table width="100%" border="0" cellpadding="10">
-  <tr>
-    <td align="center" width="50%">
-      <h3>💻 Programming Languages</h3>
-      <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python,java,c" alt="Languages" /></a>
-      <br/><br/>
-      <a href="https://developer.mozilla.org/" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,bash,sql" alt="Web & Scripts" /></a>
-    </td>
-    <td align="center" width="50%">
-      <h3>☁️ Cloud Platforms</h3>
-      <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws,azure" alt="Cloud" /></a>
-      <br/><br/>
-      <h3>🐳 DevOps & Containers</h3>
-      <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform" alt="DevOps" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>⚙️ Frameworks & Libraries</h3>
-      <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django,spring,flask" alt="Frameworks" /></a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🗄️ Databases & Tools</h3>
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" /></a>
-      &nbsp;&nbsp;
-      <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git,github,postman,linux" alt="Tools" /></a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:38BDF8&height=2&width=100%" alt="divider" />
-</div>
-<br/>
-
-<!-- 
-=========================================================================================
-                              PROFESSIONAL EXPERIENCE 
-=========================================================================================
--->
-
-<h1 align="center">💼 Professional Experience</h1>
-
-<div align="center">
-
-<table width="95%" border="1" style="border-collapse: collapse; border-color: #38BDF8;">
-  <tr>
-    <td colspan="2" bgcolor="#0d1117" align="center" style="padding: 15px;">
-      <h2>💜 Zapuza Technology <span style="font-size: 16px; font-weight: normal;">— Python Developer Intern</span></h2>
-      <p>
-        <img src="https://img.shields.io/badge/Duration-Nov_2025_to_Present-38BDF8?style=for-the-badge" alt="Duration" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/Location-Remote,_India-7C3AED?style=for-the-badge" alt="Location" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="70%" valign="top" style="padding: 15px;">
-      <h3>🚀 Core Impact</h3>
-      <ul>
-        <li><b>Data Optimization:</b> Engineered a Django invoice page aggregating <b>3+ data sources</b>, resulting in a <b>50% reduction in data lookup times</b>.</li>
-        <li><b>Real-Time Systems:</b> Integrated <b>WebPusher</b> notifications across <b>100+ active users</b>, boosting engagement by <b>25%</b>.</li>
-        <li><b>Advanced Filtering:</b> Developed a smart AJAX filter supporting <b>7+ query criteria</b>, achieving a <b>3x faster data retrieval rate</b>.</li>
-      </ul>
-    </td>
-    <td width="30%" valign="top" align="center" style="padding: 15px;" bgcolor="#0d1117">
-      <h3>🛠️ Arsenal</h3>
-      <br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/><br/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /><br/><br/>
-      <img src="https://img.shields.io/badge/AJAX-005C84?style=flat-square&logo=javascript&logoColor=white" alt="AJAX" /><br/><br/>
-      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:38BDF8,100:7C3AED&height=2&width=100%" alt="divider" />
-</div>
-<br/>
-
-<!-- 
-=========================================================================================
-                                FEATURED PROJECTS
-=========================================================================================
--->
-
-<h1 align="center">🏗️ Featured Masterpieces</h1>
-
-<div align="center">
-
-<table width="95%" border="1" style="border-collapse: collapse; border-color: #7C3AED;">
-  <tr>
-    <td colspan="2" bgcolor="#0d1117" align="center" style="padding: 15px;">
-      <h2>🔄 DevOps CI/CD Pipeline Automation — Django on AWS</h2>
-      <p>
-        <img src="https://img.shields.io/badge/April_2026-FBBF24?style=for-the-badge" alt="Date" />
-        &nbsp;
-        <a href="https://github.com/shyam-medh" target="_blank"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="padding: 15px;">
-      <h3>🌐 Architecture</h3>
-      <code>GitHub Push → Actions → Jenkins (Tests) → Docker Compose → AWS EC2 Deploy</code>
-      <br/><br/>
-      <h3>🛠️ Tech Stack</h3>
-      <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-    </td>
-    <td width="50%" valign="top" style="padding: 15px;" bgcolor="#0d1117">
-      <h3>📊 Metrics</h3>
-      <ul>
-        <li>Reduced deployment time by <b>75%</b>.</li>
-        <li>Eliminated configuration errors by <b>95%</b>.</li>
-        <li>Maintained a <b>99.9% build success rate</b> across 50+ weekly builds.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table width="95%" border="1" style="border-collapse: collapse; border-color: #38BDF8;">
-  <tr>
-    <td colspan="2" bgcolor="#0d1117" align="center" style="padding: 15px;">
-      <h2>🎓 Role-Based Student Management System</h2>
-      <p>
-        <img src="https://img.shields.io/badge/August_2025-326CE5?style=for-the-badge" alt="Date" />
-        &nbsp;
-        <a href="https://github.com/shyam-medh" target="_blank"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="padding: 15px;" bgcolor="#0d1117">
-      <h3>📊 Metrics</h3>
-      <ul>
-        <li>Managed <b>500+ student records</b> securely.</li>
-        <li>Reduced manual campus administration effort by <b>40%</b>.</li>
-        <li>Decreased data-entry errors by <b>30%</b> via strict RBAC.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="padding: 15px;">
-      <h3>🌐 Architecture</h3>
-      <code>Java Swing UI → RBAC Security Layer → JDBC Conn Pool → MySQL DB</code>
-      <br/><br/>
-      <h3>🛠️ Tech Stack</h3>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white" alt="JDBC" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:38BDF8&height=2&width=100%" alt="divider" />
-</div>
-<br/>
-
-
-<!-- 
-=========================================================================================
-                                CERTIFICATIONS SECTION
-=========================================================================================
--->
-
-<h1 align="center">🏆 Certifications & Achievements</h1>
-
-<div align="center">
-
-<table width="95%" border="1" cellpadding="10" style="border-collapse: collapse; border-color: #7C3AED;">
-  <tr bgcolor="#0d1117">
-    <th align="left">Certification / Achievement</th>
-    <th align="left">Issuer</th>
-    <th align="center">Verify</th>
-  </tr>
-  <tr>
-    <td><b>Azure Administrator Associate (AZ-104)</b></td>
-    <td>Microsoft</td>
-    <td align="center"><a href="https://learn.microsoft.com/en-us/users/shyambaranwal/credentials/"><img src="https://img.shields.io/badge/View-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Verify"/></a></td>
-  </tr>
-  <tr>
-    <td><b>Cloud Architecting (Graduate Badge)</b></td>
-    <td>AWS Academy</td>
-    <td align="center"><a href="https://www.credly.com/users/shyam-baranwal"><img src="https://img.shields.io/badge/View-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Verify"/></a></td>
-  </tr>
-  <tr>
-    <td><b>Top 1,500 Globally</b> (out of 1.5L+)</td>
-    <td>Big Code by Google '26</td>
-    <td align="center"><img src="https://img.shields.io/badge/Achieved-FFD700?style=flat-square&logo=google&logoColor=black" alt="Achieved"/></td>
-  </tr>
-  <tr>
-    <td><b>800+ DSA Problems Solved</b></td>
-    <td>LeetCode/HackerRank</td>
-    <td align="center"><a href="https://codolio.com/profile/shyambaranwal"><img src="https://img.shields.io/badge/View-FF4500?style=flat-square&logo=leetcode&logoColor=white" alt="Verify"/></a></td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:38BDF8,100:7C3AED&height=2&width=100%" alt="divider" />
-</div>
-<br/>
-
-<!-- 
-=========================================================================================
-                                AUTOMATED VISUALIZATIONS
-=========================================================================================
--->
-
-<h1 align="center">🌌 Automated Visualizations</h1>
-
-<div align="center">
-  <p><i>Generated automatically via dedicated GitHub Actions workflows.</i></p>
-  
-  <h3>3D Contribution Galaxy</h3>
-  <img src="https://raw.githubusercontent.com/shyam-medh/shyam-medh/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D Calendar"/>
-  
-  <br/><br/>
-  
-  <h3>The Contribution Matrix Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/shyam-medh/shyam-medh/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyam-medh/shyam-medh/output/github-snake.svg"/>
-    <img alt="Animated GitHub Snake" src="https://raw.githubusercontent.com/shyam-medh/shyam-medh/output/github-snake-dark.svg" width="90%"/>
-  </picture>
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:38BDF8,100:7C3AED&height=2&width=100%" alt="divider" />
-</div>
-<br/>
-
-<!-- 
-=========================================================================================
-                                      FOOTER
-=========================================================================================
--->
-
-<h1 align="center">📬 Let's Architect the Future!</h1>
-
-<div align="center">
-
-<a href="https://en.wikipedia.org/wiki/Swami_Vivekananda">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=5000&pause=2000&color=A78BFA&center=true&vCenter=true&width=1000&height=50&lines=%22Arise%2C+awake...%22;%22...and+stop+not+till+the+goal+is+reached.%22;%E2%80%94+Swami+Vivekananda" alt="Swami Vivekananda Quote" />
-</a>
+<a href="https://linkedin.com/in/shyambaranwal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/shyam-medh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:baranwal07shyam@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/baranwal07shyam"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
+<a href="https://leetcode.com/u/shyambaranwal"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codolio.com/profile/shyambaranwal"><img src="https://img.shields.io/badge/Codolio-800%2B%20Solved-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/shyambaranwal" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+![Profile Views](https://komarev.com/ghpvc/?username=shyam-medh&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/shyam-medh?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=Followers)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+class ShyamBaranwal:
+    def __init__(self):
+        self.name         = "Shyam Baranwal"
+        self.role         = "Python Developer Intern @ Zapuza Technology"
+        self.location     = "Phagwara, Punjab, India 🇮🇳"
+        self.expertise    = ["Backend Development", "DevOps & CI/CD", "Cloud Architecture"]
+        self.currently    = "Shipping production-grade CI/CD pipelines on AWS ⚙️"
+        self.ask_me_about = ["Django", "Docker", "AWS", "Java", "DSA"]
+        self.fun_fact     = "Solved 800+ DSA problems & still debug with print() 😄"
+        self.goals_2026   = ["AZ-104 ✅", "AWS Solutions Architect", "Open Source"]
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something amazing 🚀")
+
+me = ShyamBaranwal()
+me.say_hi()
+```
+
+---
+
+## 🧊 Tech Stack — 3D Isometric
+
+<div align="center">
+
+<!-- 3D Isometric floating cubes — auto-animated, committed to repo -->
+<img src="./tech-stack-3d.svg" width="100%" alt="3D Tech Stack"/>
+
+</div>
+
+<div align="center">
+
+<!-- Extra AWS badges row -->
+
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![ALB](https://img.shields.io/badge/ALB-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+
+</div>
+
+---
+
+## 📊 3D Contribution Graph
+
+<div align="center">
+
+<!-- Custom 3D extruded contribution calendar — committed to repo -->
+<img src="./contrib-3d.svg" width="100%" alt="3D Contribution Graph"/>
+
+</div>
+
+> ⚠️ **Note:** The graph above is a static preview committed to the repo. To get your **live** real-time 3D contribution graph, add the workflow in `.github/workflows/3d-contrib.yml` (included in this package) — it regenerates daily from your actual GitHub data using [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib).
+
+<div align="center">
+
+<!-- Live 3D contrib from GitHub Action (activates after running workflow) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="./profile-3d-contrib/profile-night-rainbow.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg"/>
+  <img alt="Live 3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/shyam-medh">
+  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=shyam-medh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=7c3aed"/>
 </a>
-&nbsp;&nbsp;
-<a href="mailto:baranwal07shyam@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Send_an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://github.com/shyam-medh">
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-medh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd"/>
 </a>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shyam-medh&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌐 Activity Graph
+
+<div align="center">
+
+[![Shyam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shyam-medh&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=2d1b69&hide_border=true&custom_title=Shyam%27s%20Contribution%20Timeline&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/shyam-medh/shyam-medh/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyam-medh/shyam-medh/output/github-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shyam-medh/shyam-medh/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+<div align="center">
+<img src="https://img.shields.io/badge/%F0%9F%92%9C%20Zapuza%20Technology-Python%20Developer%20Intern-7C3AED?style=for-the-badge&labelColor=1a0533"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%93%85%20Nov%202025-Present-a78bfa?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Remote-India-c4b5fd?style=for-the-badge&labelColor=0d1117"/>
+</div>
+
+<br/>
+
+| Impact                        | Description                                                                           |
+| ----------------------------- | ------------------------------------------------------------------------------------- |
+| ⚡ **50% faster** lookup      | Built service details + invoice page merging **3+ data sources** into one Django view |
+| 📣 **+25% engagement**        | Real-time push notifications via **WebPusher** across 100+ active users               |
+| 🔍 **3× faster** retrieval    | Multi-criteria due-task filter **(7+ filters)** using AJAX                            |
+| 🐛 **8 critical bugs** caught | Tested attendance module across **15+ edge cases** before deployment                  |
+
+---
+
+## 🏗️ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 DevOps CI/CD Pipeline Automation
+
+> **Django App · Apr 2026** &nbsp; [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/shyam-medh)
+
+```
+GitHub Push
+    ↓
+Jenkins Master (AWS EC2)
+    ↓
+Jenkins Agent → NPM + pip build
+    ↓
+Docker Multistage Build
+    ↓
+Django manage.py Tests ✅
+    ↓
+Docker Compose Deploy 🚀
+```
+
+- 🚀 **75%** reduction in deployment time
+- ✅ **99.9%** build success rate
+- 🔒 **95%** fewer config errors
+- 📦 Supports **50+ weekly builds**
+
+`AWS EC2` `Jenkins` `Docker` `CI/CD` `Django` `Linux`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Role-Based Student Management System
+
+> **Java · Aug 2025** &nbsp; [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/shyam-medh)
+
+```
+Java Swing UI Layer
+    ↓
+RBAC Middleware
+(Admin / Faculty / Student)
+    ↓
+JDBC Connection Pool
+    ↓
+MySQL (Indexed + Normalized)
+500+ Student Records 🗄️
+```
+
+- ⚡ **40%** less manual labor
+- 🔒 **30%** fewer data-entry errors
+- 📊 Handles **500+** student records
+- 🛡️ Full RBAC + session security
+
+`Java Swing` `JDBC` `MySQL` `RBAC`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+|                                                     🎖️                                                      | Certification                                           |    Issuer    |   Date   | Link |
+| :---------------------------------------------------------------------------------------------------------: | ------------------------------------------------------- | :----------: | :------: | :--: |
+| ![Azure](https://img.shields.io/badge/AZ--104-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Administrator Associate**  |  Microsoft   | May 2026 | [🔗](https://learn.microsoft.com/en-us/users/shyambaranwal/credentials/) |
+|  ![HackerRank](https://img.shields.io/badge/SWE-00EA64?style=flat-square&logo=hackerrank&logoColor=black)   | **Software Engineer Intern Certification**              |  HackerRank  | Mar 2026 | [🔗](https://www.hackerrank.com/certificates/iframe/software_engineer_intern) |
+|      ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)       | **AWS Academy Graduate – Cloud Architecting**           |    Credly    | Jan 2026 | [🔗](https://www.credly.com/users/shyam-baranwal) |
+|    ![AWS](https://img.shields.io/badge/Training-FF9900?style=flat-square&logo=amazonaws&logoColor=black)    | **6-Week AWS Cloud Computing Training**                 | GokBoru Tech | Jul 2025 | [🔗](https://gokboru.com) |
+|  ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)  | **Prompt Engineering for ChatGPT** _(Vanderbilt Univ.)_ |   Coursera   | Oct 2024 | [🔗](https://www.coursera.org/account/accomplishments) |
+
+</div>
+
+---
+
+## 🌟 Achievements
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  🌍  Big Code by Google '26 → TOP 1,500 out of 1,50,000+ globally   ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  💡  800+ Problems Solved  →  LeetCode · HackerRank · Codolio       ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  ⭐  HackerRank Ratings: 5-Star Java  ·  3-Star Python              ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🎮 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shyam-medh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shyambaranwal"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:baranwal07shyam@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/shyam-medh"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:130f40,50:30336b,80:4834d4,100:686de0&height=180&section=footer&text=Keep+Building+%7C+Keep+Shipping&fontSize=28&fontColor=F9CA24&animation=twinkling&fontAlignY=50" alt="Footer"/>
+> _"First, solve the problem. Then, write the code."_
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2d1b69,100:0d1117&height=130&section=footer&animation=twinkling"/>
 
 </div>
+
+---
+
+<details>
+<summary>⚙️ <b>Setup Guide — Activate Live 3D Graph + Snake</b></summary>
+
+<br/>
+
+### 1. Create your Profile Repository
+
+Create a GitHub repo named exactly `shyam-medh` (same as your username).
+
+### 2. Commit all files
+
+Place `README.md`, `tech-stack-3d.svg`, `contrib-3d.svg`, and the `.github/workflows/` folder into the repo root.
+
+### 3. Run GitHub Actions (first time)
+
+Go to **Actions tab** → run `Generate Snake Animation` → run `GitHub-Profile-3D-Contrib`
+
+### 4. After workflows run:
+
+- Snake appears at `output` branch → auto-linked in README ✅
+- Live 3D contrib graph saves to `./profile-3d-contrib/profile-night-rainbow.svg` ✅
+
+All auto-refresh every 24 hours. 🎉
+
+</details>

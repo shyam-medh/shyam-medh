@@ -34,7 +34,7 @@
 class ShyamBaranwal:
     def __init__(self):
         self.name         = ["Shyam Baranwal"]
-        self.role         = ["Python Developer Intern @ Zapuza Technology"]
+        self.role         = ["Ex Python Developer Intern @ Zapuza Technology"]
         self.location     = ["Phagwara, Punjab, India 🇮🇳"]
         self.expertise    = ["Backend Development", "DevOps & CI/CD", "Cloud Architecture"]
         self.currently    = ["Learning and Building and Deploying Projects... ⚙️"]
@@ -161,7 +161,7 @@ me.say_hi()
 <div align="center">
 <img src="https://img.shields.io/badge/%F0%9F%92%9C%20Zapuza%20Technology-Python%20Developer%20Intern-7C3AED?style=for-the-badge&labelColor=1a0533"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%85%20Nov%202025-Present-a78bfa?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%85%20Nov%202024-May%202025-a78bfa?style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Remote-India-c4b5fd?style=for-the-badge&labelColor=0d1117"/>
 </div>

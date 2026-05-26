@@ -1,0 +1,44 @@
+name: 🔄 Update Issues & PRs in README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:          # manual trigger from Actions tab
+  issues:
+    types: [opened, closed, assigned]
+  pull_request:
+    types: [opened, closed, merged]
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 📦 Install dependencies
+        run: pip install requests
+
+      - name: 🔄 Run README updater
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: shyam-medh
+        run: python scripts/update_readme.py
+
+      - name: 📝 Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --staged --quiet || git commit -m "🤖 Auto-update: Issues & PRs section [skip ci]"
+          git push

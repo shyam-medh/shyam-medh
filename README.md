@@ -156,6 +156,38 @@ me.say_hi()
 
 ---
 
+---
+
+## 🐛 Assigned Issues
+
+<div align="center">
+
+![Issues](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dassignee%3Ashyam-medh%2Btype%3Aissue&query=%24.total_count&label=Assigned%20Issues&color=7c3aed&style=for-the-badge&logo=github)
+
+</div>
+
+<!-- ISSUES_START -->
+> 🕒 _Last updated: initialising…_
+<!-- ISSUES_END -->
+
+---
+
+## 🔀 Pull Requests
+
+<div align="center">
+
+![PRs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Ashyam-medh%2Btype%3Apr&query=%24.total_count&label=Pull%20Requests&color=a78bfa&style=for-the-badge&logo=github)
+![Open PRs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Ashyam-medh%2Btype%3Apr%2Bstate%3Aopen&query=%24.total_count&label=Open&color=22c55e&style=for-the-badge)
+![Closed PRs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Ashyam-medh%2Btype%3Apr%2Bstate%3Aclosed&query=%24.total_count&label=Closed%2FMerged&color=e11d48&style=for-the-badge)
+
+</div>
+
+<!-- PRS_START -->
+> 🕒 _Last updated: initialising…_
+<!-- PRS_END -->
+
+---
+
 ## 💼 Work Experience
 
 <div align="center">

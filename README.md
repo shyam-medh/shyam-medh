@@ -115,21 +115,15 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/shyam-medh">
-  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=shyam-medh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=7c3aed"/>
-</a>
-<a href="https://github.com/shyam-medh">
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-medh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd"/>
-</a>
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshyam-medh&query=%24.public_repos&label=Public%20Repos&color=7c3aed&style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/shyam-medh?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=shyam-medh&color=7c3aed&style=for-the-badge&label=Profile%20Views)
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shyam-medh&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280)](https://git.io/streak-stats)
 
 </div>
-
 ---
 
 ## 🌐 Activity Graph
@@ -165,10 +159,10 @@ me.say_hi()
 </div>
 
 <!-- ISSUES_START -->
-> Last updated: **May 28, 2026 23:08 UTC** &nbsp;|&nbsp; Total: **9** &nbsp;|&nbsp; Showing latest **9**
+> Last updated: **May 28, 2026 23:24 UTC** &nbsp;|&nbsp; Assigned: **9** &nbsp;|&nbsp; Raised: **11**
 
 <details>
-<summary><b>View latest 9 assigned issues</b></summary>
+<summary><b>Assigned Issues</b> · Total: <b>9</b> · Showing latest <b>9</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
@@ -182,9 +176,29 @@ me.say_hi()
 | [#218](https://github.com/RatLoopz/sahidawa-india/issues/218) | `RatLoopz/sahidawa-india` | [chore: Optimize Root docker-compose.yml to Integrate Cust...](https://github.com/RatLoopz/sahidawa-india/issues/218) | ![level:intermediate](https://img.shields.io/badge/level%3Aintermediate-fbca04?style=flat-square) ![type:performance](https://img.shields.io/badge/type%3Aperformance-8e44ad?style=flat-square) | 🔴 `CLOSED` | May 18, 2026 |
 | [#111](https://github.com/RatLoopz/sahidawa-india/issues/111) | `RatLoopz/sahidawa-india` | [Implement Admin Moderation System for Community Counterfe...](https://github.com/RatLoopz/sahidawa-india/issues/111) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-d93f0b?style=flat-square) | 🔴 `CLOSED` | May 16, 2026 |
 
+[View all assigned issues](https://github.com/issues/assigned?q=assignee%3Ashyam-medh%20type%3Aissue)
+
 </details>
 
-[View all assigned issues](https://github.com/issues/assigned?q=assignee%3Ashyam-medh%20type%3Aissue)
+<details>
+<summary><b>Issues Raised By Me</b> · Total: <b>11</b> · Showing latest <b>10</b></summary>
+
+| # | Repository | Title | Labels | Status | Updated |
+|---|-----------|-------|--------|--------|---------|
+| [#1221](https://github.com/magic-peach/reframe/issues/1221) | `magic-peach/reframe` | [[FEATURE]: Multi-Segment Trimming — Cut Unwanted Sections...](https://github.com/magic-peach/reframe/issues/1221) | ![enhancement](https://img.shields.io/badge/enhancement-A2EEEF?style=flat-square) ![feature](https://img.shields.io/badge/feature-0075CA?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-0075ca?style=flat-square) | 🟢 `OPEN` | May 28, 2026 |
+| [#769](https://github.com/RatLoopz/sahidawa-india/issues/769) | `RatLoopz/sahidawa-india` | [[FEATURE] Add Production-Grade Multi-Stage Dockerization...](https://github.com/RatLoopz/sahidawa-india/issues/769) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-d93f0b?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-0e8a16?style=flat-square) | 🔴 `CLOSED` | May 28, 2026 |
+| [#485](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | `JiyaBatra/CODEVIBE-` | [[Feature]: Add Gamification System (XP & Leveling) for Us...](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![GSSoC26](https://img.shields.io/badge/GSSoC26-b60205?style=flat-square) | 🟢 `OPEN` | May 28, 2026 |
+| [#627](https://github.com/komalharshita/DevPath/issues/627) | `komalharshita/DevPath` | [[Bug]: "Clear Filters" button does not remove previous pr...](https://github.com/komalharshita/DevPath/issues/627) | ![bug](https://img.shields.io/badge/bug-ededed?style=flat-square) | 🟢 `OPEN` | May 27, 2026 |
+| [#411](https://github.com/aryandas2911/DailyForge/issues/411) | `aryandas2911/DailyForge` | [Fix Core Bugs in Task and Routine APIs](https://github.com/aryandas2911/DailyForge/issues/411) | ![bug](https://img.shields.io/badge/bug-d73a4a?style=flat-square) ![GSSoC '26](https://img.shields.io/badge/GSSoC%20%2726-d93f0b?style=flat-square) ![backend](https://img.shields.io/badge/backend-93570c?style=flat-square) | 🟢 `OPEN` | May 27, 2026 |
+| [#134](https://github.com/janavipandole/Cara/issues/134) | `janavipandole/Cara` | [[ENHANCEMENT] Refactor Header and Footer into Reusable Co...](https://github.com/janavipandole/Cara/issues/134) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🔴 `CLOSED` | May 24, 2026 |
+| [#81](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | `priyanshu5ingh/VISUALAIZE` | [[FEAT] Performance & API Optimization (Redis Prompt Cachi...](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![gssoc2026](https://img.shields.io/badge/gssoc2026-007bff?style=flat-square) ![gssoc](https://img.shields.io/badge/gssoc-6f42c1?style=flat-square) | 🟢 `OPEN` | May 20, 2026 |
+| [#265](https://github.com/Suhani1234-5/TourEase/issues/265) | `Suhani1234-5/TourEase` | [multilingual support and AI Bot](https://github.com/Suhani1234-5/TourEase/issues/265) |  | 🔴 `CLOSED` | May 18, 2026 |
+| [#110](https://github.com/RatLoopz/sahidawa-india/issues/110) | `RatLoopz/sahidawa-india` | [In mobile view -> profile, alerts, scan these part is not...](https://github.com/RatLoopz/sahidawa-india/issues/110) |  | 🔴 `CLOSED` | May 16, 2026 |
+| [#415](https://github.com/aryandas2911/DailyForge/issues/415) | `aryandas2911/DailyForge` | [Upgrade UI with iOS-Style Glassmorphism and Add Editable...](https://github.com/aryandas2911/DailyForge/issues/415) |  | 🔴 `CLOSED` | May 16, 2026 |
+
+[View all issues raised by me](https://github.com/search?q=author%3Ashyam-medh%20type%3Aissue&type=issues)
+
+</details>
 
 <!-- ISSUES_END -->
 
@@ -201,10 +215,10 @@ me.say_hi()
 </div>
 
 <!-- PRS_START -->
-> Last updated: **May 28, 2026 23:08 UTC** &nbsp;|&nbsp; Total: **10** &nbsp;|&nbsp; Showing latest **10**
+> Last updated: **May 28, 2026 23:24 UTC** &nbsp;|&nbsp; Total: **10**
 
 <details>
-<summary><b>View latest 10 pull requests</b></summary>
+<summary><b>Pull Requests</b> · Total: <b>10</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
@@ -219,9 +233,9 @@ me.say_hi()
 | [#141](https://github.com/RatLoopz/sahidawa-india/pull/141) | `RatLoopz/sahidawa-india` | [Feature/admin moderation](https://github.com/RatLoopz/sahidawa-india/pull/141) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-d93f0b?style=flat-square) ![quality:exceptional](https://img.shields.io/badge/quality%3Aexceptional-0052cc?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) | 🟣 `MERGED` | May 15, 2026 |
 | [#1](https://github.com/shyam-medh/Jeevan-Deep-Clinic/pull/1) | `shyam-medh/Jeevan-Deep-Clinic` | [Feature/UI improvements](https://github.com/shyam-medh/Jeevan-Deep-Clinic/pull/1) |  | 🟣 `MERGED` | Apr 19, 2026 |
 
-</details>
-
 [View all pull requests](https://github.com/search?q=author%3Ashyam-medh%20type%3Apr&type=pullrequests)
+
+</details>
 
 <!-- PRS_END -->
 
@@ -343,16 +357,84 @@ MySQL (Indexed + Normalized)
 
 </div>
 
+## 🌟 GSSoC '26
+
+<div align="center">
+
+<a href="https://gssoc.girlscript.org/profile/5fbedb80-8027-48e2-b0ae-26c9d96f735c">
+  <img src="https://img.shields.io/badge/GSSoC%2726-Contributor-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="GSSoC 26 Contributor"/>
+</a>
+<a href="https://gssoc.girlscript.org/profile/5fbedb80-8027-48e2-b0ae-26c9d96f735c">
+  <img src="https://img.shields.io/badge/Rank-%231382%20of%2043539-7C3AED?style=for-the-badge&logo=leaderboard&logoColor=white" alt="GSSoC Rank"/>
+</a>
+<a href="https://gssoc.girlscript.org/profile/5fbedb80-8027-48e2-b0ae-26c9d96f735c">
+  <img src="https://img.shields.io/badge/Points-1378-1FB6A6?style=for-the-badge&logo=starship&logoColor=white" alt="GSSoC Points"/>
+</a>
+
+</div>
+
+| Metric | Value |
+| ------ | ----- |
+| Role | **Contributor** |
+| Status | **Accepted** |
+| Track | **Open Source Track** + **AI / Agents Track** |
+| Total Points | **1,378** |
+| Global Rank | **#1,382 / 43,539** |
+| Merged PRs | **2** across **2** projects |
+| Bounty Tasks | **5** completed |
+
+<details>
+<summary><b>Point Distribution</b></summary>
+
+| Source | Points | Notes |
+| ------ | -----: | ----- |
+| Community Bounties | **650** | Follow X, Instagram, LinkedIn share, newsletter, AI idea submission |
+| Merged Pull Requests | **218** | 2 scored PRs |
+| Profile, role, and program milestones | **510** | Selection/profile/program scoring from GSSoC |
+| **Total** | **1,378** | Current public profile score |
+
+</details>
+
+<details>
+<summary><b>Scored Pull Requests</b></summary>
+
+| Project | PR | Level | Points |
+| ------- | -- | ----- | -----: |
+| `Suhani1234-5/TourEase` | [#300](https://github.com/Suhani1234-5/TourEase/pull/300) | Intermediate | **85** |
+| `RatLoopz/sahidawa-india` | [#141](https://github.com/RatLoopz/sahidawa-india/pull/141) | Advanced · Exceptional | **133** |
+
+</details>
+
+<details>
+<summary><b>Earned Badges</b></summary>
+
+| Badge | Category | Unlock Criteria |
+| ----- | -------- | --------------- |
+| First Steps | Universal | Applied to GSSoC 2026 |
+| Early Bird | Universal | Applied in the first 48 hours |
+| Discord Verified | Universal | Connected Discord account |
+| Code Warrior | Roles | Accepted as Contributor |
+| Point Scorer | Points | 500+ points |
+| Rising Star | Points | 1,000+ points |
+| Bounty Hunter | Bounty | First bounty task |
+| Bounty Master | Bounty | Bounty milestone completed |
+
+</details>
+
+[View Official GSSoC Profile](https://gssoc.girlscript.org/profile/5fbedb80-8027-48e2-b0ae-26c9d96f735c)
+
 ---
 
 ## 🎮 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shyam-medh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20%26%20Azure-FF9900?style=for-the-badge&logo=icloud&logoColor=black)
+![DSA](https://img.shields.io/badge/DSA-800%2B%20Solved-22C55E?style=for-the-badge&logo=leetcode&logoColor=black)
 
 </div>
-
 ---
 
 ## 📬 Let's Connect

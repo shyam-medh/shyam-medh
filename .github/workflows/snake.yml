@@ -8,24 +8,28 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: generate-snake-animation
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: shyam-medh
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-      - name: Push to output branch
-        run: |
-          cd dist
-          git init
-          git config user.email "baranwal07shyam@gmail.com"
-          git config user.name "shyam-medh"
-          git checkout -b output
-          git add .
-          git commit -m "update snake animation"
-          git push --force "https://${{ secrets.GITHUB_TOKEN }}@github.com/shyam-medh/shyam-medh.git" output
+
+      - name: Publish snake animation
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          commit_message: update snake animation
+          force_orphan: true

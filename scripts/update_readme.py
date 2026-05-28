@@ -50,10 +50,11 @@ def github_get(url: str, *, params: dict | None = None, timeout: int = 15) -> di
     return resp.json()
 
 
-def gh_search(query: str) -> list[dict]:
+def gh_search(query: str, per_page: int = PER_PAGE) -> tuple[int, list[dict]]:
     url = "https://api.github.com/search/issues"
-    params = {"q": query, "per_page": PER_PAGE, "sort": "updated", "order": "desc"}
-    return github_get(url, params=params).get("items", [])
+    params = {"q": query, "per_page": per_page, "sort": "updated", "order": "desc"}
+    payload = github_get(url, params=params)
+    return int(payload.get("total_count", 0)), payload.get("items", [])
 
 
 def is_merged(pr: dict) -> bool:
@@ -102,30 +103,9 @@ def repo_from_url(url: str) -> str:
     return "/".join(url.split("/")[3:5])
 
 
-def build_issues_section(items: list[dict]) -> str:
+def build_table(items: list[dict], *, is_pr_table: bool) -> str:
     if not items:
-        return "_No assigned issues found._\n"
-
-    rows = [
-        "| # | Repository | Title | Labels | Status | Updated |",
-        "|---|-----------|-------|--------|--------|---------|",
-    ]
-    for item in items:
-        number = item["number"]
-        url = item["html_url"]
-        repo = repo_from_url(url)
-        title = truncate(item["title"])
-        state = STATE_EMOJI.get(item["state"], "\u26AA") + f" `{item['state'].upper()}`"
-        labels = label_badges(item.get("labels", []))
-        updated = fmt_date(item["updated_at"])
-        rows.append(f"| [#{number}]({url}) | `{repo}` | [{title}]({url}) | {labels} | {state} | {updated} |")
-
-    return "\n".join(rows) + "\n"
-
-
-def build_prs_section(items: list[dict]) -> str:
-    if not items:
-        return "_No pull requests found._\n"
+        return "_No items found._\n"
 
     rows = [
         "| # | Repository | Title | Labels | Status | Updated |",
@@ -137,19 +117,51 @@ def build_prs_section(items: list[dict]) -> str:
         repo = repo_from_url(url)
         title = truncate(item["title"])
 
-        if item["state"] == "open":
-            state_key = "open"
-        elif is_merged(item):
-            state_key = "merged"
+        if is_pr_table:
+            if item["state"] == "open":
+                state_key = "open"
+            elif is_merged(item):
+                state_key = "merged"
+            else:
+                state_key = "closed"
         else:
-            state_key = "closed"
+            state_key = item["state"]
 
-        state = STATE_EMOJI[state_key] + f" `{state_key.upper()}`"
+        state = STATE_EMOJI.get(state_key, "\u26AA") + f" `{state_key.upper()}`"
         labels = label_badges(item.get("labels", []))
         updated = fmt_date(item["updated_at"])
         rows.append(f"| [#{number}]({url}) | `{repo}` | [{title}]({url}) | {labels} | {state} | {updated} |")
 
     return "\n".join(rows) + "\n"
+
+
+def build_collapsible_section(
+    *,
+    title: str,
+    total_count: int,
+    items: list[dict],
+    search_url: str,
+    is_pr_table: bool,
+) -> str:
+    shown_count = min(len(items), PER_PAGE)
+    timestamp = datetime.now(timezone.utc).strftime("%b %d, %Y %H:%M UTC")
+    table = build_table(items, is_pr_table=is_pr_table)
+
+    if not items:
+        return (
+            f"> Last updated: **{timestamp}** &nbsp;|&nbsp; Total: **{total_count}**\n\n"
+            f"_No {title.lower()} found._\n"
+        )
+
+    return (
+        f"> Last updated: **{timestamp}** &nbsp;|&nbsp; Total: **{total_count}** &nbsp;|&nbsp; "
+        f"Showing latest **{shown_count}**\n\n"
+        f"<details>\n"
+        f"<summary><b>View latest {shown_count} {title.lower()}</b></summary>\n\n"
+        f"{table}\n"
+        f"</details>\n\n"
+        f"[View all {title.lower()}]({search_url})\n"
+    )
 
 
 def replace_section(content: str, start_tag: str, end_tag: str, new_body: str) -> str:
@@ -160,30 +172,39 @@ def replace_section(content: str, start_tag: str, end_tag: str, new_body: str) -
     return new_content
 
 
+def normalize_readme(content: str) -> str:
+    content = re.sub(r"\n---\n\n---\n", "\n---\n", content)
+    return content
+
+
 def main() -> None:
     print("Fetching assigned issues...")
-    issues = gh_search(f"assignee:{USERNAME} type:issue")
+    issues_query = f"assignee:{USERNAME} type:issue"
+    issue_total, issues = gh_search(issues_query)
 
     print("Fetching authored pull requests...")
-    prs = gh_search(f"author:{USERNAME} type:pr")
+    prs_query = f"author:{USERNAME} type:pr"
+    pr_total, prs = gh_search(prs_query)
 
-    timestamp = datetime.now(timezone.utc).strftime("%b %d, %Y %H:%M UTC")
-    clock = "\U0001F552"
-
-    issues_md = (
-        f"> {clock} _Last updated: **{timestamp}**_ &nbsp;|&nbsp; "
-        f"Showing latest {min(len(issues), PER_PAGE)} assigned issues\n\n"
-        + build_issues_section(issues)
+    issues_md = build_collapsible_section(
+        title="Assigned Issues",
+        total_count=issue_total,
+        items=issues,
+        search_url=f"https://github.com/issues/assigned?q={quote(issues_query)}",
+        is_pr_table=False,
     )
-    prs_md = (
-        f"> {clock} _Last updated: **{timestamp}**_ &nbsp;|&nbsp; "
-        f"Showing latest {min(len(prs), PER_PAGE)} pull requests\n\n"
-        + build_prs_section(prs)
+    prs_md = build_collapsible_section(
+        title="Pull Requests",
+        total_count=pr_total,
+        items=prs,
+        search_url=f"https://github.com/search?q={quote(prs_query)}&type=pullrequests",
+        is_pr_table=True,
     )
 
     with open(README, "r", encoding="utf-8") as readme_file:
         content = readme_file.read()
 
+    content = normalize_readme(content)
     content = replace_section(content, "<!-- ISSUES_START -->", "<!-- ISSUES_END -->", issues_md)
     content = replace_section(content, "<!-- PRS_START -->", "<!-- PRS_END -->", prs_md)
 

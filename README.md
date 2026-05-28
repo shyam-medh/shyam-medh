@@ -150,11 +150,11 @@ me.say_hi()
 
 ---
 
-## 🐛 Assigned Issues
+## 🐛 Issues
 
 <div align="center">
 
-![Issues](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dassignee%3Ashyam-medh%2Btype%3Aissue&query=%24.total_count&label=Assigned%20Issues&color=7c3aed&style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dassignee%3Ashyam-medh%2Btype%3Aissue&query=%24.total_count&label=Issues&color=7c3aed&style=for-the-badge&logo=github)
 
 </div>
 

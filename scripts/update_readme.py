@@ -393,16 +393,18 @@ def main() -> None:
 
     print("Fetching GSSoC profile...")
     gssoc_md = build_gssoc_section(github_get(GSSOC_API_URL))
-
+    
     with open(README, "r", encoding="utf-8") as readme_file:
-
+        content = readme_file.read()
+    
     content = normalize_readme(content)
     content = replace_section(content, "<!-- ISSUES_START -->", "<!-- ISSUES_END -->", issues_md)
     content = replace_section(content, "<!-- PRS_START -->", "<!-- PRS_END -->", prs_md)
     content = replace_gssoc_section(content, gssoc_md)
+    
     with open(README, "w", encoding="utf-8") as readme_file:
         readme_file.write(content)
-
+    
     print("README.md updated successfully.")
 
 

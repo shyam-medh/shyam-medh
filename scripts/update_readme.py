@@ -14,7 +14,13 @@ import requests
 
 USERNAME = os.environ.get("GITHUB_USERNAME", "shyam-medh")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
-README = "README.md"`r`nGSSOC_PROFILE_ID = "5fbedb80-8027-48e2-b0ae-26c9d96f735c"`r`nGSSOC_PROFILE_URL = f"https://gssoc.girlscript.org/profile/{GSSOC_PROFILE_ID}"`r`nGSSOC_API_URL = f"https://gssoc.girlscript.org/api/profile/{GSSOC_PROFILE_ID}"
+
+README = "README.md"
+
+GSSOC_PROFILE_ID = "5fbedb80-8027-48e2-b0ae-26c9d96f735c"
+GSSOC_PROFILE_URL = f"https://gssoc.girlscript.org/profile/{GSSOC_PROFILE_ID}"
+GSSOC_API_URL = f"https://gssoc.girlscript.org/api/profile/{GSSOC_PROFILE_ID}"
+
 PER_PAGE = int(os.environ.get("README_ITEMS_PER_SECTION", "10"))
 
 HEADERS = {

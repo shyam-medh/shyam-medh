@@ -430,16 +430,12 @@ MySQL (Indexed + Normalized)
 
 ---
 
-## 🎮 GitHub Trophies
+## 🏆 GitHub Achievements
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shyam-medh&theme=algolia&no-frame=true&row=2&column=4" />
+</p>
 
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-AWS%20%26%20Azure-FF9900?style=for-the-badge&logo=icloud&logoColor=black)
-![DSA](https://img.shields.io/badge/DSA-800%2B%20Solved-22C55E?style=for-the-badge&logo=leetcode&logoColor=black)
-
-</div>
 ---
 
 ## 📬 Let's Connect

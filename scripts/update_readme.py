@@ -344,7 +344,10 @@ def build_gssoc_section(data: dict) -> str:
 
 
 def replace_gssoc_section(content: str, new_body: str) -> str:
-    pattern = re.compile(r"## 🌟 GSSoC '26\n.*?(?=\n---\n\n## 🎮 GitHub Trophies)", re.DOTALL)
+    pattern = re.compile(
+    r"## 🌟 GSSoC '26\n.*?(?=\n---\n\n## 🏆 GitHub Achievements)",
+    re.DOTALL
+    )    
     new_content, count = pattern.subn(new_body.rstrip() + "\n", content)
     if count == 0:
         raise ValueError("GSSoC section marker not found")

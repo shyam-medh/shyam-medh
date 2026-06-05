@@ -373,7 +373,8 @@ def main() -> None:
     raised_issues_query = f"author:{USERNAME} type:issue"
     raised_issue_total, raised_issues = gh_search(raised_issues_query)
 
-    print("Fetching authored pull requests...")`r`n    prs_query = f"author:{USERNAME} type:pr"
+    print("Fetching authored pull requests...")  
+    prs_query = f"author:{USERNAME} type:pr"
     pr_total, prs = gh_search(prs_query)
 
     issues_md = build_issues_section(
@@ -385,18 +386,20 @@ def main() -> None:
         raised_url=f"https://github.com/search?q={quote(raised_issues_query)}&type=issues",
     )
     prs_md = build_prs_section(
-        total_count=pr_total,
-        items=prs,
-        search_url=f"https://github.com/search?q={quote(prs_query)}&type=pullrequests",
+    total_count=pr_total,
+    items=prs,
+    search_url=f"https://github.com/search?q={quote(prs_query)}&type=pullrequests",
     )
-`r`n    print("Fetching GSSoC profile...")`r`n    gssoc_md = build_gssoc_section(github_get(GSSOC_API_URL))`r`n
+
+    print("Fetching GSSoC profile...")
+    gssoc_md = build_gssoc_section(github_get(GSSOC_API_URL))
+
     with open(README, "r", encoding="utf-8") as readme_file:
-        content = readme_file.read()
 
     content = normalize_readme(content)
     content = replace_section(content, "<!-- ISSUES_START -->", "<!-- ISSUES_END -->", issues_md)
     content = replace_section(content, "<!-- PRS_START -->", "<!-- PRS_END -->", prs_md)
-    content = replace_gssoc_section(content, gssoc_md)`r`n
+    content = replace_gssoc_section(content, gssoc_md)
     with open(README, "w", encoding="utf-8") as readme_file:
         readme_file.write(content)
 

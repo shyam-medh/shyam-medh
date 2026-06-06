@@ -159,7 +159,7 @@ me.say_hi()
 </div>
 
 <!-- ISSUES_START -->
-> Last updated: **Jun 06, 2026 14:44 UTC** &nbsp;|&nbsp; Assigned: **14** &nbsp;|&nbsp; Raised: **19**
+> Last updated: **Jun 06, 2026 16:08 UTC** &nbsp;|&nbsp; Assigned: **14** &nbsp;|&nbsp; Raised: **19**
 
 <details>
 <summary><b>Assigned Issues</b> · Total: <b>14</b> · Showing latest <b>10</b></summary>
@@ -216,16 +216,16 @@ me.say_hi()
 </div>
 
 <!-- PRS_START -->
-> Last updated: **Jun 06, 2026 14:44 UTC** &nbsp;|&nbsp; Total: **15**
+> Last updated: **Jun 06, 2026 16:08 UTC** &nbsp;|&nbsp; Total: **15**
 
 <details>
 <summary><b>Pull Requests</b> · Total: <b>15</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
+| [#1699](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1699) | `SAPTARSHI-coder/EaseMotion-css` | [feat: add shape-shifting dynamic island fab menu](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1699) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![integrated](https://img.shields.io/badge/integrated-5319e7?style=flat-square) | 🟣 `MERGED` | Jun 06, 2026 |
+| [#1708](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1708) | `SAPTARSHI-coder/EaseMotion-css` | [feat: add ultimate 3D glitch text collection](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1708) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![integrated](https://img.shields.io/badge/integrated-5319e7?style=flat-square) | 🟣 `MERGED` | Jun 06, 2026 |
 | [#1873](https://github.com/recodehive/recode-website/pull/1873) | `recodehive/recode-website` | [feat: optimize Dockerfile for production with multi-stage...](https://github.com/recodehive/recode-website/pull/1873) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![level 1](https://img.shields.io/badge/level%201-aaaaaa?style=flat-square) ![recode](https://img.shields.io/badge/recode-a99231?style=flat-square) | 🟢 `OPEN` | Jun 06, 2026 |
-| [#1699](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1699) | `SAPTARSHI-coder/EaseMotion-css` | [feat: add shape-shifting dynamic island fab menu](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1699) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-6d28d9?style=flat-square) | 🟣 `MERGED` | Jun 06, 2026 |
-| [#1708](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1708) | `SAPTARSHI-coder/EaseMotion-css` | [feat: add ultimate 3D glitch text collection](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1708) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-6d28d9?style=flat-square) | 🟣 `MERGED` | Jun 06, 2026 |
 | [#1583](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1583) | `SAPTARSHI-coder/EaseMotion-css` | [feat: add elastic toggle switch submission](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1583) | ![enhancement](https://img.shields.io/badge/enhancement-22c55e?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🟢 `OPEN` | Jun 06, 2026 |
 | [#1249](https://github.com/magic-peach/reframe/pull/1249) | `magic-peach/reframe` | [feat: add multi-segment trimming (#1221)](https://github.com/magic-peach/reframe/pull/1249) | ![gssoc'26](https://img.shields.io/badge/gssoc%2726-FF6B35?style=flat-square) ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-67e414?style=flat-square) ![type:bug](https://img.shields.io/badge/type%3Abug-d73a4a?style=flat-square) | 🟢 `OPEN` | Jun 01, 2026 |
 | [#703](https://github.com/JiyaBatra/CODEVIBE-/pull/703) | `JiyaBatra/CODEVIBE-` | [Feature/gamification](https://github.com/JiyaBatra/CODEVIBE-/pull/703) | ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-3b935f?style=flat-square) ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-887041?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-fcef91?style=flat-square) | 🟣 `MERGED` | Jun 01, 2026 |
@@ -366,10 +366,10 @@ MySQL (Indexed + Normalized)
   <img src="https://img.shields.io/badge/GSSoC%2726-Contributor-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="GSSoC 26 Contributor"/>
 </a>
 <a href="https://gssoc.girlscript.org/profile/5fbedb80-8027-48e2-b0ae-26c9d96f735c">
-  <img src="https://img.shields.io/badge/Rank-%23670%20of%2043587-7C3AED?style=for-the-badge&logo=leaderboard&logoColor=white" alt="GSSoC Rank"/>
+  <img src="https://img.shields.io/badge/Rank-%23429%20of%2043587-7C3AED?style=for-the-badge&logo=leaderboard&logoColor=white" alt="GSSoC Rank"/>
 </a>
 <a href="https://gssoc.girlscript.org/profile/5fbedb80-8027-48e2-b0ae-26c9d96f735c">
-  <img src="https://img.shields.io/badge/Points-3233-1FB6A6?style=for-the-badge&logo=starship&logoColor=white" alt="GSSoC Points"/>
+  <img src="https://img.shields.io/badge/Points-4543-1FB6A6?style=for-the-badge&logo=starship&logoColor=white" alt="GSSoC Points"/>
 </a>
 
 </div>
@@ -379,8 +379,8 @@ MySQL (Indexed + Normalized)
 | Role | **Contributor** |
 | Status | **Accepted** |
 | Track | **Open Source Track + AI / Agents Track** |
-| Total Points | **3,233** |
-| Global Rank | **#670 / 43,587** |
+| Total Points | **4,543** |
+| Global Rank | **#429 / 43,587** |
 | Merged PRs | **7** across **5** projects |
 | Bounty Tasks | **5** completed |
 
@@ -391,8 +391,8 @@ MySQL (Indexed + Normalized)
 | ------ | -----: | ----- |
 | Community Bounties | **650** | Follow X/Twitter, Follow Instagram, Share on LinkedIn, Subscribe to newsletter, AI idea submission |
 | Merged Pull Requests | **823** | 7 scored PRs |
-| Profile, role, and program milestones | **1,760** | Selection/profile/program scoring from GSSoC |
-| **Total** | **3,233** | Current public profile score |
+| Profile, role, and program milestones | **3,070** | Selection/profile/program scoring from GSSoC |
+| **Total** | **4,543** | Current public profile score |
 
 </details>
 

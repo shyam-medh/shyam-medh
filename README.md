@@ -159,7 +159,7 @@ me.say_hi()
 </div>
 
 <!-- ISSUES_START -->
-> Last updated: **Jun 06, 2026 12:07 UTC** &nbsp;|&nbsp; Assigned: **14** &nbsp;|&nbsp; Raised: **19**
+> Last updated: **Jun 06, 2026 14:44 UTC** &nbsp;|&nbsp; Assigned: **14** &nbsp;|&nbsp; Raised: **19**
 
 <details>
 <summary><b>Assigned Issues</b> · Total: <b>14</b> · Showing latest <b>10</b></summary>
@@ -186,9 +186,9 @@ me.say_hi()
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
+| [#934](https://github.com/JiyaBatra/CODEVIBE-/issues/934) | `JiyaBatra/CODEVIBE-` | [[Feature]: Create Reusable <CodeBlock /> Component with C...](https://github.com/JiyaBatra/CODEVIBE-/issues/934) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
 | [#1869](https://github.com/recodehive/recode-website/issues/1869) | `recodehive/recode-website` | [💡[Feature]: Optimize Dockerfile for Production with Multi...](https://github.com/recodehive/recode-website/issues/1869) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![level 1](https://img.shields.io/badge/level%201-aaaaaa?style=flat-square) ![recode](https://img.shields.io/badge/recode-a99231?style=flat-square) | 🟢 `OPEN` | Jun 06, 2026 |
 | [#933](https://github.com/JiyaBatra/CODEVIBE-/issues/933) | `JiyaBatra/CODEVIBE-` | [[Feature]: Implement Animated Skeleton Loading States for...](https://github.com/JiyaBatra/CODEVIBE-/issues/933) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🟢 `OPEN` | Jun 06, 2026 |
-| [#934](https://github.com/JiyaBatra/CODEVIBE-/issues/934) | `JiyaBatra/CODEVIBE-` | [[Feature]: Create Reusable <CodeBlock /> Component with C...](https://github.com/JiyaBatra/CODEVIBE-/issues/934) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🟢 `OPEN` | Jun 06, 2026 |
 | [#1582](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1582) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Interactive Star Rating System](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1582) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-6d28d9?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
 | [#1581](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1581) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Bouncing Typing Indicator (Chat Bubble)](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1581) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-6d28d9?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
 | [#1579](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1579) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Animated Floating Action Button (FAB...](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1579) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-6d28d9?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
@@ -216,7 +216,7 @@ me.say_hi()
 </div>
 
 <!-- PRS_START -->
-> Last updated: **Jun 06, 2026 12:07 UTC** &nbsp;|&nbsp; Total: **15**
+> Last updated: **Jun 06, 2026 14:44 UTC** &nbsp;|&nbsp; Total: **15**
 
 <details>
 <summary><b>Pull Requests</b> · Total: <b>15</b> · Showing latest <b>10</b></summary>
@@ -381,7 +381,7 @@ MySQL (Indexed + Normalized)
 | Track | **Open Source Track + AI / Agents Track** |
 | Total Points | **3,233** |
 | Global Rank | **#670 / 43,587** |
-| Merged PRs | **5** across **4** projects |
+| Merged PRs | **7** across **5** projects |
 | Bounty Tasks | **5** completed |
 
 <details>
@@ -390,8 +390,8 @@ MySQL (Indexed + Normalized)
 | Source | Points | Notes |
 | ------ | -----: | ----- |
 | Community Bounties | **650** | Follow X/Twitter, Follow Instagram, Share on LinkedIn, Subscribe to newsletter, AI idea submission |
-| Merged Pull Requests | **633** | 5 scored PRs |
-| Profile, role, and program milestones | **1,950** | Selection/profile/program scoring from GSSoC |
+| Merged Pull Requests | **823** | 7 scored PRs |
+| Profile, role, and program milestones | **1,760** | Selection/profile/program scoring from GSSoC |
 | **Total** | **3,233** | Current public profile score |
 
 </details>
@@ -401,6 +401,8 @@ MySQL (Indexed + Normalized)
 
 | Project | PR | Level | Points |
 | ------- | -- | ----- | -----: |
+| `saptarshi-coder/easemotion-css` | [feat: add shape-shifting dynamic island fab menu](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1699) | Intermediate | **95** |
+| `saptarshi-coder/easemotion-css` | [feat: add ultimate 3D glitch text collection](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1708) | Intermediate | **95** |
 | `jiyabatra/codevibe-` | [Feature/gamification](https://github.com/JiyaBatra/CODEVIBE-/pull/703) | Advanced · Clean | **126** |
 | `JiyaBatra/CODEVIBE-` | [Feature/gamification](https://github.com/JiyaBatra/CODEVIBE-/pull/703) | Advanced · Clean | **126** |
 | `RatLoopz/sahidawa-india` | [feat(devops): implement production-grade dockerization and nginx orchestration](https://github.com/RatLoopz/sahidawa-india/pull/803) | Advanced · Exceptional | **163** |
@@ -424,6 +426,7 @@ MySQL (Indexed + Normalized)
 | Bounty Hunter | Bounty | First bounty task |
 | Bounty Master | Bounty | Bounty milestone completed |
 | Getting Started | Contributions | 5 PRs merged |
+| Week One | Streaks | Active week 1 |
 
 </details>
 

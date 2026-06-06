@@ -159,42 +159,43 @@ me.say_hi()
 </div>
 
 <!-- ISSUES_START -->
-> Last updated: **Jun 06, 2026 00:10 UTC** &nbsp;|&nbsp; Assigned: **9** &nbsp;|&nbsp; Raised: **12**
+> Last updated: **Jun 06, 2026 04:55 UTC** &nbsp;|&nbsp; Assigned: **14** &nbsp;|&nbsp; Raised: **19**
 
 <details>
-<summary><b>Assigned Issues</b> · Total: <b>9</b> · Showing latest <b>9</b></summary>
+<summary><b>Assigned Issues</b> · Total: <b>14</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
+| [#1578](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1578) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Elastic Toggle Switch (CSS-only)](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1578) |  | 🟢 `OPEN` | Jun 06, 2026 |
+| [#1582](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1582) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Interactive Star Rating System](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1582) |  | 🟢 `OPEN` | Jun 06, 2026 |
+| [#1581](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1581) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Bouncing Typing Indicator (Chat Bubble)](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1581) |  | 🟢 `OPEN` | Jun 06, 2026 |
+| [#1580](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1580) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Animation: Cyberpunk Glitch Text Hover Effect](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1580) |  | 🟢 `OPEN` | Jun 06, 2026 |
+| [#1579](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1579) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Animated Floating Action Button (FAB...](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1579) |  | 🟢 `OPEN` | Jun 06, 2026 |
 | [#1221](https://github.com/magic-peach/reframe/issues/1221) | `magic-peach/reframe` | [[FEATURE]: Multi-Segment Trimming — Cut Unwanted Sections...](https://github.com/magic-peach/reframe/issues/1221) | ![enhancement](https://img.shields.io/badge/enhancement-A2EEEF?style=flat-square) ![feature](https://img.shields.io/badge/feature-0075CA?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-0075ca?style=flat-square) | 🟢 `OPEN` | Jun 01, 2026 |
 | [#1216](https://github.com/magic-peach/reframe/issues/1216) | `magic-peach/reframe` | [[FEATURE] : Add Missing LICENSE File for Existing License...](https://github.com/magic-peach/reframe/issues/1216) | ![enhancement](https://img.shields.io/badge/enhancement-A2EEEF?style=flat-square) ![feature](https://img.shields.io/badge/feature-0075CA?style=flat-square) | 🟢 `OPEN` | Jun 01, 2026 |
 | [#485](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | `JiyaBatra/CODEVIBE-` | [[Feature]: Add Gamification System (XP & Leveling) for Us...](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![GSSoC26](https://img.shields.io/badge/GSSoC26-b60205?style=flat-square) | 🔴 `CLOSED` | Jun 01, 2026 |
 | [#769](https://github.com/RatLoopz/sahidawa-india/issues/769) | `RatLoopz/sahidawa-india` | [[FEATURE] Add Production-Grade Multi-Stage Dockerization...](https://github.com/RatLoopz/sahidawa-india/issues/769) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-DC2626?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | May 28, 2026 |
 | [#411](https://github.com/aryandas2911/DailyForge/issues/411) | `aryandas2911/DailyForge` | [Fix Core Bugs in Task and Routine APIs](https://github.com/aryandas2911/DailyForge/issues/411) | ![bug](https://img.shields.io/badge/bug-d73a4a?style=flat-square) ![GSSoC '26](https://img.shields.io/badge/GSSoC%20%2726-d93f0b?style=flat-square) ![backend](https://img.shields.io/badge/backend-93570c?style=flat-square) | 🟢 `OPEN` | May 27, 2026 |
-| [#134](https://github.com/janavipandole/Cara/issues/134) | `janavipandole/Cara` | [[ENHANCEMENT] Refactor Header and Footer into Reusable Co...](https://github.com/janavipandole/Cara/issues/134) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🔴 `CLOSED` | May 24, 2026 |
-| [#81](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | `priyanshu5ingh/VISUALAIZE` | [[FEAT] Performance & API Optimization (Redis Prompt Cachi...](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![gssoc2026](https://img.shields.io/badge/gssoc2026-007bff?style=flat-square) ![gssoc](https://img.shields.io/badge/gssoc-6f42c1?style=flat-square) | 🟢 `OPEN` | May 20, 2026 |
-| [#218](https://github.com/RatLoopz/sahidawa-india/issues/218) | `RatLoopz/sahidawa-india` | [chore: Optimize Root docker-compose.yml to Integrate Cust...](https://github.com/RatLoopz/sahidawa-india/issues/218) | ![level:intermediate](https://img.shields.io/badge/level%3Aintermediate-D97706?style=flat-square) ![type:performance](https://img.shields.io/badge/type%3Aperformance-D97706?style=flat-square) | 🔴 `CLOSED` | May 18, 2026 |
-| [#111](https://github.com/RatLoopz/sahidawa-india/issues/111) | `RatLoopz/sahidawa-india` | [Implement Admin Moderation System for Community Counterfe...](https://github.com/RatLoopz/sahidawa-india/issues/111) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-DC2626?style=flat-square) | 🔴 `CLOSED` | May 16, 2026 |
 
 [View all assigned issues](https://github.com/issues/assigned?q=assignee%3Ashyam-medh%20type%3Aissue)
 
 </details>
 
 <details>
-<summary><b>Issues Raised By Me</b> · Total: <b>12</b> · Showing latest <b>10</b></summary>
+<summary><b>Issues Raised By Me</b> · Total: <b>19</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
+| [#933](https://github.com/JiyaBatra/CODEVIBE-/issues/933) | `JiyaBatra/CODEVIBE-` | [[Feature]: Implement Animated Skeleton Loading States for...](https://github.com/JiyaBatra/CODEVIBE-/issues/933) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🟢 `OPEN` | Jun 06, 2026 |
+| [#934](https://github.com/JiyaBatra/CODEVIBE-/issues/934) | `JiyaBatra/CODEVIBE-` | [[Feature]: Create Reusable <CodeBlock /> Component with C...](https://github.com/JiyaBatra/CODEVIBE-/issues/934) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🟢 `OPEN` | Jun 06, 2026 |
+| [#1578](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1578) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Elastic Toggle Switch (CSS-only)](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1578) |  | 🟢 `OPEN` | Jun 06, 2026 |
+| [#1582](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1582) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Interactive Star Rating System](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1582) |  | 🟢 `OPEN` | Jun 06, 2026 |
+| [#1581](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1581) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Bouncing Typing Indicator (Chat Bubble)](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1581) |  | 🟢 `OPEN` | Jun 06, 2026 |
+| [#1580](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1580) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Animation: Cyberpunk Glitch Text Hover Effect](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1580) |  | 🟢 `OPEN` | Jun 06, 2026 |
+| [#1579](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1579) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Animated Floating Action Button (FAB...](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1579) |  | 🟢 `OPEN` | Jun 06, 2026 |
 | [#1869](https://github.com/recodehive/recode-website/issues/1869) | `recodehive/recode-website` | [💡[Feature]: Optimize Dockerfile for Production with Multi...](https://github.com/recodehive/recode-website/issues/1869) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![level 1](https://img.shields.io/badge/level%201-aaaaaa?style=flat-square) ![recode](https://img.shields.io/badge/recode-a99231?style=flat-square) | 🟢 `OPEN` | Jun 05, 2026 |
 | [#1221](https://github.com/magic-peach/reframe/issues/1221) | `magic-peach/reframe` | [[FEATURE]: Multi-Segment Trimming — Cut Unwanted Sections...](https://github.com/magic-peach/reframe/issues/1221) | ![enhancement](https://img.shields.io/badge/enhancement-A2EEEF?style=flat-square) ![feature](https://img.shields.io/badge/feature-0075CA?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-0075ca?style=flat-square) | 🟢 `OPEN` | Jun 01, 2026 |
 | [#485](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | `JiyaBatra/CODEVIBE-` | [[Feature]: Add Gamification System (XP & Leveling) for Us...](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![GSSoC26](https://img.shields.io/badge/GSSoC26-b60205?style=flat-square) | 🔴 `CLOSED` | Jun 01, 2026 |
-| [#769](https://github.com/RatLoopz/sahidawa-india/issues/769) | `RatLoopz/sahidawa-india` | [[FEATURE] Add Production-Grade Multi-Stage Dockerization...](https://github.com/RatLoopz/sahidawa-india/issues/769) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-DC2626?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | May 28, 2026 |
-| [#627](https://github.com/komalharshita/DevPath/issues/627) | `komalharshita/DevPath` | [[Bug]: "Clear Filters" button does not remove previous pr...](https://github.com/komalharshita/DevPath/issues/627) | ![bug](https://img.shields.io/badge/bug-ededed?style=flat-square) | 🟢 `OPEN` | May 27, 2026 |
-| [#411](https://github.com/aryandas2911/DailyForge/issues/411) | `aryandas2911/DailyForge` | [Fix Core Bugs in Task and Routine APIs](https://github.com/aryandas2911/DailyForge/issues/411) | ![bug](https://img.shields.io/badge/bug-d73a4a?style=flat-square) ![GSSoC '26](https://img.shields.io/badge/GSSoC%20%2726-d93f0b?style=flat-square) ![backend](https://img.shields.io/badge/backend-93570c?style=flat-square) | 🟢 `OPEN` | May 27, 2026 |
-| [#134](https://github.com/janavipandole/Cara/issues/134) | `janavipandole/Cara` | [[ENHANCEMENT] Refactor Header and Footer into Reusable Co...](https://github.com/janavipandole/Cara/issues/134) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🔴 `CLOSED` | May 24, 2026 |
-| [#81](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | `priyanshu5ingh/VISUALAIZE` | [[FEAT] Performance & API Optimization (Redis Prompt Cachi...](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![gssoc2026](https://img.shields.io/badge/gssoc2026-007bff?style=flat-square) ![gssoc](https://img.shields.io/badge/gssoc-6f42c1?style=flat-square) | 🟢 `OPEN` | May 20, 2026 |
-| [#265](https://github.com/Suhani1234-5/TourEase/issues/265) | `Suhani1234-5/TourEase` | [multilingual support and AI Bot](https://github.com/Suhani1234-5/TourEase/issues/265) |  | 🔴 `CLOSED` | May 18, 2026 |
-| [#110](https://github.com/RatLoopz/sahidawa-india/issues/110) | `RatLoopz/sahidawa-india` | [In mobile view -> profile, alerts, scan these part is not...](https://github.com/RatLoopz/sahidawa-india/issues/110) |  | 🔴 `CLOSED` | May 16, 2026 |
 
 [View all issues raised by me](https://github.com/search?q=author%3Ashyam-medh%20type%3Aissue&type=issues)
 
@@ -215,13 +216,14 @@ me.say_hi()
 </div>
 
 <!-- PRS_START -->
-> Last updated: **Jun 06, 2026 00:10 UTC** &nbsp;|&nbsp; Total: **11**
+> Last updated: **Jun 06, 2026 04:55 UTC** &nbsp;|&nbsp; Total: **12**
 
 <details>
-<summary><b>Pull Requests</b> · Total: <b>11</b> · Showing latest <b>10</b></summary>
+<summary><b>Pull Requests</b> · Total: <b>12</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
+| [#1583](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1583) | `SAPTARSHI-coder/EaseMotion-css` | [feat: add elastic toggle switch submission](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1583) | ![contribution](https://img.shields.io/badge/contribution-ededed?style=flat-square) | 🟢 `OPEN` | Jun 06, 2026 |
 | [#1249](https://github.com/magic-peach/reframe/pull/1249) | `magic-peach/reframe` | [feat: add multi-segment trimming (#1221)](https://github.com/magic-peach/reframe/pull/1249) | ![gssoc'26](https://img.shields.io/badge/gssoc%2726-FF6B35?style=flat-square) ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-67e414?style=flat-square) ![type:bug](https://img.shields.io/badge/type%3Abug-d73a4a?style=flat-square) | 🟢 `OPEN` | Jun 01, 2026 |
 | [#703](https://github.com/JiyaBatra/CODEVIBE-/pull/703) | `JiyaBatra/CODEVIBE-` | [Feature/gamification](https://github.com/JiyaBatra/CODEVIBE-/pull/703) | ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-3b935f?style=flat-square) ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-887041?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-fcef91?style=flat-square) | 🟣 `MERGED` | Jun 01, 2026 |
 | [#82](https://github.com/priyanshu5ingh/VISUALAIZE/pull/82) | `priyanshu5ingh/VISUALAIZE` | [Performance & API Optimization (Redis Prompt Caching & AP...](https://github.com/priyanshu5ingh/VISUALAIZE/pull/82) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![gssoc2026](https://img.shields.io/badge/gssoc2026-007bff?style=flat-square) ![gssoc](https://img.shields.io/badge/gssoc-6f42c1?style=flat-square) | 🟢 `OPEN` | May 31, 2026 |
@@ -231,7 +233,6 @@ me.say_hi()
 | [#180](https://github.com/janavipandole/Cara/pull/180) | `janavipandole/Cara` | [Feature/refactor header footer](https://github.com/janavipandole/Cara/pull/180) | ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-8a235f?style=flat-square) ![level:beginner](https://img.shields.io/badge/level%3Abeginner-50cf4a?style=flat-square) | 🔴 `CLOSED` | May 18, 2026 |
 | [#431](https://github.com/aryandas2911/DailyForge/pull/431) | `aryandas2911/DailyForge` | [feat(ui): redesign auth pages and enhance glassmorphism U...](https://github.com/aryandas2911/DailyForge/pull/431) |  | 🔴 `CLOSED` | May 17, 2026 |
 | [#412](https://github.com/aryandas2911/DailyForge/pull/412) | `aryandas2911/DailyForge` | [Fix core task and routine bugs](https://github.com/aryandas2911/DailyForge/pull/412) |  | 🟢 `OPEN` | May 16, 2026 |
-| [#141](https://github.com/RatLoopz/sahidawa-india/pull/141) | `RatLoopz/sahidawa-india` | [Feature/admin moderation](https://github.com/RatLoopz/sahidawa-india/pull/141) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-DC2626?style=flat-square) ![quality:exceptional](https://img.shields.io/badge/quality%3Aexceptional-0F766E?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) | 🟣 `MERGED` | May 15, 2026 |
 
 [View all pull requests](https://github.com/search?q=author%3Ashyam-medh%20type%3Apr&type=pullrequests)
 

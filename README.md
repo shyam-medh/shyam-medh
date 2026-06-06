@@ -159,7 +159,7 @@ me.say_hi()
 </div>
 
 <!-- ISSUES_START -->
-> Last updated: **Jun 05, 2026 22:17 UTC** &nbsp;|&nbsp; Assigned: **9** &nbsp;|&nbsp; Raised: **11**
+> Last updated: **Jun 06, 2026 00:10 UTC** &nbsp;|&nbsp; Assigned: **9** &nbsp;|&nbsp; Raised: **12**
 
 <details>
 <summary><b>Assigned Issues</b> · Total: <b>9</b> · Showing latest <b>9</b></summary>
@@ -181,10 +181,11 @@ me.say_hi()
 </details>
 
 <details>
-<summary><b>Issues Raised By Me</b> · Total: <b>11</b> · Showing latest <b>10</b></summary>
+<summary><b>Issues Raised By Me</b> · Total: <b>12</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
+| [#1869](https://github.com/recodehive/recode-website/issues/1869) | `recodehive/recode-website` | [💡[Feature]: Optimize Dockerfile for Production with Multi...](https://github.com/recodehive/recode-website/issues/1869) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![level 1](https://img.shields.io/badge/level%201-aaaaaa?style=flat-square) ![recode](https://img.shields.io/badge/recode-a99231?style=flat-square) | 🟢 `OPEN` | Jun 05, 2026 |
 | [#1221](https://github.com/magic-peach/reframe/issues/1221) | `magic-peach/reframe` | [[FEATURE]: Multi-Segment Trimming — Cut Unwanted Sections...](https://github.com/magic-peach/reframe/issues/1221) | ![enhancement](https://img.shields.io/badge/enhancement-A2EEEF?style=flat-square) ![feature](https://img.shields.io/badge/feature-0075CA?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-0075ca?style=flat-square) | 🟢 `OPEN` | Jun 01, 2026 |
 | [#485](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | `JiyaBatra/CODEVIBE-` | [[Feature]: Add Gamification System (XP & Leveling) for Us...](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![GSSoC26](https://img.shields.io/badge/GSSoC26-b60205?style=flat-square) | 🔴 `CLOSED` | Jun 01, 2026 |
 | [#769](https://github.com/RatLoopz/sahidawa-india/issues/769) | `RatLoopz/sahidawa-india` | [[FEATURE] Add Production-Grade Multi-Stage Dockerization...](https://github.com/RatLoopz/sahidawa-india/issues/769) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-DC2626?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | May 28, 2026 |
@@ -194,7 +195,6 @@ me.say_hi()
 | [#81](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | `priyanshu5ingh/VISUALAIZE` | [[FEAT] Performance & API Optimization (Redis Prompt Cachi...](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![gssoc2026](https://img.shields.io/badge/gssoc2026-007bff?style=flat-square) ![gssoc](https://img.shields.io/badge/gssoc-6f42c1?style=flat-square) | 🟢 `OPEN` | May 20, 2026 |
 | [#265](https://github.com/Suhani1234-5/TourEase/issues/265) | `Suhani1234-5/TourEase` | [multilingual support and AI Bot](https://github.com/Suhani1234-5/TourEase/issues/265) |  | 🔴 `CLOSED` | May 18, 2026 |
 | [#110](https://github.com/RatLoopz/sahidawa-india/issues/110) | `RatLoopz/sahidawa-india` | [In mobile view -> profile, alerts, scan these part is not...](https://github.com/RatLoopz/sahidawa-india/issues/110) |  | 🔴 `CLOSED` | May 16, 2026 |
-| [#415](https://github.com/aryandas2911/DailyForge/issues/415) | `aryandas2911/DailyForge` | [Upgrade UI with iOS-Style Glassmorphism and Add Editable...](https://github.com/aryandas2911/DailyForge/issues/415) |  | 🔴 `CLOSED` | May 16, 2026 |
 
 [View all issues raised by me](https://github.com/search?q=author%3Ashyam-medh%20type%3Aissue&type=issues)
 
@@ -215,7 +215,7 @@ me.say_hi()
 </div>
 
 <!-- PRS_START -->
-> Last updated: **Jun 05, 2026 22:17 UTC** &nbsp;|&nbsp; Total: **11**
+> Last updated: **Jun 06, 2026 00:10 UTC** &nbsp;|&nbsp; Total: **11**
 
 <details>
 <summary><b>Pull Requests</b> · Total: <b>11</b> · Showing latest <b>10</b></summary>

@@ -159,7 +159,7 @@ me.say_hi()
 </div>
 
 <!-- ISSUES_START -->
-> Last updated: **Jun 08, 2026 11:02 UTC** &nbsp;|&nbsp; Assigned: **14** &nbsp;|&nbsp; Raised: **19**
+> Last updated: **Jun 08, 2026 15:59 UTC** &nbsp;|&nbsp; Assigned: **14** &nbsp;|&nbsp; Raised: **19**
 
 <details>
 <summary><b>Assigned Issues</b> · Total: <b>14</b> · Showing latest <b>10</b></summary>
@@ -216,18 +216,18 @@ me.say_hi()
 </div>
 
 <!-- PRS_START -->
-> Last updated: **Jun 08, 2026 11:02 UTC** &nbsp;|&nbsp; Total: **15**
+> Last updated: **Jun 08, 2026 15:59 UTC** &nbsp;|&nbsp; Total: **15**
 
 <details>
 <summary><b>Pull Requests</b> · Total: <b>15</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
+| [#1873](https://github.com/recodehive/recode-website/pull/1873) | `recodehive/recode-website` | [feat: optimize Dockerfile for production with multi-stage...](https://github.com/recodehive/recode-website/pull/1873) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![level 1](https://img.shields.io/badge/level%201-aaaaaa?style=flat-square) ![recode](https://img.shields.io/badge/recode-a99231?style=flat-square) | 🟢 `OPEN` | Jun 08, 2026 |
 | [#82](https://github.com/priyanshu5ingh/VISUALAIZE/pull/82) | `priyanshu5ingh/VISUALAIZE` | [Performance & API Optimization (Redis Prompt Caching & AP...](https://github.com/priyanshu5ingh/VISUALAIZE/pull/82) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![gssoc2026](https://img.shields.io/badge/gssoc2026-007bff?style=flat-square) ![gssoc](https://img.shields.io/badge/gssoc-6f42c1?style=flat-square) | 🟢 `OPEN` | Jun 06, 2026 |
 | [#1583](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1583) | `SAPTARSHI-coder/EaseMotion-css` | [feat: add elastic toggle switch submission](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1583) | ![enhancement](https://img.shields.io/badge/enhancement-22c55e?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🟣 `MERGED` | Jun 06, 2026 |
 | [#1699](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1699) | `SAPTARSHI-coder/EaseMotion-css` | [feat: add shape-shifting dynamic island fab menu](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1699) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![integrated](https://img.shields.io/badge/integrated-5319e7?style=flat-square) | 🟣 `MERGED` | Jun 06, 2026 |
 | [#1708](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1708) | `SAPTARSHI-coder/EaseMotion-css` | [feat: add ultimate 3D glitch text collection](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1708) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![integrated](https://img.shields.io/badge/integrated-5319e7?style=flat-square) | 🟣 `MERGED` | Jun 06, 2026 |
-| [#1873](https://github.com/recodehive/recode-website/pull/1873) | `recodehive/recode-website` | [feat: optimize Dockerfile for production with multi-stage...](https://github.com/recodehive/recode-website/pull/1873) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![level 1](https://img.shields.io/badge/level%201-aaaaaa?style=flat-square) ![recode](https://img.shields.io/badge/recode-a99231?style=flat-square) | 🟢 `OPEN` | Jun 06, 2026 |
 | [#1249](https://github.com/magic-peach/reframe/pull/1249) | `magic-peach/reframe` | [feat: add multi-segment trimming (#1221)](https://github.com/magic-peach/reframe/pull/1249) | ![gssoc'26](https://img.shields.io/badge/gssoc%2726-FF6B35?style=flat-square) ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-67e414?style=flat-square) ![type:bug](https://img.shields.io/badge/type%3Abug-d73a4a?style=flat-square) | 🟢 `OPEN` | Jun 01, 2026 |
 | [#703](https://github.com/JiyaBatra/CODEVIBE-/pull/703) | `JiyaBatra/CODEVIBE-` | [Feature/gamification](https://github.com/JiyaBatra/CODEVIBE-/pull/703) | ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-3b935f?style=flat-square) ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-887041?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-fcef91?style=flat-square) | 🟣 `MERGED` | Jun 01, 2026 |
 | [#1362](https://github.com/magic-peach/reframe/pull/1362) | `magic-peach/reframe` | [chore: add missing MIT LICENSE file (#1216)](https://github.com/magic-peach/reframe/pull/1362) | ![gssoc'26](https://img.shields.io/badge/gssoc%2726-FF6B35?style=flat-square) ![level:beginner](https://img.shields.io/badge/level%3Abeginner-c362a1?style=flat-square) ![type:bug](https://img.shields.io/badge/type%3Abug-d73a4a?style=flat-square) | 🟢 `OPEN` | May 28, 2026 |

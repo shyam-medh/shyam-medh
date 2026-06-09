@@ -159,7 +159,7 @@ me.say_hi()
 </div>
 
 <!-- ISSUES_START -->
-> Last updated: **Jun 09, 2026 03:51 UTC** &nbsp;|&nbsp; Assigned: **14** &nbsp;|&nbsp; Raised: **19**
+> Last updated: **Jun 09, 2026 20:10 UTC** &nbsp;|&nbsp; Assigned: **14** &nbsp;|&nbsp; Raised: **19**
 
 <details>
 <summary><b>Assigned Issues</b> · Total: <b>14</b> · Showing latest <b>10</b></summary>
@@ -216,14 +216,14 @@ me.say_hi()
 </div>
 
 <!-- PRS_START -->
-> Last updated: **Jun 09, 2026 03:51 UTC** &nbsp;|&nbsp; Total: **15**
+> Last updated: **Jun 09, 2026 20:10 UTC** &nbsp;|&nbsp; Total: **15**
 
 <details>
 <summary><b>Pull Requests</b> · Total: <b>15</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
-| [#1873](https://github.com/recodehive/recode-website/pull/1873) | `recodehive/recode-website` | [feat: optimize Dockerfile for production with multi-stage...](https://github.com/recodehive/recode-website/pull/1873) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![level 1](https://img.shields.io/badge/level%201-aaaaaa?style=flat-square) ![recode](https://img.shields.io/badge/recode-a99231?style=flat-square) | 🟢 `OPEN` | Jun 08, 2026 |
+| [#1873](https://github.com/recodehive/recode-website/pull/1873) | `recodehive/recode-website` | [feat: optimize Dockerfile for production with multi-stage...](https://github.com/recodehive/recode-website/pull/1873) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![level 1](https://img.shields.io/badge/level%201-aaaaaa?style=flat-square) ![recode](https://img.shields.io/badge/recode-a99231?style=flat-square) | 🟢 `OPEN` | Jun 09, 2026 |
 | [#82](https://github.com/priyanshu5ingh/VISUALAIZE/pull/82) | `priyanshu5ingh/VISUALAIZE` | [Performance & API Optimization (Redis Prompt Caching & AP...](https://github.com/priyanshu5ingh/VISUALAIZE/pull/82) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![gssoc2026](https://img.shields.io/badge/gssoc2026-007bff?style=flat-square) ![gssoc](https://img.shields.io/badge/gssoc-6f42c1?style=flat-square) | 🟢 `OPEN` | Jun 06, 2026 |
 | [#1583](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1583) | `SAPTARSHI-coder/EaseMotion-css` | [feat: add elastic toggle switch submission](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1583) | ![enhancement](https://img.shields.io/badge/enhancement-22c55e?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🟣 `MERGED` | Jun 06, 2026 |
 | [#1699](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1699) | `SAPTARSHI-coder/EaseMotion-css` | [feat: add shape-shifting dynamic island fab menu](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1699) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![integrated](https://img.shields.io/badge/integrated-5319e7?style=flat-square) | 🟣 `MERGED` | Jun 06, 2026 |
@@ -366,10 +366,10 @@ MySQL (Indexed + Normalized)
   <img src="https://img.shields.io/badge/GSSoC%2726-Contributor-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="GSSoC 26 Contributor"/>
 </a>
 <a href="https://gssoc.girlscript.org/profile/5fbedb80-8027-48e2-b0ae-26c9d96f735c">
-  <img src="https://img.shields.io/badge/Rank-%23427%20of%2043585-7C3AED?style=for-the-badge&logo=leaderboard&logoColor=white" alt="GSSoC Rank"/>
+  <img src="https://img.shields.io/badge/Rank-%23422%20of%2043586-7C3AED?style=for-the-badge&logo=leaderboard&logoColor=white" alt="GSSoC Rank"/>
 </a>
 <a href="https://gssoc.girlscript.org/profile/5fbedb80-8027-48e2-b0ae-26c9d96f735c">
-  <img src="https://img.shields.io/badge/Points-4543-1FB6A6?style=for-the-badge&logo=starship&logoColor=white" alt="GSSoC Points"/>
+  <img src="https://img.shields.io/badge/Points-4512-1FB6A6?style=for-the-badge&logo=starship&logoColor=white" alt="GSSoC Points"/>
 </a>
 
 </div>
@@ -379,9 +379,9 @@ MySQL (Indexed + Normalized)
 | Role | **Contributor** |
 | Status | **Accepted** |
 | Track | **Open Source Track + AI / Agents Track** |
-| Total Points | **4,543** |
-| Global Rank | **#427 / 43,585** |
-| Merged PRs | **7** across **5** projects |
+| Total Points | **4,512** |
+| Global Rank | **#422 / 43,586** |
+| Merged PRs | **7** across **4** projects |
 | Bounty Tasks | **5** completed |
 
 <details>
@@ -390,9 +390,9 @@ MySQL (Indexed + Normalized)
 | Source | Points | Notes |
 | ------ | -----: | ----- |
 | Community Bounties | **650** | Follow X/Twitter, Follow Instagram, Share on LinkedIn, Subscribe to newsletter, AI idea submission |
-| Merged Pull Requests | **823** | 7 scored PRs |
+| Merged Pull Requests | **792** | 7 scored PRs |
 | Profile, role, and program milestones | **3,070** | Selection/profile/program scoring from GSSoC |
-| **Total** | **4,543** | Current public profile score |
+| **Total** | **4,512** | Current public profile score |
 
 </details>
 
@@ -401,13 +401,13 @@ MySQL (Indexed + Normalized)
 
 | Project | PR | Level | Points |
 | ------- | -- | ----- | -----: |
+| `saptarshi-coder/easemotion-css` | [feat: add elastic toggle switch submission](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1583) | Intermediate | **95** |
 | `saptarshi-coder/easemotion-css` | [feat: add shape-shifting dynamic island fab menu](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1699) | Intermediate | **95** |
 | `saptarshi-coder/easemotion-css` | [feat: add ultimate 3D glitch text collection](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1708) | Intermediate | **95** |
 | `jiyabatra/codevibe-` | [Feature/gamification](https://github.com/JiyaBatra/CODEVIBE-/pull/703) | Advanced · Clean | **126** |
-| `JiyaBatra/CODEVIBE-` | [Feature/gamification](https://github.com/JiyaBatra/CODEVIBE-/pull/703) | Advanced · Clean | **126** |
-| `RatLoopz/sahidawa-india` | [feat(devops): implement production-grade dockerization and nginx orchestration](https://github.com/RatLoopz/sahidawa-india/pull/803) | Advanced · Exceptional | **163** |
-| `Suhani1234-5/TourEase` | [feat(frontend): enhance language translation and UI accessibility](https://github.com/Suhani1234-5/TourEase/pull/300) | Intermediate | **85** |
-| `RatLoopz/sahidawa-india` | [Feature/admin moderation](https://github.com/RatLoopz/sahidawa-india/pull/141) | Advanced · Exceptional | **133** |
+| `ratloopz/sahidawa-india` | [feat(devops): implement production-grade dockerization and nginx orchestration](https://github.com/RatLoopz/sahidawa-india/pull/803) | Advanced · Exceptional | **163** |
+| `suhani1234-5/tourease` | [feat(frontend): enhance language translation and UI accessibility](https://github.com/Suhani1234-5/TourEase/pull/300) | Intermediate | **85** |
+| `ratloopz/sahidawa-india` | [Feature/admin moderation](https://github.com/RatLoopz/sahidawa-india/pull/141) | Advanced · Exceptional | **133** |
 
 </details>
 

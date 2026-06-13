@@ -159,13 +159,14 @@ me.say_hi()
 </div>
 
 <!-- ISSUES_START -->
-> Last updated: **Jun 13, 2026 11:16 UTC** &nbsp;|&nbsp; Assigned: **13** &nbsp;|&nbsp; Raised: **19**
+> Last updated: **Jun 13, 2026 14:06 UTC** &nbsp;|&nbsp; Assigned: **14** &nbsp;|&nbsp; Raised: **19**
 
 <details>
-<summary><b>Assigned Issues</b> · Total: <b>13</b> · Showing latest <b>10</b></summary>
+<summary><b>Assigned Issues</b> · Total: <b>14</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
+| [#4521](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/4521) | `SAPTARSHI-coder/EaseMotion-css` | [[BUG] : Missing Custom 404 Page for Invalid Routes](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/4521) | ![bug](https://img.shields.io/badge/bug-d73a4a?style=flat-square) ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) | 🟢 `OPEN` | Jun 13, 2026 |
 | [#1221](https://github.com/magic-peach/reframe/issues/1221) | `magic-peach/reframe` | [[FEATURE]: Multi-Segment Trimming — Cut Unwanted Sections...](https://github.com/magic-peach/reframe/issues/1221) | ![enhancement](https://img.shields.io/badge/enhancement-A2EEEF?style=flat-square) ![feature](https://img.shields.io/badge/feature-0075CA?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-0075ca?style=flat-square) | 🟢 `OPEN` | Jun 12, 2026 |
 | [#1869](https://github.com/recodehive/recode-website/issues/1869) | `recodehive/recode-website` | [💡[Feature]: Optimize Dockerfile for Production with Multi...](https://github.com/recodehive/recode-website/issues/1869) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![level 1](https://img.shields.io/badge/level%201-aaaaaa?style=flat-square) ![recode](https://img.shields.io/badge/recode-a99231?style=flat-square) | 🟢 `OPEN` | Jun 07, 2026 |
 | [#1578](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1578) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Elastic Toggle Switch (CSS-only)](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1578) | ![component](https://img.shields.io/badge/component-f97316?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
@@ -175,7 +176,6 @@ me.say_hi()
 | [#1582](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1582) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Interactive Star Rating System](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1582) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
 | [#485](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | `JiyaBatra/CODEVIBE-` | [[Feature]: Add Gamification System (XP & Leveling) for Us...](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![GSSoC26](https://img.shields.io/badge/GSSoC26-b60205?style=flat-square) | 🔴 `CLOSED` | Jun 01, 2026 |
 | [#769](https://github.com/RatLoopz/sahidawa-india/issues/769) | `RatLoopz/sahidawa-india` | [[FEATURE] Add Production-Grade Multi-Stage Dockerization...](https://github.com/RatLoopz/sahidawa-india/issues/769) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-DC2626?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | May 28, 2026 |
-| [#134](https://github.com/janavipandole/Cara/issues/134) | `janavipandole/Cara` | [[ENHANCEMENT] Refactor Header and Footer into Reusable Co...](https://github.com/janavipandole/Cara/issues/134) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🔴 `CLOSED` | May 24, 2026 |
 
 [View all assigned issues](https://github.com/issues/assigned?q=assignee%3Ashyam-medh%20type%3Aissue)
 
@@ -216,13 +216,14 @@ me.say_hi()
 </div>
 
 <!-- PRS_START -->
-> Last updated: **Jun 13, 2026 11:16 UTC** &nbsp;|&nbsp; Total: **15**
+> Last updated: **Jun 13, 2026 14:06 UTC** &nbsp;|&nbsp; Total: **16**
 
 <details>
-<summary><b>Pull Requests</b> · Total: <b>15</b> · Showing latest <b>10</b></summary>
+<summary><b>Pull Requests</b> · Total: <b>16</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
+| [#7697](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/7697) | `SAPTARSHI-coder/EaseMotion-css` | [fix(docs): add futuristic 404 page and fix responsive hea...](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/7697) | ![documentation](https://img.shields.io/badge/documentation-0075ca?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) | 🔴 `CLOSED` | Jun 13, 2026 |
 | [#1873](https://github.com/recodehive/recode-website/pull/1873) | `recodehive/recode-website` | [feat: optimize Dockerfile for production with multi-stage...](https://github.com/recodehive/recode-website/pull/1873) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![level 1](https://img.shields.io/badge/level%201-aaaaaa?style=flat-square) ![recode](https://img.shields.io/badge/recode-a99231?style=flat-square) | 🟢 `OPEN` | Jun 10, 2026 |
 | [#82](https://github.com/priyanshu5ingh/VISUALAIZE/pull/82) | `priyanshu5ingh/VISUALAIZE` | [Performance & API Optimization (Redis Prompt Caching & AP...](https://github.com/priyanshu5ingh/VISUALAIZE/pull/82) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![gssoc2026](https://img.shields.io/badge/gssoc2026-007bff?style=flat-square) ![gssoc](https://img.shields.io/badge/gssoc-6f42c1?style=flat-square) | 🟢 `OPEN` | Jun 10, 2026 |
 | [#1583](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1583) | `SAPTARSHI-coder/EaseMotion-css` | [feat: add elastic toggle switch submission](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1583) | ![enhancement](https://img.shields.io/badge/enhancement-22c55e?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🟣 `MERGED` | Jun 06, 2026 |
@@ -232,7 +233,6 @@ me.say_hi()
 | [#703](https://github.com/JiyaBatra/CODEVIBE-/pull/703) | `JiyaBatra/CODEVIBE-` | [Feature/gamification](https://github.com/JiyaBatra/CODEVIBE-/pull/703) | ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-3b935f?style=flat-square) ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-887041?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-fcef91?style=flat-square) | 🟣 `MERGED` | Jun 01, 2026 |
 | [#1362](https://github.com/magic-peach/reframe/pull/1362) | `magic-peach/reframe` | [chore: add missing MIT LICENSE file (#1216)](https://github.com/magic-peach/reframe/pull/1362) | ![gssoc'26](https://img.shields.io/badge/gssoc%2726-FF6B35?style=flat-square) ![level:beginner](https://img.shields.io/badge/level%3Abeginner-c362a1?style=flat-square) ![type:bug](https://img.shields.io/badge/type%3Abug-d73a4a?style=flat-square) | 🟢 `OPEN` | May 28, 2026 |
 | [#803](https://github.com/RatLoopz/sahidawa-india/pull/803) | `RatLoopz/sahidawa-india` | [feat(devops): implement production-grade dockerization an...](https://github.com/RatLoopz/sahidawa-india/pull/803) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-DC2626?style=flat-square) ![quality:exceptional](https://img.shields.io/badge/quality%3Aexceptional-0F766E?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) | 🟣 `MERGED` | May 28, 2026 |
-| [#300](https://github.com/Suhani1234-5/TourEase/pull/300) | `Suhani1234-5/TourEase` | [feat(frontend): enhance language translation and UI acces...](https://github.com/Suhani1234-5/TourEase/pull/300) | ![Gssoc'26](https://img.shields.io/badge/Gssoc%2726-3001fa?style=flat-square) ![gssoc](https://img.shields.io/badge/gssoc-4d9019?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-da9df8?style=flat-square) | 🟣 `MERGED` | May 18, 2026 |
 
 [View all pull requests](https://github.com/search?q=author%3Ashyam-medh%20type%3Apr&type=pullrequests)
 

@@ -159,10 +159,10 @@ me.say_hi()
 </div>
 
 <!-- ISSUES_START -->
-> Last updated: **Jun 12, 2026 23:20 UTC** &nbsp;|&nbsp; Assigned: **14** &nbsp;|&nbsp; Raised: **19**
+> Last updated: **Jun 13, 2026 04:06 UTC** &nbsp;|&nbsp; Assigned: **13** &nbsp;|&nbsp; Raised: **19**
 
 <details>
-<summary><b>Assigned Issues</b> · Total: <b>14</b> · Showing latest <b>10</b></summary>
+<summary><b>Assigned Issues</b> · Total: <b>13</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
@@ -175,7 +175,7 @@ me.say_hi()
 | [#1582](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1582) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Interactive Star Rating System](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1582) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
 | [#485](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | `JiyaBatra/CODEVIBE-` | [[Feature]: Add Gamification System (XP & Leveling) for Us...](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![GSSoC26](https://img.shields.io/badge/GSSoC26-b60205?style=flat-square) | 🔴 `CLOSED` | Jun 01, 2026 |
 | [#769](https://github.com/RatLoopz/sahidawa-india/issues/769) | `RatLoopz/sahidawa-india` | [[FEATURE] Add Production-Grade Multi-Stage Dockerization...](https://github.com/RatLoopz/sahidawa-india/issues/769) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-DC2626?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | May 28, 2026 |
-| [#411](https://github.com/aryandas2911/DailyForge/issues/411) | `aryandas2911/DailyForge` | [Fix Core Bugs in Task and Routine APIs](https://github.com/aryandas2911/DailyForge/issues/411) | ![bug](https://img.shields.io/badge/bug-d73a4a?style=flat-square) ![GSSoC '26](https://img.shields.io/badge/GSSoC%20%2726-d93f0b?style=flat-square) ![backend](https://img.shields.io/badge/backend-93570c?style=flat-square) | 🟢 `OPEN` | May 27, 2026 |
+| [#134](https://github.com/janavipandole/Cara/issues/134) | `janavipandole/Cara` | [[ENHANCEMENT] Refactor Header and Footer into Reusable Co...](https://github.com/janavipandole/Cara/issues/134) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🔴 `CLOSED` | May 24, 2026 |
 
 [View all assigned issues](https://github.com/issues/assigned?q=assignee%3Ashyam-medh%20type%3Aissue)
 
@@ -186,6 +186,7 @@ me.say_hi()
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
+| [#411](https://github.com/aryandas2911/DailyForge/issues/411) | `aryandas2911/DailyForge` | [Fix Core Bugs in Task and Routine APIs](https://github.com/aryandas2911/DailyForge/issues/411) | ![bug](https://img.shields.io/badge/bug-d73a4a?style=flat-square) ![GSSoC '26](https://img.shields.io/badge/GSSoC%20%2726-d93f0b?style=flat-square) ![backend](https://img.shields.io/badge/backend-93570c?style=flat-square) | 🟢 `OPEN` | Jun 13, 2026 |
 | [#1221](https://github.com/magic-peach/reframe/issues/1221) | `magic-peach/reframe` | [[FEATURE]: Multi-Segment Trimming — Cut Unwanted Sections...](https://github.com/magic-peach/reframe/issues/1221) | ![enhancement](https://img.shields.io/badge/enhancement-A2EEEF?style=flat-square) ![feature](https://img.shields.io/badge/feature-0075CA?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-0075ca?style=flat-square) | 🟢 `OPEN` | Jun 12, 2026 |
 | [#933](https://github.com/JiyaBatra/CODEVIBE-/issues/933) | `JiyaBatra/CODEVIBE-` | [[Feature]: Implement Animated Skeleton Loading States for...](https://github.com/JiyaBatra/CODEVIBE-/issues/933) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🔴 `CLOSED` | Jun 08, 2026 |
 | [#1869](https://github.com/recodehive/recode-website/issues/1869) | `recodehive/recode-website` | [💡[Feature]: Optimize Dockerfile for Production with Multi...](https://github.com/recodehive/recode-website/issues/1869) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![level 1](https://img.shields.io/badge/level%201-aaaaaa?style=flat-square) ![recode](https://img.shields.io/badge/recode-a99231?style=flat-square) | 🟢 `OPEN` | Jun 07, 2026 |
@@ -195,7 +196,6 @@ me.say_hi()
 | [#1581](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1581) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Bouncing Typing Indicator (Chat Bubble)](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1581) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
 | [#1582](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1582) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Interactive Star Rating System](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1582) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
 | [#934](https://github.com/JiyaBatra/CODEVIBE-/issues/934) | `JiyaBatra/CODEVIBE-` | [[Feature]: Create Reusable <CodeBlock /> Component with C...](https://github.com/JiyaBatra/CODEVIBE-/issues/934) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
-| [#485](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | `JiyaBatra/CODEVIBE-` | [[Feature]: Add Gamification System (XP & Leveling) for Us...](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![GSSoC26](https://img.shields.io/badge/GSSoC26-b60205?style=flat-square) | 🔴 `CLOSED` | Jun 01, 2026 |
 
 [View all issues raised by me](https://github.com/search?q=author%3Ashyam-medh%20type%3Aissue&type=issues)
 
@@ -216,7 +216,7 @@ me.say_hi()
 </div>
 
 <!-- PRS_START -->
-> Last updated: **Jun 12, 2026 23:20 UTC** &nbsp;|&nbsp; Total: **15**
+> Last updated: **Jun 13, 2026 04:06 UTC** &nbsp;|&nbsp; Total: **15**
 
 <details>
 <summary><b>Pull Requests</b> · Total: <b>15</b> · Showing latest <b>10</b></summary>

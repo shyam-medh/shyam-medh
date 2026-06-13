@@ -44,6 +44,11 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: setting.json
 
+      - name: Sync README graph assets
+        run: |
+          cp profile-3d-contrib/profile-customize.svg profile-3d-contrib/profile-night-rainbow.svg
+          cp profile-3d-contrib/profile-customize.svg profile-3d-contrib/profile-south-season-animate.svg
+
       - name: Commit and push generated graph
         run: |
           git config user.email "action@github.com"

@@ -38,7 +38,7 @@ jobs:
             "color3": "#c026d3",
             "color4": "#f97316",
             "contribTypes": ["pullReq","issues","commits","repos","reviews"],
-            "type": "south-season-animate",
+            "type": "green-animate",
             "outputStandalone": true
           }
           EOF

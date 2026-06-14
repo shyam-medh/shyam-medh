@@ -1,0 +1,43 @@
+name: GitHub Readme Streak Stats
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "output/**"
+      - "profile-3d-contrib/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: streak-stats
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: "user=shyam-medh&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280"
+          path: output/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit streak stats
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A output/streak.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "update streak stats graph"
+          git pull --rebase origin main
+          git push

@@ -121,7 +121,7 @@ me.say_hi()
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shyam-medh&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280)](https://git.io/streak-stats)
+[![GitHub Streak](./output/streak.svg)](https://git.io/streak-stats)
 
 </div>
 ---

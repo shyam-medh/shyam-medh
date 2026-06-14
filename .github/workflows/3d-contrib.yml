@@ -24,36 +24,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Create Settings JSON
-        run: |
-          cat << 'EOF' > setting.json
-          {
-            "githubUserName": "shyam-medh",
-            "backgroundColor": "#0d1117",
-            "foregroundColor": "#a78bfa",
-            "frameColor": "#7c3aed",
-            "contribTypes": ["pullReq","issues","commits","repos","reviews"],
-            "type": "season-anime",
-            "outputStandalone": true
-          }
-          EOF
-
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: setting.json
-
-      - name: Sync README graph assets
-        run: |
-          cp profile-3d-contrib/profile-customize.svg profile-3d-contrib/profile-night-rainbow.svg
-          cp profile-3d-contrib/profile-customize.svg profile-3d-contrib/profile-south-season-animate.svg
 
       - name: Commit and push generated graph
         run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
-          rm -f setting.json
           git add -A profile-3d-contrib
           if git diff --staged --quiet; then
             echo "No 3D contribution changes to commit."

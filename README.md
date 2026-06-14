@@ -145,15 +145,14 @@ me.say_hi()
 </div>
 
 <!-- ISSUES_START -->
-> Last updated: **Jun 14, 2026 14:23 UTC** &nbsp;|&nbsp; Assigned: **16** &nbsp;|&nbsp; Raised: **22**
+> Last updated: **Jun 14, 2026 16:25 UTC** &nbsp;|&nbsp; Assigned: **15** &nbsp;|&nbsp; Raised: **22**
 
 <details>
-<summary><b>Assigned Issues</b> · Total: <b>16</b> · Showing latest <b>10</b></summary>
+<summary><b>Assigned Issues</b> · Total: <b>15</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
 | [#81](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | `priyanshu5ingh/VISUALAIZE` | [[FEAT] Performance & API Optimization (Redis Prompt Cachi...](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![gssoc2026](https://img.shields.io/badge/gssoc2026-007bff?style=flat-square) ![gssoc](https://img.shields.io/badge/gssoc-6f42c1?style=flat-square) | 🔴 `CLOSED` | Jun 13, 2026 |
-| [#7743](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7743) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE]  Holographic 3D Pricing Cards](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7743) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🟢 `OPEN` | Jun 13, 2026 |
 | [#7736](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7736) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] MacOS Liquid Hover Dock](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7736) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🔴 `CLOSED` | Jun 13, 2026 |
 | [#7704](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7704) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Futuristic AI Prompt Input Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7704) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🔴 `CLOSED` | Jun 13, 2026 |
 | [#1221](https://github.com/magic-peach/reframe/issues/1221) | `magic-peach/reframe` | [[FEATURE]: Multi-Segment Trimming — Cut Unwanted Sections...](https://github.com/magic-peach/reframe/issues/1221) | ![enhancement](https://img.shields.io/badge/enhancement-A2EEEF?style=flat-square) ![feature](https://img.shields.io/badge/feature-0075CA?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-0075ca?style=flat-square) | 🟢 `OPEN` | Jun 12, 2026 |
@@ -162,6 +161,7 @@ me.say_hi()
 | [#1579](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1579) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Animated Floating Action Button (FAB...](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1579) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
 | [#1580](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1580) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Animation: Cyberpunk Glitch Text Hover Effect](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1580) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
 | [#1581](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1581) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Bouncing Typing Indicator (Chat Bubble)](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1581) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
+| [#1582](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1582) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Interactive Star Rating System](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1582) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
 
 [View all assigned issues](https://github.com/issues/assigned?q=assignee%3Ashyam-medh%20type%3Aissue)
 
@@ -172,8 +172,8 @@ me.say_hi()
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
+| [#7743](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7743) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE]  Holographic 3D Pricing Cards](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7743) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🟢 `OPEN` | Jun 14, 2026 |
 | [#81](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | `priyanshu5ingh/VISUALAIZE` | [[FEAT] Performance & API Optimization (Redis Prompt Cachi...](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![gssoc2026](https://img.shields.io/badge/gssoc2026-007bff?style=flat-square) ![gssoc](https://img.shields.io/badge/gssoc-6f42c1?style=flat-square) | 🔴 `CLOSED` | Jun 13, 2026 |
-| [#7743](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7743) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE]  Holographic 3D Pricing Cards](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7743) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🟢 `OPEN` | Jun 13, 2026 |
 | [#7736](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7736) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] MacOS Liquid Hover Dock](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7736) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🔴 `CLOSED` | Jun 13, 2026 |
 | [#7704](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7704) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Futuristic AI Prompt Input Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7704) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🔴 `CLOSED` | Jun 13, 2026 |
 | [#411](https://github.com/aryandas2911/DailyForge/issues/411) | `aryandas2911/DailyForge` | [Fix Core Bugs in Task and Routine APIs](https://github.com/aryandas2911/DailyForge/issues/411) | ![bug](https://img.shields.io/badge/bug-d73a4a?style=flat-square) ![GSSoC '26](https://img.shields.io/badge/GSSoC%20%2726-d93f0b?style=flat-square) ![backend](https://img.shields.io/badge/backend-93570c?style=flat-square) | 🟢 `OPEN` | Jun 13, 2026 |
@@ -202,7 +202,7 @@ me.say_hi()
 </div>
 
 <!-- PRS_START -->
-> Last updated: **Jun 14, 2026 14:23 UTC** &nbsp;|&nbsp; Total: **19**
+> Last updated: **Jun 14, 2026 16:25 UTC** &nbsp;|&nbsp; Total: **19**
 
 <details>
 <summary><b>Pull Requests</b> · Total: <b>19</b> · Showing latest <b>10</b></summary>

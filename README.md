@@ -145,10 +145,10 @@ me.say_hi()
 </div>
 
 <!-- ISSUES_START -->
-> Last updated: **Jun 14, 2026 12:00 UTC** &nbsp;|&nbsp; Assigned: **17** &nbsp;|&nbsp; Raised: **22**
+> Last updated: **Jun 14, 2026 14:23 UTC** &nbsp;|&nbsp; Assigned: **16** &nbsp;|&nbsp; Raised: **22**
 
 <details>
-<summary><b>Assigned Issues</b> · Total: <b>17</b> · Showing latest <b>10</b></summary>
+<summary><b>Assigned Issues</b> · Total: <b>16</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
@@ -156,12 +156,12 @@ me.say_hi()
 | [#7743](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7743) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE]  Holographic 3D Pricing Cards](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7743) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🟢 `OPEN` | Jun 13, 2026 |
 | [#7736](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7736) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] MacOS Liquid Hover Dock](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7736) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🔴 `CLOSED` | Jun 13, 2026 |
 | [#7704](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7704) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Futuristic AI Prompt Input Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7704) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🔴 `CLOSED` | Jun 13, 2026 |
-| [#4521](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/4521) | `SAPTARSHI-coder/EaseMotion-css` | [[BUG] : Missing Custom 404 Page for Invalid Routes](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/4521) | ![bug](https://img.shields.io/badge/bug-d73a4a?style=flat-square) ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) | 🟢 `OPEN` | Jun 13, 2026 |
 | [#1221](https://github.com/magic-peach/reframe/issues/1221) | `magic-peach/reframe` | [[FEATURE]: Multi-Segment Trimming — Cut Unwanted Sections...](https://github.com/magic-peach/reframe/issues/1221) | ![enhancement](https://img.shields.io/badge/enhancement-A2EEEF?style=flat-square) ![feature](https://img.shields.io/badge/feature-0075CA?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-0075ca?style=flat-square) | 🟢 `OPEN` | Jun 12, 2026 |
 | [#1869](https://github.com/recodehive/recode-website/issues/1869) | `recodehive/recode-website` | [💡[Feature]: Optimize Dockerfile for Production with Multi...](https://github.com/recodehive/recode-website/issues/1869) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![level 1](https://img.shields.io/badge/level%201-aaaaaa?style=flat-square) ![recode](https://img.shields.io/badge/recode-a99231?style=flat-square) | 🟢 `OPEN` | Jun 07, 2026 |
 | [#1578](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1578) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Elastic Toggle Switch (CSS-only)](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1578) | ![component](https://img.shields.io/badge/component-f97316?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
 | [#1579](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1579) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Animated Floating Action Button (FAB...](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1579) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
 | [#1580](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1580) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Animation: Cyberpunk Glitch Text Hover Effect](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1580) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
+| [#1581](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1581) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Bouncing Typing Indicator (Chat Bubble)](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1581) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
 
 [View all assigned issues](https://github.com/issues/assigned?q=assignee%3Ashyam-medh%20type%3Aissue)
 
@@ -202,7 +202,7 @@ me.say_hi()
 </div>
 
 <!-- PRS_START -->
-> Last updated: **Jun 14, 2026 12:00 UTC** &nbsp;|&nbsp; Total: **19**
+> Last updated: **Jun 14, 2026 14:23 UTC** &nbsp;|&nbsp; Total: **19**
 
 <details>
 <summary><b>Pull Requests</b> · Total: <b>19</b> · Showing latest <b>10</b></summary>

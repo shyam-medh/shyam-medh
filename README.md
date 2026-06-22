@@ -145,7 +145,7 @@ me.say_hi()
 </div>
 
 <!-- ISSUES_START -->
-> Last updated: **Jun 22, 2026 19:33 UTC** &nbsp;|&nbsp; Assigned: **16** &nbsp;|&nbsp; Raised: **24**
+> Last updated: **Jun 22, 2026 22:05 UTC** &nbsp;|&nbsp; Assigned: **16** &nbsp;|&nbsp; Raised: **24**
 
 <details>
 <summary><b>Assigned Issues</b> · Total: <b>16</b> · Showing latest <b>10</b></summary>
@@ -202,13 +202,14 @@ me.say_hi()
 </div>
 
 <!-- PRS_START -->
-> Last updated: **Jun 22, 2026 19:33 UTC** &nbsp;|&nbsp; Total: **19**
+> Last updated: **Jun 22, 2026 22:05 UTC** &nbsp;|&nbsp; Total: **20**
 
 <details>
-<summary><b>Pull Requests</b> · Total: <b>19</b> · Showing latest <b>10</b></summary>
+<summary><b>Pull Requests</b> · Total: <b>20</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
+| [#2406](https://github.com/RatLoopz/sahidawa-india/pull/2406) | `RatLoopz/sahidawa-india` | [Speed up CI pipeline by caching build steps and enforce c...](https://github.com/RatLoopz/sahidawa-india/pull/2406) | ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:performance](https://img.shields.io/badge/type%3Aperformance-D97706?style=flat-square) ![type:devops](https://img.shields.io/badge/type%3Adevops-EA580C?style=flat-square) | 🟢 `OPEN` | Jun 22, 2026 |
 | [#7733](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/7733) | `SAPTARSHI-coder/EaseMotion-css` | [feat: add premium AI prompt input component](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/7733) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![integrated](https://img.shields.io/badge/integrated-5319e7?style=flat-square) | 🟣 `MERGED` | Jun 21, 2026 |
 | [#7768](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/7768) | `SAPTARSHI-coder/EaseMotion-css` | [feat: add ultimate edition holographic 3d pricing cards c...](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/7768) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![integrated](https://img.shields.io/badge/integrated-5319e7?style=flat-square) | 🟣 `MERGED` | Jun 21, 2026 |
 | [#82](https://github.com/priyanshu5ingh/VISUALAIZE/pull/82) | `priyanshu5ingh/VISUALAIZE` | [Performance & API Optimization (Redis Prompt Caching & AP...](https://github.com/priyanshu5ingh/VISUALAIZE/pull/82) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![gssoc2026](https://img.shields.io/badge/gssoc2026-007bff?style=flat-square) ![gssoc](https://img.shields.io/badge/gssoc-6f42c1?style=flat-square) | 🟣 `MERGED` | Jun 16, 2026 |
@@ -218,7 +219,6 @@ me.say_hi()
 | [#1583](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1583) | `SAPTARSHI-coder/EaseMotion-css` | [feat: add elastic toggle switch submission](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1583) | ![enhancement](https://img.shields.io/badge/enhancement-22c55e?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🟣 `MERGED` | Jun 06, 2026 |
 | [#1699](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1699) | `SAPTARSHI-coder/EaseMotion-css` | [feat: add shape-shifting dynamic island fab menu](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1699) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![integrated](https://img.shields.io/badge/integrated-5319e7?style=flat-square) | 🟣 `MERGED` | Jun 06, 2026 |
 | [#1708](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1708) | `SAPTARSHI-coder/EaseMotion-css` | [feat: add ultimate 3D glitch text collection](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1708) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![integrated](https://img.shields.io/badge/integrated-5319e7?style=flat-square) | 🟣 `MERGED` | Jun 06, 2026 |
-| [#1249](https://github.com/magic-peach/reframe/pull/1249) | `magic-peach/reframe` | [feat: add multi-segment trimming (#1221)](https://github.com/magic-peach/reframe/pull/1249) | ![gssoc'26](https://img.shields.io/badge/gssoc%2726-FF6B35?style=flat-square) ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-67e414?style=flat-square) ![type:bug](https://img.shields.io/badge/type%3Abug-d73a4a?style=flat-square) | 🟢 `OPEN` | Jun 01, 2026 |
 
 [View all pull requests](https://github.com/search?q=author%3Ashyam-medh%20type%3Apr&type=pullrequests)
 

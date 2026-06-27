@@ -233,19 +233,20 @@ me.say_hi()
 <div align="center">
 <img src="https://img.shields.io/badge/%F0%9F%92%9C%20Zapuza%20Technology-Python%20Developer%20Intern-7C3AED?style=for-the-badge&labelColor=1a0533"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%85%20Nov%202024-May%202025-a78bfa?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%85%20Nov%202025-May%202026-a78bfa?style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Remote-India-c4b5fd?style=for-the-badge&labelColor=0d1117"/>
 </div>
 
 <br/>
 
-| Impact                        | Description                                                                           |
+| Focus Area                    | Description                                                                           |
 | ----------------------------- | ------------------------------------------------------------------------------------- |
-| ⚡ **50% faster** lookup      | Built service details + invoice page merging **3+ data sources** into one Django view |
-| 📣 **+25% engagement**        | Real-time push notifications via **WebPusher** across 100+ active users               |
-| 🔍 **3× faster** retrieval    | Multi-criteria due-task filter **(7+ filters)** using AJAX                            |
-| 🐛 **8 critical bugs** caught | Tested attendance module across **15+ edge cases** before deployment                  |
+| 🤝 **Agile Collaboration**    | Contributed to live client projects using Agile methodology, collaborating with developers, testers, and stakeholders to deliver software solutions. |
+| 🚀 **End-to-End Lifecycle**   | Participated in requirement analysis, feature implementation, testing, and deployment activities across multiple development sprints. |
+| ⚙️ **Full-Stack Dev**         | Developed and maintained web applications using **Python, Django, JavaScript, HTML, and CSS**, ensuring functionality, scalability, and maintainability. |
+| 🔌 **API & Performance**      | Designed and integrated RESTful APIs, supported database operations, and contributed to application performance improvements. |
+| 🛠️ **Tools & Quality**        | Utilized **Git, JIRA, and SonarQube** for version control, sprint tracking, code reviews, and code quality analysis. |
 
 ---
 

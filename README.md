@@ -256,6 +256,32 @@ me.say_hi()
 <tr>
 <td width="50%" valign="top">
 
+### ☁️ Code-To-Cloud: Enterprise DevSecOps
+
+> **AWS & Terraform · Jun 2026** &nbsp; [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/shyam-medh/Code-To-Cloud)
+
+```
+GitHub Push
+    ↓
+Jenkins (Checkov + SonarQube)
+    ↓
+Docker (Multi-stage + Trivy)
+    ↓
+AWS ASG Instance Refresh
+    ↓
+Zero-Downtime Deploy 🚀
+```
+
+- 🚀 **100%** Infrastructure as Code via Terraform
+- 🛡️ **3-Layer** automated security scanning
+- 🔄 **Zero-Downtime** deployments via ASG
+- 📦 **75%** smaller multi-stage Docker images
+
+`AWS` `Terraform` `Jenkins` `Docker` `DevSecOps`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔄 DevOps CI/CD Pipeline Automation
 
 > **Django App · Apr 2026** &nbsp; [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/shyam-medh/devops-1-django-app)
@@ -282,6 +308,8 @@ Docker Compose Deploy 🚀
 `AWS EC2` `Jenkins` `Docker` `CI/CD` `Django` `Linux`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎓 Role-Based Student Management System
@@ -307,6 +335,8 @@ MySQL (Indexed + Normalized)
 
 `Java Swing` `JDBC` `MySQL` `RBAC`
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>

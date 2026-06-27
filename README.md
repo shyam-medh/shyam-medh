@@ -272,10 +272,10 @@ AWS ASG Instance Refresh
 Zero-Downtime Deploy 🚀
 ```
 
-- 🚀 **100% Infrastructure as Code**: Architected a dual-VPC AWS environment (Management & Production) connected via **Transit Gateway**, deployed using **7 custom Terraform modules**.
-- 🛡️ **Shift-Left DevSecOps**: Engineered an automated Jenkins CI/CD pipeline featuring a 3-layer security model with **Checkov** (IaC), **SonarQube** (SAST), and **Trivy** (Container scanning).
-- 🔄 **Zero-Downtime Deployments**: Achieved seamless application updates utilizing AWS Auto Scaling Group (ASG) **Instance Refreshes** for rolling deployments behind Network Load Balancers (NLBs).
-- 📦 **Optimized Containerization**: Reduced attack surface and image size by **75%** through **Docker multi-stage builds** for the Spring Boot application stack.
+- 🚀 **100% IaC** dual-VPC architecture using 7 **Terraform** modules
+- 🛡️ **3-Layer DevSecOps** pipeline with Checkov, SonarQube & Trivy
+- 🔄 **Zero-Downtime** rolling deployments via AWS **ASG** Instance Refreshes
+- 📦 **75% smaller** images utilizing **Docker** multi-stage builds
 
 `AWS` `Terraform` `Jenkins` `Docker` `DevSecOps`
 

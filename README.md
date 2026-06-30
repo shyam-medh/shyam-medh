@@ -38,7 +38,7 @@ class ShyamBaranwal:
         self.location     = ["Phagwara, Punjab, India 🇮🇳"]
         self.expertise    = ["Backend Development", "DevOps & CI/CD", "Cloud Architecture"]
         self.currently    = ["Learning and Building and Deploying Projects... ⚙️"]
-        self.ask_me_about = ["Java", "Docker", "K8s", "Jenkins", "AWS", "Django", "DSA"]
+        self.ask_me_about = ["python", "Java", "Docker", "K8s", "Helm", "Jenkins", "Linux", "AWS", "Django", "DSA"]
         self.fun_fact     = ["Solved 800+ DSA problems & still debug with print() 😄"]
         self.goals_2026   = ["AZ-104 ✅", "AWS Solutions Architect", "Open Source"]
 

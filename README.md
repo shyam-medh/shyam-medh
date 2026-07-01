@@ -1,4 +1,4 @@
-<img width="652" height="52" alt="image" src="https://github.com/user-attachments/assets/6857010f-1947-4ee6-bc58-825007c95795" /><div align="center">
+<div align="center">
 
 <!-- ════════════ ANIMATED VENOM HEADER ════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a0533,60:2d1b69,100:7c3aed&height=250&section=header&text=SHYAM%20BARANWAL&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=a78bfa&strokeWidth=2&desc=Python%20Developer%20%E2%80%A2%20DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect&descAlignY=68&descSize=17&descColor=c4b5fd"/>

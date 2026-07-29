@@ -149,7 +149,7 @@ me.say_hi()
 </div>
 
 <!-- ISSUES_START -->
-> Last updated: **Jul 29, 2026 05:54 UTC** &nbsp;|&nbsp; Assigned: **17** &nbsp;|&nbsp; Raised: **24**
+> Last updated: **Jul 29, 2026 08:44 UTC** &nbsp;|&nbsp; Assigned: **17** &nbsp;|&nbsp; Raised: **24**
 
 <details>
 <summary><b>Assigned Issues</b> · Total: <b>17</b> · Showing latest <b>10</b></summary>
@@ -206,14 +206,14 @@ me.say_hi()
 </div>
 
 <!-- PRS_START -->
-> Last updated: **Jul 29, 2026 05:54 UTC** &nbsp;|&nbsp; Total: **27**
+> Last updated: **Jul 29, 2026 08:44 UTC** &nbsp;|&nbsp; Total: **27**
 
 <details>
 <summary><b>Pull Requests</b> · Total: <b>27</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
-| [#6](https://github.com/RajaniHarika/Digital-twin-Platform/pull/6) | `RajaniHarika/Digital-twin-Platform` | [feat(k8s): add Nginx Ingress with path-based routing (ap-...](https://github.com/RajaniHarika/Digital-twin-Platform/pull/6) |  | 🟢 `OPEN` | Jul 28, 2026 |
+| [#6](https://github.com/RajaniHarika/Digital-twin-Platform/pull/6) | `RajaniHarika/Digital-twin-Platform` | [feat(k8s): add Nginx Ingress with path-based routing (ap-...](https://github.com/RajaniHarika/Digital-twin-Platform/pull/6) |  | 🟣 `MERGED` | Jul 29, 2026 |
 | [#5](https://github.com/RajaniHarika/Digital-twin-Platform/pull/5) | `RajaniHarika/Digital-twin-Platform` | [feat(k8s): add Nginx Ingress with path-based routing (ap-...](https://github.com/RajaniHarika/Digital-twin-Platform/pull/5) |  | 🔴 `CLOSED` | Jul 28, 2026 |
 | [#3](https://github.com/RajaniHarika/Digital-twin-Platform/pull/3) | `RajaniHarika/Digital-twin-Platform` | [Feature/aws terraform](https://github.com/RajaniHarika/Digital-twin-Platform/pull/3) |  | 🟣 `MERGED` | Jul 28, 2026 |
 | [#4](https://github.com/RajaniHarika/Digital-twin-Platform/pull/4) | `RajaniHarika/Digital-twin-Platform` | [feat(k8s): added Kubernetes manifests for all microservic...](https://github.com/RajaniHarika/Digital-twin-Platform/pull/4) |  | 🟣 `MERGED` | Jul 28, 2026 |

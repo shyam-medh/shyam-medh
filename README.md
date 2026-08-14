@@ -149,7 +149,7 @@ me.say_hi()
 </div>
 
 <!-- ISSUES_START -->
-> Last updated: **Aug 14, 2026 18:59 UTC** &nbsp;|&nbsp; Assigned: **17** &nbsp;|&nbsp; Raised: **24**
+> Last updated: **Aug 14, 2026 19:51 UTC** &nbsp;|&nbsp; Assigned: **17** &nbsp;|&nbsp; Raised: **24**
 
 <details>
 <summary><b>Assigned Issues</b> · Total: <b>17</b> · Showing latest <b>10</b></summary>
@@ -206,13 +206,15 @@ me.say_hi()
 </div>
 
 <!-- PRS_START -->
-> Last updated: **Aug 14, 2026 18:59 UTC** &nbsp;|&nbsp; Total: **27**
+> Last updated: **Aug 14, 2026 19:51 UTC** &nbsp;|&nbsp; Total: **27**
 
 <details>
 <summary><b>Pull Requests</b> · Total: <b>27</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
+| [#1362](https://github.com/magic-peach/reframe/pull/1362) | `magic-peach/reframe` | [chore: add missing MIT LICENSE file (#1216)](https://github.com/magic-peach/reframe/pull/1362) | ![gssoc'26](https://img.shields.io/badge/gssoc%2726-FF6B35?style=flat-square) ![level:beginner](https://img.shields.io/badge/level%3Abeginner-c362a1?style=flat-square) ![type:bug](https://img.shields.io/badge/type%3Abug-d73a4a?style=flat-square) | 🟢 `OPEN` | Aug 14, 2026 |
+| [#1249](https://github.com/magic-peach/reframe/pull/1249) | `magic-peach/reframe` | [feat: add multi-segment trimming (#1221)](https://github.com/magic-peach/reframe/pull/1249) | ![gssoc'26](https://img.shields.io/badge/gssoc%2726-FF6B35?style=flat-square) ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-67e414?style=flat-square) ![type:bug](https://img.shields.io/badge/type%3Abug-d73a4a?style=flat-square) | 🔴 `CLOSED` | Aug 14, 2026 |
 | [#6](https://github.com/RajaniHarika/Digital-twin-Platform/pull/6) | `RajaniHarika/Digital-twin-Platform` | [feat(k8s): add Nginx Ingress with path-based routing (ap-...](https://github.com/RajaniHarika/Digital-twin-Platform/pull/6) |  | 🟣 `MERGED` | Jul 29, 2026 |
 | [#5](https://github.com/RajaniHarika/Digital-twin-Platform/pull/5) | `RajaniHarika/Digital-twin-Platform` | [feat(k8s): add Nginx Ingress with path-based routing (ap-...](https://github.com/RajaniHarika/Digital-twin-Platform/pull/5) |  | 🔴 `CLOSED` | Jul 28, 2026 |
 | [#3](https://github.com/RajaniHarika/Digital-twin-Platform/pull/3) | `RajaniHarika/Digital-twin-Platform` | [Feature/aws terraform](https://github.com/RajaniHarika/Digital-twin-Platform/pull/3) |  | 🟣 `MERGED` | Jul 28, 2026 |
@@ -221,8 +223,6 @@ me.say_hi()
 | [#2570](https://github.com/RatLoopz/sahidawa-india/pull/2570) | `RatLoopz/sahidawa-india` | [chore(ci): add docker build and prettier checks, format c...](https://github.com/RatLoopz/sahidawa-india/pull/2570) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-DC2626?style=flat-square) ![quality:clean](https://img.shields.io/badge/quality%3Aclean-0284C7?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) | 🟣 `MERGED` | Jun 29, 2026 |
 | [#2733](https://github.com/RatLoopz/sahidawa-india/pull/2733) | `RatLoopz/sahidawa-india` | [perf(ci): implement turborepo caching via actions/cache (...](https://github.com/RatLoopz/sahidawa-india/pull/2733) | ![level:intermediate](https://img.shields.io/badge/level%3Aintermediate-D97706?style=flat-square) ![quality:clean](https://img.shields.io/badge/quality%3Aclean-0284C7?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) | 🟣 `MERGED` | Jun 29, 2026 |
 | [#2406](https://github.com/RatLoopz/sahidawa-india/pull/2406) | `RatLoopz/sahidawa-india` | [Speed up CI pipeline by caching build steps and enforce c...](https://github.com/RatLoopz/sahidawa-india/pull/2406) | ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:performance](https://img.shields.io/badge/type%3Aperformance-D97706?style=flat-square) ![type:devops](https://img.shields.io/badge/type%3Adevops-EA580C?style=flat-square) | 🔴 `CLOSED` | Jun 25, 2026 |
-| [#2433](https://github.com/RatLoopz/sahidawa-india/pull/2433) | `RatLoopz/sahidawa-india` | [feat: implement Redis distributed rate limiting and resol...](https://github.com/RatLoopz/sahidawa-india/pull/2433) | ![level:intermediate](https://img.shields.io/badge/level%3Aintermediate-D97706?style=flat-square) ![quality:clean](https://img.shields.io/badge/quality%3Aclean-0284C7?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) | 🔴 `CLOSED` | Jun 24, 2026 |
-| [#7733](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/7733) | `SAPTARSHI-coder/EaseMotion-css` | [feat: add premium AI prompt input component](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/7733) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![integrated](https://img.shields.io/badge/integrated-5319e7?style=flat-square) | 🟣 `MERGED` | Jun 21, 2026 |
 
 [View all pull requests](https://github.com/search?q=author%3Ashyam-medh%20type%3Apr&type=pullrequests)
 

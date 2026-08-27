@@ -149,7 +149,7 @@ me.say_hi()
 </div>
 
 <!-- ISSUES_START -->
-> Last updated: **Aug 27, 2026 04:23 UTC** &nbsp;|&nbsp; Assigned: **17** &nbsp;|&nbsp; Raised: **24**
+> Last updated: **Aug 27, 2026 16:13 UTC** &nbsp;|&nbsp; Assigned: **17** &nbsp;|&nbsp; Raised: **24**
 
 <details>
 <summary><b>Assigned Issues</b> · Total: <b>17</b> · Showing latest <b>10</b></summary>
@@ -181,7 +181,7 @@ me.say_hi()
 | [#2404](https://github.com/RatLoopz/sahidawa-india/issues/2404) | `RatLoopz/sahidawa-india` | [[FEATURE] Add Docker Build Verification and Prettier Chec...](https://github.com/RatLoopz/sahidawa-india/issues/2404) | ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | Jun 27, 2026 |
 | [#7743](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7743) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE]  Holographic 3D Pricing Cards](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7743) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🔴 `CLOSED` | Jun 22, 2026 |
 | [#7704](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7704) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Futuristic AI Prompt Input Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7704) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🔴 `CLOSED` | Jun 21, 2026 |
-| [#1221](https://github.com/magic-peach/reframe/issues/1221) | `magic-peach/reframe` | [[FEATURE]: Multi-Segment Trimming — Cut Unwanted Sections...](https://github.com/magic-peach/reframe/issues/1221) | ![enhancement](https://img.shields.io/badge/enhancement-A2EEEF?style=flat-square) ![feature](https://img.shields.io/badge/feature-0075CA?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-0075ca?style=flat-square) | 🟢 `OPEN` | Jun 18, 2026 |
+| [#1221](https://github.com/reframe-oss/reframe/issues/1221) | `reframe-oss/reframe` | [[FEATURE]: Multi-Segment Trimming — Cut Unwanted Sections...](https://github.com/reframe-oss/reframe/issues/1221) | ![enhancement](https://img.shields.io/badge/enhancement-A2EEEF?style=flat-square) ![feature](https://img.shields.io/badge/feature-0075CA?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-0075ca?style=flat-square) | 🟢 `OPEN` | Jun 18, 2026 |
 | [#81](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | `priyanshu5ingh/VISUALAIZE` | [[FEAT] Performance & API Optimization (Redis Prompt Cachi...](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![gssoc2026](https://img.shields.io/badge/gssoc2026-007bff?style=flat-square) ![gssoc](https://img.shields.io/badge/gssoc-6f42c1?style=flat-square) | 🔴 `CLOSED` | Jun 13, 2026 |
 | [#7736](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7736) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] MacOS Liquid Hover Dock](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7736) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🔴 `CLOSED` | Jun 13, 2026 |
 | [#411](https://github.com/aryandas2911/DailyForge/issues/411) | `aryandas2911/DailyForge` | [Fix Core Bugs in Task and Routine APIs](https://github.com/aryandas2911/DailyForge/issues/411) | ![bug](https://img.shields.io/badge/bug-d73a4a?style=flat-square) ![GSSoC '26](https://img.shields.io/badge/GSSoC%20%2726-d93f0b?style=flat-square) ![backend](https://img.shields.io/badge/backend-93570c?style=flat-square) | 🟢 `OPEN` | Jun 13, 2026 |
@@ -206,15 +206,15 @@ me.say_hi()
 </div>
 
 <!-- PRS_START -->
-> Last updated: **Aug 27, 2026 04:23 UTC** &nbsp;|&nbsp; Total: **27**
+> Last updated: **Aug 27, 2026 16:13 UTC** &nbsp;|&nbsp; Total: **27**
 
 <details>
 <summary><b>Pull Requests</b> · Total: <b>27</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
-| [#1362](https://github.com/magic-peach/reframe/pull/1362) | `magic-peach/reframe` | [chore: add missing MIT LICENSE file (#1216)](https://github.com/magic-peach/reframe/pull/1362) | ![gssoc'26](https://img.shields.io/badge/gssoc%2726-FF6B35?style=flat-square) ![level:beginner](https://img.shields.io/badge/level%3Abeginner-c362a1?style=flat-square) ![type:bug](https://img.shields.io/badge/type%3Abug-d73a4a?style=flat-square) | 🟢 `OPEN` | Aug 14, 2026 |
-| [#1249](https://github.com/magic-peach/reframe/pull/1249) | `magic-peach/reframe` | [feat: add multi-segment trimming (#1221)](https://github.com/magic-peach/reframe/pull/1249) | ![gssoc'26](https://img.shields.io/badge/gssoc%2726-FF6B35?style=flat-square) ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-67e414?style=flat-square) ![type:bug](https://img.shields.io/badge/type%3Abug-d73a4a?style=flat-square) | 🔴 `CLOSED` | Aug 14, 2026 |
+| [#1362](https://github.com/reframe-oss/reframe/pull/1362) | `reframe-oss/reframe` | [chore: add missing MIT LICENSE file (#1216)](https://github.com/reframe-oss/reframe/pull/1362) | ![gssoc'26](https://img.shields.io/badge/gssoc%2726-FF6B35?style=flat-square) ![level:beginner](https://img.shields.io/badge/level%3Abeginner-c362a1?style=flat-square) ![type:bug](https://img.shields.io/badge/type%3Abug-d73a4a?style=flat-square) | 🟢 `OPEN` | Aug 14, 2026 |
+| [#1249](https://github.com/reframe-oss/reframe/pull/1249) | `reframe-oss/reframe` | [feat: add multi-segment trimming (#1221)](https://github.com/reframe-oss/reframe/pull/1249) | ![gssoc'26](https://img.shields.io/badge/gssoc%2726-FF6B35?style=flat-square) ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-67e414?style=flat-square) ![type:bug](https://img.shields.io/badge/type%3Abug-d73a4a?style=flat-square) | 🔴 `CLOSED` | Aug 14, 2026 |
 | [#6](https://github.com/RajaniHarika/Digital-twin-Platform/pull/6) | `RajaniHarika/Digital-twin-Platform` | [feat(k8s): add Nginx Ingress with path-based routing (ap-...](https://github.com/RajaniHarika/Digital-twin-Platform/pull/6) |  | 🟣 `MERGED` | Jul 29, 2026 |
 | [#5](https://github.com/RajaniHarika/Digital-twin-Platform/pull/5) | `RajaniHarika/Digital-twin-Platform` | [feat(k8s): add Nginx Ingress with path-based routing (ap-...](https://github.com/RajaniHarika/Digital-twin-Platform/pull/5) |  | 🔴 `CLOSED` | Jul 28, 2026 |
 | [#3](https://github.com/RajaniHarika/Digital-twin-Platform/pull/3) | `RajaniHarika/Digital-twin-Platform` | [Feature/aws terraform](https://github.com/RajaniHarika/Digital-twin-Platform/pull/3) |  | 🟣 `MERGED` | Jul 28, 2026 |

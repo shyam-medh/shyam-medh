@@ -149,7 +149,7 @@ me.say_hi()
 </div>
 
 <!-- ISSUES_START -->
-> Last updated: **Sep 09, 2026 08:48 UTC** &nbsp;|&nbsp; Assigned: **17** &nbsp;|&nbsp; Raised: **24**
+> Last updated: **Sep 09, 2026 13:33 UTC** &nbsp;|&nbsp; Assigned: **17** &nbsp;|&nbsp; Raised: **24**
 
 <details>
 <summary><b>Assigned Issues</b> · Total: <b>17</b> · Showing latest <b>10</b></summary>
@@ -172,13 +172,11 @@ me.say_hi()
 </details>
 
 <details>
-<summary><b>Issues Raised By Me</b> · Total: <b>24</b> · Showing latest <b>10</b></summary>
+<summary><b>Issues Raised By Me</b> · Total: <b>24</b> · Showing latest <b>8</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
 | [#1869](https://github.com/recodehive/recode-website/issues/1869) | `recodehive/recode-website` | [💡[Feature]: Optimize Dockerfile for Production with Multi...](https://github.com/recodehive/recode-website/issues/1869) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![level 1](https://img.shields.io/badge/level%201-aaaaaa?style=flat-square) ![recode](https://img.shields.io/badge/recode-a99231?style=flat-square) | 🔴 `CLOSED` | Jul 11, 2026 |
-| [#2403](https://github.com/RatLoopz/sahidawa-india/issues/2403) | `RatLoopz/sahidawa-india` | [[Performance] Implement Turborepo Caching in GitHub Actio...](https://github.com/RatLoopz/sahidawa-india/issues/2403) | ![level:intermediate](https://img.shields.io/badge/level%3Aintermediate-D97706?style=flat-square) ![quality:clean](https://img.shields.io/badge/quality%3Aclean-0284C7?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) | 🔴 `CLOSED` | Jul 01, 2026 |
-| [#2404](https://github.com/RatLoopz/sahidawa-india/issues/2404) | `RatLoopz/sahidawa-india` | [[FEATURE] Add Docker Build Verification and Prettier Chec...](https://github.com/RatLoopz/sahidawa-india/issues/2404) | ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | Jun 27, 2026 |
 | [#7743](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7743) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE]  Holographic 3D Pricing Cards](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7743) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🔴 `CLOSED` | Jun 22, 2026 |
 | [#7704](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7704) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Futuristic AI Prompt Input Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7704) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🔴 `CLOSED` | Jun 21, 2026 |
 | [#1221](https://github.com/reframe-oss/reframe/issues/1221) | `reframe-oss/reframe` | [[FEATURE]: Multi-Segment Trimming — Cut Unwanted Sections...](https://github.com/reframe-oss/reframe/issues/1221) | ![enhancement](https://img.shields.io/badge/enhancement-A2EEEF?style=flat-square) ![feature](https://img.shields.io/badge/feature-0075CA?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-0075ca?style=flat-square) | 🟢 `OPEN` | Jun 18, 2026 |
@@ -206,7 +204,7 @@ me.say_hi()
 </div>
 
 <!-- PRS_START -->
-> Last updated: **Sep 09, 2026 08:48 UTC** &nbsp;|&nbsp; Total: **27**
+> Last updated: **Sep 09, 2026 13:33 UTC** &nbsp;|&nbsp; Total: **27**
 
 <details>
 <summary><b>Pull Requests</b> · Total: <b>27</b> · Showing latest <b>10</b></summary>

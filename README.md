@@ -149,10 +149,10 @@ me.say_hi()
 </div>
 
 <!-- ISSUES_START -->
-> Last updated: **Sep 30, 2026 18:54 UTC** &nbsp;|&nbsp; Assigned: **17** &nbsp;|&nbsp; Raised: **24**
+> Last updated: **Sep 30, 2026 22:51 UTC** &nbsp;|&nbsp; Assigned: **10** &nbsp;|&nbsp; Raised: **16**
 
 <details>
-<summary><b>Assigned Issues</b> · Total: <b>17</b> · Showing latest <b>10</b></summary>
+<summary><b>Assigned Issues</b> · Total: <b>10</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
@@ -160,32 +160,32 @@ me.say_hi()
 | [#2403](https://github.com/RatLoopz/sahidawa-india/issues/2403) | `RatLoopz/sahidawa-india` | [[Performance] Implement Turborepo Caching in GitHub Actio...](https://github.com/RatLoopz/sahidawa-india/issues/2403) | ![level:intermediate](https://img.shields.io/badge/level%3Aintermediate-D97706?style=flat-square) ![quality:clean](https://img.shields.io/badge/quality%3Aclean-0284C7?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) | 🔴 `CLOSED` | Jul 01, 2026 |
 | [#2404](https://github.com/RatLoopz/sahidawa-india/issues/2404) | `RatLoopz/sahidawa-india` | [[FEATURE] Add Docker Build Verification and Prettier Chec...](https://github.com/RatLoopz/sahidawa-india/issues/2404) | ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | Jun 27, 2026 |
 | [#2400](https://github.com/RatLoopz/sahidawa-india/issues/2400) | `RatLoopz/sahidawa-india` | [[Feature] Implement Redis-based Distributed Rate Limiting...](https://github.com/RatLoopz/sahidawa-india/issues/2400) | ![level:intermediate](https://img.shields.io/badge/level%3Aintermediate-D97706?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | Jun 24, 2026 |
-| [#7704](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7704) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Futuristic AI Prompt Input Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7704) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🔴 `CLOSED` | Jun 21, 2026 |
 | [#81](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | `priyanshu5ingh/VISUALAIZE` | [[FEAT] Performance & API Optimization (Redis Prompt Cachi...](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![gssoc2026](https://img.shields.io/badge/gssoc2026-007bff?style=flat-square) ![gssoc](https://img.shields.io/badge/gssoc-6f42c1?style=flat-square) | 🔴 `CLOSED` | Jun 13, 2026 |
-| [#7736](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7736) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] MacOS Liquid Hover Dock](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7736) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🔴 `CLOSED` | Jun 13, 2026 |
-| [#1578](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1578) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Elastic Toggle Switch (CSS-only)](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1578) | ![component](https://img.shields.io/badge/component-f97316?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
-| [#1579](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1579) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Component: Animated Floating Action Button (FAB...](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1579) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
-| [#1580](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1580) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Animation: Cyberpunk Glitch Text Hover Effect](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/1580) | ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) ![accepted](https://img.shields.io/badge/accepted-2ea44f?style=flat-square) ![GSSoC-26](https://img.shields.io/badge/GSSoC--26-3b82f6?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
+| [#485](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | `JiyaBatra/CODEVIBE-` | [[Feature]: Add Gamification System (XP & Leveling) for Us...](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![GSSoC26](https://img.shields.io/badge/GSSoC26-b60205?style=flat-square) | 🔴 `CLOSED` | Jun 01, 2026 |
+| [#769](https://github.com/RatLoopz/sahidawa-india/issues/769) | `RatLoopz/sahidawa-india` | [[FEATURE] Add Production-Grade Multi-Stage Dockerization...](https://github.com/RatLoopz/sahidawa-india/issues/769) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-DC2626?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | May 28, 2026 |
+| [#134](https://github.com/janavipandole/Cara/issues/134) | `janavipandole/Cara` | [[ENHANCEMENT] Refactor Header and Footer into Reusable Co...](https://github.com/janavipandole/Cara/issues/134) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🔴 `CLOSED` | May 24, 2026 |
+| [#218](https://github.com/RatLoopz/sahidawa-india/issues/218) | `RatLoopz/sahidawa-india` | [chore: Optimize Root docker-compose.yml to Integrate Cust...](https://github.com/RatLoopz/sahidawa-india/issues/218) | ![level:intermediate](https://img.shields.io/badge/level%3Aintermediate-D97706?style=flat-square) ![type:performance](https://img.shields.io/badge/type%3Aperformance-D97706?style=flat-square) | 🔴 `CLOSED` | May 18, 2026 |
+| [#111](https://github.com/RatLoopz/sahidawa-india/issues/111) | `RatLoopz/sahidawa-india` | [Implement Admin Moderation System for Community Counterfe...](https://github.com/RatLoopz/sahidawa-india/issues/111) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-DC2626?style=flat-square) | 🔴 `CLOSED` | May 16, 2026 |
 
 [View all assigned issues](https://github.com/issues/assigned?q=assignee%3Ashyam-medh%20type%3Aissue)
 
 </details>
 
 <details>
-<summary><b>Issues Raised By Me</b> · Total: <b>24</b> · Showing latest <b>10</b></summary>
+<summary><b>Issues Raised By Me</b> · Total: <b>16</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
 | [#1869](https://github.com/recodehive/recode-website/issues/1869) | `recodehive/recode-website` | [💡[Feature]: Optimize Dockerfile for Production with Multi...](https://github.com/recodehive/recode-website/issues/1869) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![level 1](https://img.shields.io/badge/level%201-aaaaaa?style=flat-square) ![recode](https://img.shields.io/badge/recode-a99231?style=flat-square) | 🔴 `CLOSED` | Jul 11, 2026 |
 | [#2403](https://github.com/RatLoopz/sahidawa-india/issues/2403) | `RatLoopz/sahidawa-india` | [[Performance] Implement Turborepo Caching in GitHub Actio...](https://github.com/RatLoopz/sahidawa-india/issues/2403) | ![level:intermediate](https://img.shields.io/badge/level%3Aintermediate-D97706?style=flat-square) ![quality:clean](https://img.shields.io/badge/quality%3Aclean-0284C7?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) | 🔴 `CLOSED` | Jul 01, 2026 |
 | [#2404](https://github.com/RatLoopz/sahidawa-india/issues/2404) | `RatLoopz/sahidawa-india` | [[FEATURE] Add Docker Build Verification and Prettier Chec...](https://github.com/RatLoopz/sahidawa-india/issues/2404) | ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | Jun 27, 2026 |
-| [#7743](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7743) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE]  Holographic 3D Pricing Cards](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7743) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🔴 `CLOSED` | Jun 22, 2026 |
-| [#7704](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7704) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] Futuristic AI Prompt Input Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7704) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🔴 `CLOSED` | Jun 21, 2026 |
 | [#1221](https://github.com/reframe-oss/reframe/issues/1221) | `reframe-oss/reframe` | [[FEATURE]: Multi-Segment Trimming — Cut Unwanted Sections...](https://github.com/reframe-oss/reframe/issues/1221) | ![enhancement](https://img.shields.io/badge/enhancement-A2EEEF?style=flat-square) ![feature](https://img.shields.io/badge/feature-0075CA?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-0075ca?style=flat-square) | 🟢 `OPEN` | Jun 18, 2026 |
 | [#81](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | `priyanshu5ingh/VISUALAIZE` | [[FEAT] Performance & API Optimization (Redis Prompt Cachi...](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![gssoc2026](https://img.shields.io/badge/gssoc2026-007bff?style=flat-square) ![gssoc](https://img.shields.io/badge/gssoc-6f42c1?style=flat-square) | 🔴 `CLOSED` | Jun 13, 2026 |
-| [#7736](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7736) | `SAPTARSHI-coder/EaseMotion-css` | [[FEATURE] MacOS Liquid Hover Dock](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/7736) | ![help wanted](https://img.shields.io/badge/help%20wanted-008672?style=flat-square) ![good first issue](https://img.shields.io/badge/good%20first%20issue-7057ff?style=flat-square) ![animation](https://img.shields.io/badge/animation-8b5cf6?style=flat-square) | 🔴 `CLOSED` | Jun 13, 2026 |
 | [#411](https://github.com/aryandas2911/DailyForge/issues/411) | `aryandas2911/DailyForge` | [Fix Core Bugs in Task and Routine APIs](https://github.com/aryandas2911/DailyForge/issues/411) | ![bug](https://img.shields.io/badge/bug-d73a4a?style=flat-square) ![GSSoC '26](https://img.shields.io/badge/GSSoC%20%2726-d93f0b?style=flat-square) ![backend](https://img.shields.io/badge/backend-93570c?style=flat-square) | 🟢 `OPEN` | Jun 13, 2026 |
 | [#933](https://github.com/JiyaBatra/CODEVIBE-/issues/933) | `JiyaBatra/CODEVIBE-` | [[Feature]: Implement Animated Skeleton Loading States for...](https://github.com/JiyaBatra/CODEVIBE-/issues/933) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🔴 `CLOSED` | Jun 08, 2026 |
+| [#934](https://github.com/JiyaBatra/CODEVIBE-/issues/934) | `JiyaBatra/CODEVIBE-` | [[Feature]: Create Reusable <CodeBlock /> Component with C...](https://github.com/JiyaBatra/CODEVIBE-/issues/934) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
+| [#485](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | `JiyaBatra/CODEVIBE-` | [[Feature]: Add Gamification System (XP & Leveling) for Us...](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![GSSoC26](https://img.shields.io/badge/GSSoC26-b60205?style=flat-square) | 🔴 `CLOSED` | Jun 01, 2026 |
+| [#769](https://github.com/RatLoopz/sahidawa-india/issues/769) | `RatLoopz/sahidawa-india` | [[FEATURE] Add Production-Grade Multi-Stage Dockerization...](https://github.com/RatLoopz/sahidawa-india/issues/769) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-DC2626?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | May 28, 2026 |
 
 [View all issues raised by me](https://github.com/search?q=author%3Ashyam-medh%20type%3Aissue&type=issues)
 
@@ -206,10 +206,10 @@ me.say_hi()
 </div>
 
 <!-- PRS_START -->
-> Last updated: **Sep 30, 2026 18:54 UTC** &nbsp;|&nbsp; Total: **27**
+> Last updated: **Sep 30, 2026 22:51 UTC** &nbsp;|&nbsp; Total: **20**
 
 <details>
-<summary><b>Pull Requests</b> · Total: <b>27</b> · Showing latest <b>10</b></summary>
+<summary><b>Pull Requests</b> · Total: <b>20</b> · Showing latest <b>10</b></summary>
 
 | # | Repository | Title | Labels | Status | Updated |
 |---|-----------|-------|--------|--------|---------|
@@ -387,7 +387,7 @@ MySQL (Indexed + Normalized)
   <img src="https://img.shields.io/badge/GSSoC%2726-Contributor-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="GSSoC 26 Contributor"/>
 </a>
 <a href="https://gssoc.girlscript.org/profile/5fbedb80-8027-48e2-b0ae-26c9d96f735c">
-  <img src="https://img.shields.io/badge/Rank-%23601%20of%2047951-7C3AED?style=for-the-badge&logo=leaderboard&logoColor=white" alt="GSSoC Rank"/>
+  <img src="https://img.shields.io/badge/Rank-%23587%20of%2047935-7C3AED?style=for-the-badge&logo=leaderboard&logoColor=white" alt="GSSoC Rank"/>
 </a>
 <a href="https://gssoc.girlscript.org/profile/5fbedb80-8027-48e2-b0ae-26c9d96f735c">
   <img src="https://img.shields.io/badge/Points-7035-1FB6A6?style=for-the-badge&logo=starship&logoColor=white" alt="GSSoC Points"/>
@@ -401,7 +401,7 @@ MySQL (Indexed + Normalized)
 | Status | **Accepted** |
 | Track | **Open Source Track + AI / Agents Track** |
 | Total Points | **7,035** |
-| Global Rank | **#601 / 47,951** |
+| Global Rank | **#587 / 47,935** |
 | Merged PRs | **10** across **5** projects |
 | Bounty Tasks | **6** completed |
 

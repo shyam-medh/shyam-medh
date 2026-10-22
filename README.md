@@ -51,6 +51,10 @@ I architect production-grade AWS pipelines with **Terraform**, **Kubernetes**, a
 </tr>
 </table>
 
+<br/>
+
+> 🕊️ *I take time to understand things clearly, never overlook what hurts someone, and I'm always happy to help — just ask.*
+
 ---
 
 ## 🛠️ Tech Stack

@@ -149,7 +149,7 @@ me.say_hi()
 </div>
 
 <!-- ISSUES_START -->
-> Last updated: **Oct 22, 2026 14:55 UTC** &nbsp;|&nbsp; Assigned: **10** &nbsp;|&nbsp; Raised: **0**
+> Last updated: **Oct 22, 2026 19:05 UTC** &nbsp;|&nbsp; Assigned: **10** &nbsp;|&nbsp; Raised: **16**
 
 <details>
 <summary><b>Assigned Issues</b> · Total: <b>10</b> · Showing latest <b>10</b></summary>
@@ -172,9 +172,22 @@ me.say_hi()
 </details>
 
 <details>
-<summary><b>Issues Raised By Me</b> · Total: <b>0</b></summary>
+<summary><b>Issues Raised By Me</b> · Total: <b>16</b> · Showing latest <b>10</b></summary>
 
-_No issues raised by me found._
+| # | Repository | Title | Labels | Status | Updated |
+|---|-----------|-------|--------|--------|---------|
+| [#1869](https://github.com/recodehive/recode-website/issues/1869) | `recodehive/recode-website` | [💡[Feature]: Optimize Dockerfile for Production with Multi...](https://github.com/recodehive/recode-website/issues/1869) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![level 1](https://img.shields.io/badge/level%201-aaaaaa?style=flat-square) ![recode](https://img.shields.io/badge/recode-a99231?style=flat-square) | 🔴 `CLOSED` | Jul 11, 2026 |
+| [#2403](https://github.com/RatLoopz/sahidawa-india/issues/2403) | `RatLoopz/sahidawa-india` | [[Performance] Implement Turborepo Caching in GitHub Actio...](https://github.com/RatLoopz/sahidawa-india/issues/2403) | ![level:intermediate](https://img.shields.io/badge/level%3Aintermediate-D97706?style=flat-square) ![quality:clean](https://img.shields.io/badge/quality%3Aclean-0284C7?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) | 🔴 `CLOSED` | Jul 01, 2026 |
+| [#2404](https://github.com/RatLoopz/sahidawa-india/issues/2404) | `RatLoopz/sahidawa-india` | [[FEATURE] Add Docker Build Verification and Prettier Chec...](https://github.com/RatLoopz/sahidawa-india/issues/2404) | ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | Jun 27, 2026 |
+| [#1221](https://github.com/reframe-oss/reframe/issues/1221) | `reframe-oss/reframe` | [[FEATURE]: Multi-Segment Trimming — Cut Unwanted Sections...](https://github.com/reframe-oss/reframe/issues/1221) | ![enhancement](https://img.shields.io/badge/enhancement-A2EEEF?style=flat-square) ![feature](https://img.shields.io/badge/feature-0075CA?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-0075ca?style=flat-square) | 🟢 `OPEN` | Jun 18, 2026 |
+| [#81](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | `priyanshu5ingh/VISUALAIZE` | [[FEAT] Performance & API Optimization (Redis Prompt Cachi...](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![gssoc2026](https://img.shields.io/badge/gssoc2026-007bff?style=flat-square) ![gssoc](https://img.shields.io/badge/gssoc-6f42c1?style=flat-square) | 🔴 `CLOSED` | Jun 13, 2026 |
+| [#411](https://github.com/aryandas2911/DailyForge/issues/411) | `aryandas2911/DailyForge` | [Fix Core Bugs in Task and Routine APIs](https://github.com/aryandas2911/DailyForge/issues/411) | ![bug](https://img.shields.io/badge/bug-d73a4a?style=flat-square) ![GSSoC '26](https://img.shields.io/badge/GSSoC%20%2726-d93f0b?style=flat-square) ![backend](https://img.shields.io/badge/backend-93570c?style=flat-square) | 🟢 `OPEN` | Jun 13, 2026 |
+| [#933](https://github.com/JiyaBatra/CODEVIBE-/issues/933) | `JiyaBatra/CODEVIBE-` | [[Feature]: Implement Animated Skeleton Loading States for...](https://github.com/JiyaBatra/CODEVIBE-/issues/933) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🔴 `CLOSED` | Jun 08, 2026 |
+| [#934](https://github.com/JiyaBatra/CODEVIBE-/issues/934) | `JiyaBatra/CODEVIBE-` | [[Feature]: Create Reusable <CodeBlock /> Component with C...](https://github.com/JiyaBatra/CODEVIBE-/issues/934) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
+| [#485](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | `JiyaBatra/CODEVIBE-` | [[Feature]: Add Gamification System (XP & Leveling) for Us...](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![GSSoC26](https://img.shields.io/badge/GSSoC26-b60205?style=flat-square) | 🔴 `CLOSED` | Jun 01, 2026 |
+| [#769](https://github.com/RatLoopz/sahidawa-india/issues/769) | `RatLoopz/sahidawa-india` | [[FEATURE] Add Production-Grade Multi-Stage Dockerization...](https://github.com/RatLoopz/sahidawa-india/issues/769) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-DC2626?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | May 28, 2026 |
+
+[View all issues raised by me](https://github.com/search?q=author%3Ashyam-medh%20type%3Aissue&type=issues)
 
 </details>
 
@@ -193,7 +206,7 @@ _No issues raised by me found._
 </div>
 
 <!-- PRS_START -->
-> Last updated: **Oct 22, 2026 14:55 UTC** &nbsp;|&nbsp; Total: **20**
+> Last updated: **Oct 22, 2026 19:05 UTC** &nbsp;|&nbsp; Total: **20**
 
 <details>
 <summary><b>Pull Requests</b> · Total: <b>20</b> · Showing latest <b>10</b></summary>

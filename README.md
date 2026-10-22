@@ -1,25 +1,19 @@
 <div align="center">
 
-<!-- ════════════ ANIMATED VENOM HEADER ════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a0533,60:2d1b69,100:7c3aed&height=250&section=header&text=SHYAM%20BARANWAL&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=a78bfa&strokeWidth=2&desc=Python%20Developer%20%E2%80%A2%20DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect&descAlignY=68&descSize=17&descColor=c4b5fd"/>
 
-<!-- ════════════ TYPING ANIMATION ════════════ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%9A%80+Building+Scalable+Backend+Systems;%E2%9A%99%EF%B8%8F+Automating+Everything+with+CI%2FCD;%E2%98%81%EF%B8%8F+Cloud-Native+%7C+AWS+%26+Azure+Certified;%F0%9F%94%A5+800%2B+DSA+Problems+Solved;%F0%9F%8F%86+Top+1%2C500+%7C+Big+Code+by+Google+%2726;%E2%9C%A8+Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+<a href="https://git.io/typing-svg" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%9A%80+Building+Scalable+Backend+Systems;%E2%9A%99%EF%B8%8F+Automating+Everything+with+CI%2FCD;%E2%98%81%EF%B8%8F+Cloud-Native+%7C+AWS+%26+Azure+Certified;%F0%9F%94%A5+800%2B+DSA+Problems+Solved;%F0%9F%8F%86+GSSoC+%2726+%E2%80%A2+Top+2%25+Globally;%E2%9C%A8+Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ════════════ BADGES ════════════ -->
+<a href="https://linkedin.com/in/shyambaranwal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:baranwal07shyam@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/shyam-medh" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codolio.com/profile/Shyam_" target="_blank"><img src="https://img.shields.io/badge/Codolio-800%2B%20Solved-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
-<a href="https://linkedin.com/in/shyambaranwal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/shyam-medh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:baranwal07shyam@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/shyam_medh"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
-<a href="https://leetcode.com/u/shyam-medh"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://codolio.com/profile/Shyam_"><img src="https://img.shields.io/badge/Codolio-800%2B%20Solved-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-
-<br/><br/>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shyam-medh&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/shyam-medh?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=Followers)
@@ -28,207 +22,142 @@
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-```python
-class ShyamBaranwal:
-    def __init__(self):
-        self.name         = ["Shyam Baranwal"]
-        self.role         = ["Ex Python Developer Intern @ Zapuza Technology"]
-        self.location     = ["Phagwara, Punjab, India 🇮🇳"]
-        self.expertise    = ["Backend Development", "DevOps & CI/CD", "Cloud Architecture"]
-        self.currently    = ["Learning and Building and Deploying Projects... ⚙️"]
-        self.ask_me_about = ["python", "Java", "Docker", "K8s", "Helm", "Jenkins", "Linux", "AWS", "Django", "DSA"]
-        self.fun_fact     = ["Solved 800+ DSA problems & still debug with print() 😄"]
-        self.goals_2026   = ["AZ-104 ✅", "AWS Solutions Architect", "Open Source"]
+<table>
+<tr>
+<td width="55%" valign="top">
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing 🚀")
+### Hi, I'm Shyam Baranwal
 
-me = ShyamBaranwal()
-me.say_hi()
-```
+I'm a **B.Tech CSE student** at Lovely Professional University who lives in the space between writing code and shipping it — which is exactly where **DevOps** lives.
 
----
+I architect production-grade AWS pipelines with **Terraform**, **Kubernetes**, and **Jenkins**. I believe infrastructure should be as clean and testable as code.
 
-## 🧰 Tech Stack
+> 🌱 Currently exploring: Generative AI, RAG & AI Agents · Kubernetes internals · Advanced AWS
+>
+> 🎯 2026 Goals: **AWS SAA ✅ · AZ-104 ✅ · AWS CCP ✅ · More Open Source**
+>
+> ⚡ Fun fact: Solved 800+ DSA problems & still debug with `print()` 😄
 
-<div align="center">
+</td>
+<td width="45%" valign="top">
 
-**Languages**
+<img src="https://github-readme-stats.vercel.app/api?username=shyam-medh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&rank_icon=github" width="100%"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-medh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" width="100%"/>
 
-**Frameworks & Backend**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-**DevOps & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-
-**AWS Services**
-
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![ALB](https://img.shields.io/badge/ALB-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-FF9A00?style=for-the-badge&logo=apachetomcat&logoColor=white)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 3D Contribution Graph
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./profile-3d-contrib/profile-night-rainbow.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg"/>
-  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</picture>
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
+
+### Frameworks & Backend
+<img src="https://skillicons.dev/icons?i=django,spring&theme=dark" />
+
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,github,linux,nginx&theme=dark" />
+<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" height="48" title="Helm"/>
+
+### Monitoring & Databases
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,mysql,git&theme=dark" />
+
+<br/>
+
+**☁️ AWS Services**
+
+<table>
+  <tr>
+    <td align="center" width="40">
+      <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/EC2.png" height="40"/><br/><sub><b>EC2</b></sub>
+    </td>
+    <td align="center" width="40">
+      <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Storage/SimpleStorageService.png" height="40"/><br/><sub><b>S3</b></sub>
+    </td>
+    <td align="center" width="40">
+      <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Database/RDS.png" height="40"/><br/><sub><b>RDS</b></sub>
+    </td>
+    <td align="center" width="40">
+      <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/Lambda.png" height="40"/><br/><sub><b>Lambda</b></sub>
+    </td>
+    <td align="center" width="40">
+      <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/ManagementGovernance/CloudWatch.png" height="40"/><br/><sub><b>CloudWatch</b></sub>
+    </td>
+    <td align="center" width="40">
+      <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/VirtualPrivateCloud.png" height="40"/><br/><sub><b>VPC</b></sub>
+    </td>
+    <td align="center" width="40">
+      <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/SecurityIdentityCompliance/IdentityandAccessManagement.png" height="40"/><br/><sub><b>IAM</b></sub>
+    </td>
+    <td align="center" width="40">
+      <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Containers/ElasticKubernetesService.png" height="40"/><br/><sub><b>EKS</b></sub>
+    </td>
+    <td align="center" width="40">
+      <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Containers/ElasticContainerRegistry.png" height="40"/><br/><sub><b>ECR</b></sub>
+    </td>
+    <td align="center" width="40">
+      <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/ElasticLoadBalancing.png" height="40"/><br/><sub><b>ALB</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+**🔷 Azure Services**
+
+<table>
+  <tr>
+    <td align="center" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/benc-uk/icon-collection@master/azure-icons/Kubernetes-Services.svg" height="40"/><br/><sub><b>AKS</b></sub>
+    </td>
+    <td align="center" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/benc-uk/icon-collection@master/azure-icons/Virtual-Machine.svg" height="40"/><br/><sub><b>VMs</b></sub>
+    </td>
+    <td align="center" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/benc-uk/icon-collection@master/azure-icons/Azure-Active-Directory.svg" height="40"/><br/><sub><b>Entra ID</b></sub>
+    </td>
+    <td align="center" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/benc-uk/icon-collection@master/azure-icons/Virtual-Networks.svg" height="40"/><br/><sub><b>VNets</b></sub>
+    </td>
+    <td align="center" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/benc-uk/icon-collection@master/azure-icons/Network-Security-Groups.svg" height="40"/><br/><sub><b>NSGs</b></sub>
+    </td>
+    <td align="center" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/benc-uk/icon-collection@master/azure-icons/Storage-Accounts.svg" height="40"/><br/><sub><b>Storage</b></sub>
+    </td>
+    <td align="center" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/benc-uk/icon-collection@master/azure-icons/Monitor.svg" height="40"/><br/><sub><b>Azure Monitor</b></sub>
+    </td>
+  </tr>
+</table>
+
+
+**🔒 Security & Quality**
+
+<table>
+  <tr>
+    <td align="center" width="40">
+      <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/SecurityIdentityCompliance/Inspector.png" height="40"/><br/><sub><b>Checkov</b></sub>
+    </td>
+    <td align="center" width="40">
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/sonarqube.svg" height="40"/><br/><sub><b>SonarQube</b></sub>
+    </td>
+    <td align="center" width="40">
+      <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" height="40"/><br/><sub><b>Trivy</b></sub>
+    </td>
+
+  </tr>
+</table>
 
 </div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshyam-medh&query=%24.public_repos&label=Public%20Repos&color=7c3aed&style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/github/followers/shyam-medh?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=Followers)
-![Profile Views](https://komarev.com/ghpvc/?username=shyam-medh&color=7c3aed&style=for-the-badge&label=Profile%20Views)
-
-<br/><br/>
-
-[![GitHub Streak](./output/streak.svg)](https://git.io/streak-stats)
-
-</div>
----
-
-## 🌐 Activity Graph
-
-<div align="center">
-
-[![Shyam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shyam-medh&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=2d1b69&hide_border=true&custom_title=Shyam%27s%20Contribution%20Timeline&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-
-
-## 🐛 Issues
-
-<div align="center">
-
-![Issues](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dassignee%3Ashyam-medh%2Btype%3Aissue&query=%24.total_count&label=Issues&color=7c3aed&style=for-the-badge&logo=github)
-
-</div>
-
-<!-- ISSUES_START -->
-> Last updated: **Oct 22, 2026 19:05 UTC** &nbsp;|&nbsp; Assigned: **10** &nbsp;|&nbsp; Raised: **16**
-
-<details>
-<summary><b>Assigned Issues</b> · Total: <b>10</b> · Showing latest <b>10</b></summary>
-
-| # | Repository | Title | Labels | Status | Updated |
-|---|-----------|-------|--------|--------|---------|
-| [#1869](https://github.com/recodehive/recode-website/issues/1869) | `recodehive/recode-website` | [💡[Feature]: Optimize Dockerfile for Production with Multi...](https://github.com/recodehive/recode-website/issues/1869) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![level 1](https://img.shields.io/badge/level%201-aaaaaa?style=flat-square) ![recode](https://img.shields.io/badge/recode-a99231?style=flat-square) | 🔴 `CLOSED` | Jul 11, 2026 |
-| [#2403](https://github.com/RatLoopz/sahidawa-india/issues/2403) | `RatLoopz/sahidawa-india` | [[Performance] Implement Turborepo Caching in GitHub Actio...](https://github.com/RatLoopz/sahidawa-india/issues/2403) | ![level:intermediate](https://img.shields.io/badge/level%3Aintermediate-D97706?style=flat-square) ![quality:clean](https://img.shields.io/badge/quality%3Aclean-0284C7?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) | 🔴 `CLOSED` | Jul 01, 2026 |
-| [#2404](https://github.com/RatLoopz/sahidawa-india/issues/2404) | `RatLoopz/sahidawa-india` | [[FEATURE] Add Docker Build Verification and Prettier Chec...](https://github.com/RatLoopz/sahidawa-india/issues/2404) | ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | Jun 27, 2026 |
-| [#2400](https://github.com/RatLoopz/sahidawa-india/issues/2400) | `RatLoopz/sahidawa-india` | [[Feature] Implement Redis-based Distributed Rate Limiting...](https://github.com/RatLoopz/sahidawa-india/issues/2400) | ![level:intermediate](https://img.shields.io/badge/level%3Aintermediate-D97706?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | Jun 24, 2026 |
-| [#81](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | `priyanshu5ingh/VISUALAIZE` | [[FEAT] Performance & API Optimization (Redis Prompt Cachi...](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![gssoc2026](https://img.shields.io/badge/gssoc2026-007bff?style=flat-square) ![gssoc](https://img.shields.io/badge/gssoc-6f42c1?style=flat-square) | 🔴 `CLOSED` | Jun 13, 2026 |
-| [#485](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | `JiyaBatra/CODEVIBE-` | [[Feature]: Add Gamification System (XP & Leveling) for Us...](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![GSSoC26](https://img.shields.io/badge/GSSoC26-b60205?style=flat-square) | 🔴 `CLOSED` | Jun 01, 2026 |
-| [#769](https://github.com/RatLoopz/sahidawa-india/issues/769) | `RatLoopz/sahidawa-india` | [[FEATURE] Add Production-Grade Multi-Stage Dockerization...](https://github.com/RatLoopz/sahidawa-india/issues/769) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-DC2626?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | May 28, 2026 |
-| [#134](https://github.com/janavipandole/Cara/issues/134) | `janavipandole/Cara` | [[ENHANCEMENT] Refactor Header and Footer into Reusable Co...](https://github.com/janavipandole/Cara/issues/134) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🔴 `CLOSED` | May 24, 2026 |
-| [#218](https://github.com/RatLoopz/sahidawa-india/issues/218) | `RatLoopz/sahidawa-india` | [chore: Optimize Root docker-compose.yml to Integrate Cust...](https://github.com/RatLoopz/sahidawa-india/issues/218) | ![level:intermediate](https://img.shields.io/badge/level%3Aintermediate-D97706?style=flat-square) ![type:performance](https://img.shields.io/badge/type%3Aperformance-D97706?style=flat-square) | 🔴 `CLOSED` | May 18, 2026 |
-| [#111](https://github.com/RatLoopz/sahidawa-india/issues/111) | `RatLoopz/sahidawa-india` | [Implement Admin Moderation System for Community Counterfe...](https://github.com/RatLoopz/sahidawa-india/issues/111) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-DC2626?style=flat-square) | 🔴 `CLOSED` | May 16, 2026 |
-
-[View all assigned issues](https://github.com/issues/assigned?q=assignee%3Ashyam-medh%20type%3Aissue)
-
-</details>
-
-<details>
-<summary><b>Issues Raised By Me</b> · Total: <b>16</b> · Showing latest <b>10</b></summary>
-
-| # | Repository | Title | Labels | Status | Updated |
-|---|-----------|-------|--------|--------|---------|
-| [#1869](https://github.com/recodehive/recode-website/issues/1869) | `recodehive/recode-website` | [💡[Feature]: Optimize Dockerfile for Production with Multi...](https://github.com/recodehive/recode-website/issues/1869) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![level 1](https://img.shields.io/badge/level%201-aaaaaa?style=flat-square) ![recode](https://img.shields.io/badge/recode-a99231?style=flat-square) | 🔴 `CLOSED` | Jul 11, 2026 |
-| [#2403](https://github.com/RatLoopz/sahidawa-india/issues/2403) | `RatLoopz/sahidawa-india` | [[Performance] Implement Turborepo Caching in GitHub Actio...](https://github.com/RatLoopz/sahidawa-india/issues/2403) | ![level:intermediate](https://img.shields.io/badge/level%3Aintermediate-D97706?style=flat-square) ![quality:clean](https://img.shields.io/badge/quality%3Aclean-0284C7?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) | 🔴 `CLOSED` | Jul 01, 2026 |
-| [#2404](https://github.com/RatLoopz/sahidawa-india/issues/2404) | `RatLoopz/sahidawa-india` | [[FEATURE] Add Docker Build Verification and Prettier Chec...](https://github.com/RatLoopz/sahidawa-india/issues/2404) | ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | Jun 27, 2026 |
-| [#1221](https://github.com/reframe-oss/reframe/issues/1221) | `reframe-oss/reframe` | [[FEATURE]: Multi-Segment Trimming — Cut Unwanted Sections...](https://github.com/reframe-oss/reframe/issues/1221) | ![enhancement](https://img.shields.io/badge/enhancement-A2EEEF?style=flat-square) ![feature](https://img.shields.io/badge/feature-0075CA?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-0075ca?style=flat-square) | 🟢 `OPEN` | Jun 18, 2026 |
-| [#81](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | `priyanshu5ingh/VISUALAIZE` | [[FEAT] Performance & API Optimization (Redis Prompt Cachi...](https://github.com/priyanshu5ingh/VISUALAIZE/issues/81) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![gssoc2026](https://img.shields.io/badge/gssoc2026-007bff?style=flat-square) ![gssoc](https://img.shields.io/badge/gssoc-6f42c1?style=flat-square) | 🔴 `CLOSED` | Jun 13, 2026 |
-| [#411](https://github.com/aryandas2911/DailyForge/issues/411) | `aryandas2911/DailyForge` | [Fix Core Bugs in Task and Routine APIs](https://github.com/aryandas2911/DailyForge/issues/411) | ![bug](https://img.shields.io/badge/bug-d73a4a?style=flat-square) ![GSSoC '26](https://img.shields.io/badge/GSSoC%20%2726-d93f0b?style=flat-square) ![backend](https://img.shields.io/badge/backend-93570c?style=flat-square) | 🟢 `OPEN` | Jun 13, 2026 |
-| [#933](https://github.com/JiyaBatra/CODEVIBE-/issues/933) | `JiyaBatra/CODEVIBE-` | [[Feature]: Implement Animated Skeleton Loading States for...](https://github.com/JiyaBatra/CODEVIBE-/issues/933) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🔴 `CLOSED` | Jun 08, 2026 |
-| [#934](https://github.com/JiyaBatra/CODEVIBE-/issues/934) | `JiyaBatra/CODEVIBE-` | [[Feature]: Create Reusable <CodeBlock /> Component with C...](https://github.com/JiyaBatra/CODEVIBE-/issues/934) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) | 🔴 `CLOSED` | Jun 06, 2026 |
-| [#485](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | `JiyaBatra/CODEVIBE-` | [[Feature]: Add Gamification System (XP & Leveling) for Us...](https://github.com/JiyaBatra/CODEVIBE-/issues/485) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![GSSoC26](https://img.shields.io/badge/GSSoC26-b60205?style=flat-square) | 🔴 `CLOSED` | Jun 01, 2026 |
-| [#769](https://github.com/RatLoopz/sahidawa-india/issues/769) | `RatLoopz/sahidawa-india` | [[FEATURE] Add Production-Grade Multi-Stage Dockerization...](https://github.com/RatLoopz/sahidawa-india/issues/769) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-DC2626?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:feature](https://img.shields.io/badge/type%3Afeature-8B5CF6?style=flat-square) | 🔴 `CLOSED` | May 28, 2026 |
-
-[View all issues raised by me](https://github.com/search?q=author%3Ashyam-medh%20type%3Aissue&type=issues)
-
-</details>
-
-<!-- ISSUES_END -->
-
----
-
-## 🔀 Pull Requests
-
-<div align="center">
-
-![PRs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Ashyam-medh%2Btype%3Apr&query=%24.total_count&label=Pull%20Requests&color=a78bfa&style=for-the-badge&logo=github)
-![Open PRs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Ashyam-medh%2Btype%3Apr%2Bstate%3Aopen&query=%24.total_count&label=Open&color=22c55e&style=for-the-badge)
-![Closed PRs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Ashyam-medh%2Btype%3Apr%2Bstate%3Aclosed&query=%24.total_count&label=Closed%2FMerged&color=e11d48&style=for-the-badge)
-
-</div>
-
-<!-- PRS_START -->
-> Last updated: **Oct 22, 2026 19:05 UTC** &nbsp;|&nbsp; Total: **20**
-
-<details>
-<summary><b>Pull Requests</b> · Total: <b>20</b> · Showing latest <b>10</b></summary>
-
-| # | Repository | Title | Labels | Status | Updated |
-|---|-----------|-------|--------|--------|---------|
-| [#1362](https://github.com/reframe-oss/reframe/pull/1362) | `reframe-oss/reframe` | [chore: add missing MIT LICENSE file (#1216)](https://github.com/reframe-oss/reframe/pull/1362) | ![gssoc'26](https://img.shields.io/badge/gssoc%2726-FF6B35?style=flat-square) ![level:beginner](https://img.shields.io/badge/level%3Abeginner-c362a1?style=flat-square) ![type:bug](https://img.shields.io/badge/type%3Abug-d73a4a?style=flat-square) | 🟢 `OPEN` | Aug 14, 2026 |
-| [#1249](https://github.com/reframe-oss/reframe/pull/1249) | `reframe-oss/reframe` | [feat: add multi-segment trimming (#1221)](https://github.com/reframe-oss/reframe/pull/1249) | ![gssoc'26](https://img.shields.io/badge/gssoc%2726-FF6B35?style=flat-square) ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-67e414?style=flat-square) ![type:bug](https://img.shields.io/badge/type%3Abug-d73a4a?style=flat-square) | 🔴 `CLOSED` | Aug 14, 2026 |
-| [#6](https://github.com/RajaniHarika/Digital-twin-Platform/pull/6) | `RajaniHarika/Digital-twin-Platform` | [feat(k8s): add Nginx Ingress with path-based routing (ap-...](https://github.com/RajaniHarika/Digital-twin-Platform/pull/6) |  | 🟣 `MERGED` | Jul 29, 2026 |
-| [#5](https://github.com/RajaniHarika/Digital-twin-Platform/pull/5) | `RajaniHarika/Digital-twin-Platform` | [feat(k8s): add Nginx Ingress with path-based routing (ap-...](https://github.com/RajaniHarika/Digital-twin-Platform/pull/5) |  | 🔴 `CLOSED` | Jul 28, 2026 |
-| [#3](https://github.com/RajaniHarika/Digital-twin-Platform/pull/3) | `RajaniHarika/Digital-twin-Platform` | [Feature/aws terraform](https://github.com/RajaniHarika/Digital-twin-Platform/pull/3) |  | 🟣 `MERGED` | Jul 28, 2026 |
-| [#4](https://github.com/RajaniHarika/Digital-twin-Platform/pull/4) | `RajaniHarika/Digital-twin-Platform` | [feat(k8s): added Kubernetes manifests for all microservic...](https://github.com/RajaniHarika/Digital-twin-Platform/pull/4) |  | 🟣 `MERGED` | Jul 28, 2026 |
-| [#1873](https://github.com/recodehive/recode-website/pull/1873) | `recodehive/recode-website` | [feat: optimize Dockerfile for production with multi-stage...](https://github.com/recodehive/recode-website/pull/1873) | ![enhancement](https://img.shields.io/badge/enhancement-a2eeef?style=flat-square) ![level 1](https://img.shields.io/badge/level%201-aaaaaa?style=flat-square) ![recode](https://img.shields.io/badge/recode-a99231?style=flat-square) | 🔴 `CLOSED` | Jul 08, 2026 |
-| [#2570](https://github.com/RatLoopz/sahidawa-india/pull/2570) | `RatLoopz/sahidawa-india` | [chore(ci): add docker build and prettier checks, format c...](https://github.com/RatLoopz/sahidawa-india/pull/2570) | ![level:advanced](https://img.shields.io/badge/level%3Aadvanced-DC2626?style=flat-square) ![quality:clean](https://img.shields.io/badge/quality%3Aclean-0284C7?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) | 🟣 `MERGED` | Jun 29, 2026 |
-| [#2733](https://github.com/RatLoopz/sahidawa-india/pull/2733) | `RatLoopz/sahidawa-india` | [perf(ci): implement turborepo caching via actions/cache (...](https://github.com/RatLoopz/sahidawa-india/pull/2733) | ![level:intermediate](https://img.shields.io/badge/level%3Aintermediate-D97706?style=flat-square) ![quality:clean](https://img.shields.io/badge/quality%3Aclean-0284C7?style=flat-square) ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) | 🟣 `MERGED` | Jun 29, 2026 |
-| [#2406](https://github.com/RatLoopz/sahidawa-india/pull/2406) | `RatLoopz/sahidawa-india` | [Speed up CI pipeline by caching build steps and enforce c...](https://github.com/RatLoopz/sahidawa-india/pull/2406) | ![gssoc:approved](https://img.shields.io/badge/gssoc%3Aapproved-0e8a16?style=flat-square) ![type:performance](https://img.shields.io/badge/type%3Aperformance-D97706?style=flat-square) ![type:devops](https://img.shields.io/badge/type%3Adevops-EA580C?style=flat-square) | 🔴 `CLOSED` | Jun 25, 2026 |
-
-[View all pull requests](https://github.com/search?q=author%3Ashyam-medh%20type%3Apr&type=pullrequests)
-
-</details>
-
-<!-- PRS_END -->
 
 ---
 
@@ -244,13 +173,24 @@ me.say_hi()
 
 <br/>
 
-| Focus Area                    | Description                                                                           |
-| ----------------------------- | ------------------------------------------------------------------------------------- |
-| 🤝 **Agile Collaboration**    | Contributed to live client projects using Agile methodology, collaborating with developers, testers, and stakeholders to deliver software solutions. |
-| 🚀 **End-to-End Lifecycle**   | Participated in requirement analysis, feature implementation, testing, and deployment activities across multiple development sprints. |
-| ⚙️ **Full-Stack Dev**         | Developed and maintained web applications using **Python, Django, JavaScript, HTML, and CSS**, ensuring functionality, scalability, and maintainability. |
-| 🔌 **API & Performance**      | Designed and integrated RESTful APIs, supported database operations, and contributed to application performance improvements. |
-| 🛠️ **Tools & Quality**        | Utilized **Git, JIRA, and SonarQube** for version control, sprint tracking, code reviews, and code quality analysis. |
+<table>
+<tr>
+<td>🤝 <b>Agile Collaboration</b></td>
+<td>Live client projects in Agile sprints — working with developers, testers & stakeholders</td>
+</tr>
+<tr>
+<td>⚙️ <b>Full-Stack Dev</b></td>
+<td>End-to-end web apps with <b>Python, Django, JavaScript, HTML & CSS</b></td>
+</tr>
+<tr>
+<td>🔌 <b>API & Performance</b></td>
+<td>Designed RESTful APIs, DB optimization, application performance improvements</td>
+</tr>
+<tr>
+<td>🛠️ <b>Tools & Quality</b></td>
+<td><b>Git, JIRA, SonarQube</b> — version control, sprint tracking, code quality</td>
+</tr>
+</table>
 
 ---
 
@@ -258,89 +198,112 @@ me.say_hi()
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### ☁️ Code-To-Cloud: Enterprise DevSecOps
 
-> **AWS & Terraform · Jun 2026** &nbsp; [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/shyam-medh/Code-To-Cloud)
+<a href="https://github.com/shyam-medh/Code-To-Cloud" target="_blank"><img src="https://img.shields.io/badge/AWS%20%7C%20Terraform-View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/shyam-medh/Code-To-Cloud" target="_blank"><img src="https://img.shields.io/badge/Security-Checkov%20%7C%20SonarQube%20%7C%20Trivy-blue?style=for-the-badge&logo=shield&logoColor=white"/></a>
+
+Production-grade, zero-trust DevSecOps pipeline with **immutable infrastructure** and **automated rolling deployments**.
 
 ```
 GitHub Push
-    ↓
-Jenkins (Checkov + SonarQube)
-    ↓
-Docker (Multi-stage + Trivy)
-    ↓
-AWS ASG Instance Refresh
-    ↓
-Zero-Downtime Deploy 🚀
+    ↓ Security Gate 1: Checkov (IaC Scan) + SonarQube (Static Analysis)
+    ↓ Security Gate 2: Docker Multi-Stage Build + Trivy Image CVE Scan
+    ↓ AWS ASG Instance Refresh (Zero-Downtime Rollout)
+    → Health-Checked Production Deployment 🚀
 ```
 
-- 🚀 **100% IaC** dual-VPC architecture using 7 **Terraform** modules
-- 🛡️ **3-Layer DevSecOps** pipeline with Checkov, SonarQube & Trivy
-- 🔄 **Zero-Downtime** rolling deployments via AWS **ASG** Instance Refreshes
-- 📦 **75% smaller** images utilizing **Docker** multi-stage builds
+✅ **100% IaC**: 7 modular Terraform components across dual-VPC architecture  
+✅ **3-Tier DevSecOps**: Comprehensive pre-merge policy checks & container vulnerability scans  
+✅ **Optimized Footprint**: 75% image size reduction using distroless multi-stage Docker builds  
+✅ **High Availability**: Zero-downtime rolling updates managed via AWS Auto Scaling Groups  
 
-`AWS` `Terraform` `Jenkins` `Docker` `DevSecOps`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔄 DevOps CI/CD Pipeline Automation
-
-> **Django App · Apr 2026** &nbsp; [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/shyam-medh/devops-1-django-app)
-
-```
-GitHub Push
-    ↓
-Jenkins Master (AWS EC2)
-    ↓
-Jenkins Agent → NPM + pip build
-    ↓
-Docker Multistage Build
-    ↓
-Django manage.py Tests ✅
-    ↓
-Docker Compose Deploy 🚀
-```
-
-- 🚀 **75%** reduction in deployment time
-- ✅ **99.9%** build success rate
-- 🔒 **95%** fewer config errors
-- 📦 Supports **50+ weekly builds**
-
-`AWS EC2` `Jenkins` `Docker` `CI/CD` `Django` `Linux`
+`AWS` `Terraform` `Jenkins` `Docker` `Checkov` `SonarQube` `Trivy` `DevSecOps`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
+
+### ☁️ Cloud-Native DevOps (EKS + Fargate)
+
+<a href="https://github.com/shyam-medh/cloud-native-devops-platform" target="_blank"><img src="https://img.shields.io/badge/EKS%20%7C%20Terraform-View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/shyam-medh/cloud-native-devops-platform" target="_blank"><img src="https://img.shields.io/badge/Observability-Prometheus%20%7C%20Grafana%20%7C%20Robusta-orange?style=for-the-badge&logo=prometheus&logoColor=white"/></a>
+
+Fully serverless container orchestration on AWS EKS Fargate with **GitOps CI/CD** and **AI-driven automated incident remediation**.
+
+```
+EKS Fargate Cluster (6 Modular Terraform Stacks)
+    ↓ Jenkins via Helm Charts → AWS ECR Private Registry
+    ↓ Full Observability: Prometheus Metrics + Grafana Dashboards
+    → Robusta AI SRE Agent (Automated CrashLoop & Anomaly Remediation) 🤖
+```
+
+✅ **Serverless Compute**: Fully managed AWS Fargate pods — eliminates node management overhead  
+✅ **Reproducible GitOps**: Helm-orchestrated Jenkins workflows stored version-controlled as code  
+✅ **AI-Assisted Operations**: Automated root-cause diagnostics and pod self-healing via Robusta AI  
+✅ **Enterprise Monitoring**: End-to-end telemetry with real-time alerting on cluster anomalies  
+
+`AWS EKS` `Fargate` `Terraform` `Helm` `Prometheus` `Grafana` `Robusta AI`
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
 
 ### 🎓 Role-Based Student Management System
 
-> **Java · Aug 2025** &nbsp; [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/shyam-medh/Library-Management-Sys)
+<a href="https://github.com/shyam-medh/Library-Management-Sys" target="_blank"><img src="https://img.shields.io/badge/Java%20%7C%20MySQL-View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/shyam-medh/Library-Management-Sys" target="_blank"><img src="https://img.shields.io/badge/Architecture-Real%20RBAC%20%7C%20HikariCP-success?style=for-the-badge&logo=java&logoColor=white"/></a>
+
+Enterprise-grade desktop management platform built with **strict RBAC permission gating** and high-throughput database connection pooling.
 
 ```
-Java Swing UI Layer
-    ↓
-RBAC Middleware
-(Admin / Faculty / Student)
-    ↓
-JDBC Connection Pool
-    ↓
-MySQL (Indexed + Normalized)
-500+ Student Records 🗄️
+Desktop Client UI (Swing / Java)
+    ↓ Authentication & RBAC Gate (Admin · Faculty · Student)
+    ↓ Optimized HikariCP Connection Pool → Indexed MySQL (3NF)
+    → ACID-Compliant Transactions & Tamper-Proof Audit Logs 🔒
 ```
 
-- ⚡ **40%** less manual labor
-- 🔒 **30%** fewer data-entry errors
-- 📊 Handles **500+** student records
-- 🛡️ Full RBAC + session security
+✅ **Granular Authorization**: 3 strictly isolated user roles with UI-level and query-level permission gates  
+✅ **Optimized Database Layer**: 500+ records in a 3NF normalized MySQL database with B-tree indexing  
+✅ **High Performance**: Connection pooling architecture to handle concurrent reads/writes with low latency  
+✅ **Measurable Impact**: 40% reduction in administrative processing time · 30% fewer data-entry discrepancies  
 
-`Java Swing` `JDBC` `MySQL` `RBAC`
+`Java Swing` `JDBC` `HikariCP` `MySQL` `RBAC` `Security`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 🤖 Stock Analysis Agent: AI Multi-Tool & RAG
+
+<a href="https://github.com/shyam-medh/Stock-Analysis-Agent" target="_blank"><img src="https://img.shields.io/badge/Python%20%7C%20Google%20ADK-View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/shyam-medh/Stock-Analysis-Agent" target="_blank"><img src="https://img.shields.io/badge/Agentic%20AI-RAG%20%7C%20FunctionTools-blueviolet?style=for-the-badge&logo=openai&logoColor=white"/></a>
+
+Autonomous financial intelligence agent built with **Google ADK**, **OpenRouter**, and **Alpha Vantage** — combining real-time retrieval-augmented generation (RAG) with agentic tool calling.
+
+```
+User Query (Natural Language Prompt)
+    ↓ Google ADK Agent (Autonomous Tool Selection & Planning)
+    ↓ Financial RAG: Real-Time Price Ingestion & Market News Search (Alpha Vantage)
+    → Multi-Model LLM Reasoning & Sentiment Synthesis (OpenRouter) 🤖
+```
+
+✅ **Agentic Workflow**: Autonomous multi-turn planning loop executing tools and synthesizing responses  
+✅ **5 Specialized FunctionTools**: Ticker discovery, live quotes, technical indicators, news, and sentiment  
+✅ **Real-Time Financial RAG**: Dynamic context retrieval injected directly into the LLM reasoning window  
+✅ **Multi-Model Orchestration**: Leverages OpenRouter to route complex queries across leading frontier models  
+
+`Python` `Google ADK` `Agentic AI` `RAG` `OpenRouter` `Alpha Vantage` `Pandas`
+
 </td>
 </tr>
 </table>
@@ -351,116 +314,58 @@ MySQL (Indexed + Normalized)
 
 <div align="center">
 
-|                                                     🎖️                                                      | Certification                                           |    Issuer    |   Date   |                                             Link                                              |
-| :---------------------------------------------------------------------------------------------------------: | ------------------------------------------------------- | :----------: | :------: | :-------------------------------------------------------------------------------------------: |
-| ![Azure](https://img.shields.io/badge/AZ--104-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Administrator Associate**  |  Microsoft   | May 2026 | [🔗](https://learn.microsoft.com/en-us/users/shyambaranwal-1125/credentials/86bf1679744cfc9f) |
-|  ![HackerRank](https://img.shields.io/badge/SWE-00EA64?style=flat-square&logo=hackerrank&logoColor=black)   | **Software Engineer Intern Certification**              |  HackerRank  | Mar 2026 |                  [🔗](https://www.hackerrank.com/certificates/1e81101b758b)                   |
-|      ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)       | **AWS Academy Graduate – Cloud Architecting**           |    Credly    | Jan 2026 |  [🔗](https://www.credly.com/badges/d6ea1d52-73c4-4fa6-b7a1-b598be85b4c7/linked_in_profile)   |
-|    ![AWS](https://img.shields.io/badge/Training-FF9900?style=flat-square&logo=amazonaws&logoColor=black)    | **6-Week AWS Cloud Computing Training**                 | GokBoru Tech | Jul 2025 |         [🔗](https://drive.google.com/file/d/1L3w9homI4UxIJAkaqI07-wkvVzWVYaTR/view)          |
-|  ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)  | **Prompt Engineering for ChatGPT** _(Vanderbilt Univ.)_ |   Coursera   | Oct 2024 |          [🔗](https://www.coursera.org/account/accomplishments/verify/EGSNQQXF8E64)           |
+| Badge | Certification | Issuer | Date | Link |
+|:---:|---|:---:|:---:|:---:|
+| ![AWS](https://img.shields.io/badge/SAA--C03-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | **AWS Certified Solutions Architect – Associate** | AWS | Sep 2026 | <a href="https://www.credly.com/badges/db62c0e9-857b-4ff7-8597-77122cfed45d/public_url" target="_blank">🔗 Credly</a> |
+| ![AWS](https://img.shields.io/badge/CLF--C02-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | **AWS Certified Cloud Practitioner** | AWS | Aug 2026 | <a href="https://www.credly.com/badges/beac4260-4f7a-4bd1-9706-7c00f828bd8e/public_url" target="_blank">🔗 Credly</a> |
+| ![Azure](https://img.shields.io/badge/AZ--104-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Administrator Associate** | Microsoft | May 2026 | <a href="https://learn.microsoft.com/en-us/users/shyambaranwal-1125/credentials/86bf1679744cfc9f" target="_blank">🔗 Microsoft</a> |
+| ![HackerRank](https://img.shields.io/badge/SWE-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | **Software Engineer Intern Certification** | HackerRank | Mar 2026 | <a href="https://www.hackerrank.com/certificates/1e81101b758b" target="_blank">🔗 HackerRank</a> |
 
 </div>
 
 ---
 
-## 🌟 Achievements
+## 🌟 Highlights
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  🌍  Big Code by Google '26 → TOP 1,500 out of 1,50,000+ globally    ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  💡  800+ Problems Solved  →  LeetCode · HackerRank · Codolio        ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  ⭐  HackerRank Ratings: 5-Star Java  ·  3-Star Python               ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+| 🏅 Achievement | 📊 Details |
+|---|---|
+| 🌍 **Big Code by Google '26** | TOP 1,500 of 1,50,000+ globally |
+| 🏆 **GSSoC '26** | Rank **#596 / 43,587** · Top 2% · 7,035 pts · 10 merged PRs |
+| 💡 **DSA** | 800+ solved on LeetCode · HackerRank · Codolio |
+| ⭐ **HackerRank** | 5-Star Java · 3-Star Python |
 
 </div>
-
-## 🌟 GSSoC '26
-
-<div align="center">
-
-<a href="https://gssoc.girlscript.org/profile/5fbedb80-8027-48e2-b0ae-26c9d96f735c">
-  <img src="https://img.shields.io/badge/GSSoC%2726-Contributor-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="GSSoC 26 Contributor"/>
-</a>
-<a href="https://gssoc.girlscript.org/profile/5fbedb80-8027-48e2-b0ae-26c9d96f735c">
-  <img src="https://img.shields.io/badge/Rank-%23636%20of%2047924-7C3AED?style=for-the-badge&logo=leaderboard&logoColor=white" alt="GSSoC Rank"/>
-</a>
-<a href="https://gssoc.girlscript.org/profile/5fbedb80-8027-48e2-b0ae-26c9d96f735c">
-  <img src="https://img.shields.io/badge/Points-7035-1FB6A6?style=for-the-badge&logo=starship&logoColor=white" alt="GSSoC Points"/>
-</a>
-
-</div>
-
-| Metric | Value |
-| ------ | ----- |
-| Role | **Contributor** |
-| Status | **Accepted** |
-| Track | **Open Source Track + AI / Agents Track** |
-| Total Points | **7,035** |
-| Global Rank | **#636 / 47,924** |
-| Merged PRs | **10** across **5** projects |
-| Bounty Tasks | **6** completed |
-
-<details>
-<summary><b>Point Distribution</b></summary>
-
-| Source | Points | Notes |
-| ------ | -----: | ----- |
-| Community Bounties | **850** | Follow X/Twitter, Follow Instagram, Share on LinkedIn, Subscribe to newsletter, AI idea submission, smartly_agent_tuning |
-| Merged Pull Requests | **1,175** | 10 scored PRs |
-| Profile, role, and program milestones | **5,010** | Selection/profile/program scoring from GSSoC |
-| **Total** | **7,035** | Current public profile score |
-
-</details>
-
-<details>
-<summary><b>Scored Pull Requests</b></summary>
-
-| Project | PR | Level | Points |
-| ------- | -- | ----- | -----: |
-| `ratloopz/sahidawa-india` | [perf(ci): implement turborepo caching via actions/cache (Closes #2403)](https://github.com/RatLoopz/sahidawa-india/pull/2733) | Intermediate · Clean | **122** |
-| `ratloopz/sahidawa-india` | [chore(ci): add docker build and prettier checks, format codebase (#2404)](https://github.com/RatLoopz/sahidawa-india/pull/2570) | Advanced · Clean | **141** |
-| `priyanshu5ingh/visualaize` | [Performance & API Optimization (Redis Prompt Caching & API Rate Limiting)](https://github.com/priyanshu5ingh/VISUALAIZE/pull/82) | Advanced | **120** |
-| `saptarshi-coder/easemotion-css` | [feat: add elastic toggle switch submission](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1583) | Intermediate | **95** |
-| `saptarshi-coder/easemotion-css` | [feat: add shape-shifting dynamic island fab menu](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1699) | Intermediate | **95** |
-| `saptarshi-coder/easemotion-css` | [feat: add ultimate 3D glitch text collection](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/1708) | Intermediate | **95** |
-| `jiyabatra/codevibe-` | [Feature/gamification](https://github.com/JiyaBatra/CODEVIBE-/pull/703) | Advanced · Clean | **126** |
-| `ratloopz/sahidawa-india` | [feat(devops): implement production-grade dockerization and nginx orchestration](https://github.com/RatLoopz/sahidawa-india/pull/803) | Advanced · Exceptional | **163** |
-| `suhani1234-5/tourease` | [feat(frontend): enhance language translation and UI accessibility](https://github.com/Suhani1234-5/TourEase/pull/300) | Intermediate | **85** |
-| `ratloopz/sahidawa-india` | [Feature/admin moderation](https://github.com/RatLoopz/sahidawa-india/pull/141) | Advanced · Exceptional | **133** |
-
-</details>
-
-<details>
-<summary><b>Earned Badges</b></summary>
-
-| Badge | Category | Unlock Criteria |
-| ----- | -------- | --------------- |
-| First Steps | Universal | Applied to GSSoC 2026 |
-| Early Bird | Universal | Applied in the first 48 hours |
-| Discord Verified | Universal | Connected Discord account |
-| Code Warrior | Roles | Accepted as Contributor |
-| Point Scorer | Points | 500+ points |
-| Rising Star | Points | 1,000+ points |
-| Power Contributor | Points | 2,500+ points |
-| Bounty Hunter | Bounty | First bounty task |
-| Bounty Master | Bounty | Bounty milestone completed |
-| Getting Started | Contributions | 5 PRs merged |
-
-</details>
-
-[View Official GSSoC Profile](https://gssoc.girlscript.org/profile/5fbedb80-8027-48e2-b0ae-26c9d96f735c)
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="./profile-3d-contrib/profile-night-rainbow.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg"/>
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</picture>
+
+<br/><br/>
+
+<a href="https://git.io/streak-stats" target="_blank"><img src="./output/streak.svg" width="55%"/></a>
+
+<br/><br/>
+
+[![Activity Graph](https://github-activity-graph.vercel.app/graph?username=shyam-medh&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=2d1b69&hide_border=true&custom_title=Contribution%20Timeline&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shyam-medh&theme=algolia&no-frame=true&row=2&column=4" />
+  <img src="https://github-trophies.vercel.app/?username=shyam-medh&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -469,15 +374,15 @@ MySQL (Indexed + Normalized)
 
 <div align="center">
 
-<a href="https://linkedin.com/in/shyambaranwal"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/shyambaranwal" target="_blank"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:baranwal07shyam@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:baranwal07shyam@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/shyam-medh"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/shyam-medh" target="_blank"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-> _"First, solve the problem. Then, write the code."_
+> *"First, solve the problem. Then, write the code."*
 
 <br/>
 

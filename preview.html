@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Dark Mode Markdown Preview</title>
+  <!-- GitHub Markdown Dark CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown-dark.min.css">
+  <!-- Marked.js for parsing Markdown -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    body {
+      box-sizing: border-box;
+      min-width: 200px;
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 45px;
+      background-color: #0d1117;
+    }
+
+    /* Rounded corners on ALL badge/shield images */
+    .markdown-body img[src*="shields.io"],
+    .markdown-body img[src*="img.shields.io"],
+    .markdown-body img[src*="komarev.com"] {
+      border-radius: 8px !important;
+    }
+
+    /* Rounded corners on skillicons, AWS, and Azure service icons */
+    .markdown-body img[src*="skillicons.dev"],
+    .markdown-body img[src*="awslabs"],
+    .markdown-body img[src*="azure-icons"],
+    .markdown-body img[src*="gilbarbara"],
+    .markdown-body img[src*="aquasecurity"],
+    .markdown-body img[src*="cncf"] {
+      border-radius: 12px !important;
+    }
+
+    /* Section banners - soft glow shadow */
+    .markdown-body img[src*="capsule-render"][src*="rect"] {
+      border-radius: 10px !important;
+      box-shadow: 0 0 20px rgba(124, 58, 237, 0.3);
+      margin: 12px 0 !important;
+    }
+
+    /* Table cells - rounded borders */
+    .markdown-body table td,
+    .markdown-body table th {
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body class="markdown-body">
+  <div id="content">Loading preview...</div>
+  <script>
+    let lastText = '';
+
+    function updatePreview() {
+      fetch('README.md?t=' + new Date().getTime())
+        .then(response => response.text())
+        .then(text => {
+          if(text !== lastText) {
+            lastText = text;
+            document.getElementById('content').innerHTML = marked.parse(text);
+          }
+        })
+        .catch(err => console.error('Error fetching README:', err));
+    }
+
+    // Initial load
+    updatePreview();
+
+    // Auto-reload every 1 second
+    setInterval(updatePreview, 1000);
+  </script>
+</body>
+</html>

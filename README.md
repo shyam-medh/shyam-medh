@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a0533,60:2d1b69,100:7c3aed&height=250&section=header&text=SHYAM%20BARANWAL&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=a78bfa&strokeWidth=2&desc=Python%20Developer%20%E2%80%A2%20DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect&descAlignY=68&descSize=17&descColor=c4b5fd"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a0533,60:2d1b69,100:7c3aed&height=250&section=header&text=SHYAM%20BARANWAL&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=a78bfa&strokeWidth=2&desc=Backend%20Developer%20%E2%80%A2%20DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect&descAlignY=68&descSize=17&descColor=c4b5fd"/>
 
 <a href="https://git.io/typing-svg" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%9A%80+Building+Scalable+Backend+Systems;%E2%9A%99%EF%B8%8F+Automating+Everything+with+CI%2FCD;%E2%98%81%EF%B8%8F+Cloud-Native+%7C+AWS+%26+Azure+Certified;%F0%9F%94%A5+800%2B+DSA+Problems+Solved;%F0%9F%8F%86+GSSoC+%2726+%E2%80%A2+Top+2%25+Globally;%E2%9C%A8+Always+Learning%2C+Always+Shipping" alt="Typing SVG" />

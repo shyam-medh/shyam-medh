@@ -62,10 +62,10 @@ I architect production-grade AWS pipelines with **Terraform**, **Kubernetes**, a
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
 
 ### Frameworks & Backend
-<img src="https://skillicons.dev/icons?i=django,spring&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,django&theme=dark" />
 
 ### DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,github,linux,nginx&theme=dark" />
